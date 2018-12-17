@@ -3,3 +3,5 @@ This repo shares the code of Model3 in paper "Personalized Course Prerequisite I
 train: regarding to section 5 'student grade prediction'
 prerequisite_evaluation: regarding to section 6 'prerequisite courses prediction'
 student_evaluation: regarding to section 7 'student goal-based course selection prediction'
+
+Any questions please feel free to contact jiangwj@berkeley.edu or zp@berkeley.edu.
