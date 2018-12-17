@@ -1,4 +1,4 @@
-This repo shares the code of Model3 in paper "Personalized Course Prerequisite Inference for Goal-basedRecommendation". (As Model1 and Model2 is has simpler RNN architecture and the evaluation code is almost the same.)
+This repo shares the code of Model3 in paper "Personalized Course Prerequisite Inference for Goal-basedRecommendation" by Weijie Jiang, Zachary A. Pardos, and Qiang Wei. Accepted by The 9th International Learning Analytics and Knowledge Conference. (As Model1 and Model2 is has simpler RNN architecture and the evaluation code is almost the same.)
 
 train: regarding to section 5 'student grade prediction'
 prerequisite_evaluation: regarding to section 6 'prerequisite courses prediction'
