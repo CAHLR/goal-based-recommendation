@@ -20,6 +20,7 @@ def empty(check):
 def get_data_from_condense_seq(t):  # t==22, subtraining and validation; t==25, training and testing
     f = open('../../RNN2/data_preprocess/stu_sem_major_grade_condense.pkl', 'rb')
     data = pickle.load(f)['stu_sem_major_grade_condense']
+    # data is a nested list, each row is a list: [{'major': major_id, 'grade': [course_id, grade_id]},{...},...{...}], each {} is for a semester.
     data = np.array(data)
     train = data[:, :t]
     vali = data[:, :t+1]
@@ -52,7 +53,8 @@ def get_data_from_condense_seq(t):  # t==22, subtraining and validation; t==25, 
 
 
 # padding
-# input: x(batch_size, sem_num, [course_id_t+1, course_id_grade_id], output: x(batch_size, sem_num, [course_id_grade_id]
+# input: each row: [{'major': major_id, 'grade': [course_id, grade_id]},{...},...{...}], each {} is for a semester. output: dim(batchsize, max_semester_number, dim_grade+dim_course+dim_major.
+ , output: x(batch_size, sem_num, [course_id_grade_id]
 def process_data(index, data, batchsize, dim_input_course, dim_input_grade, dim_input_major):
     batch = data[index]
     num_sem = np.zeros(batchsize, int)
