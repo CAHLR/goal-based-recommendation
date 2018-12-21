@@ -42,7 +42,7 @@ def train(model, optimizer, loader, train_data, epoch, weight1, weight2):
 
 def train_and_evaluate(model, train_data, vali_data, optimizer, weight1=torch.Tensor([1,1]).cuda(), weight2=torch.Tensor([1,1]).cuda(), weight3=torch.Tensor([1,1]).cuda(), weight4=torch.Tensor([1,1]).cuda(), tolerance=5):
 
-    best_vali_loss = 100  # set a large number for validation loss at first
+    best_vali_loss = None  # set a large number for validation loss at first
     best_vali_accu = 0
     epoch = 0
     training_loss_epoch = []
@@ -73,7 +73,10 @@ def train_and_evaluate(model, train_data, vali_data, optimizer, weight1=torch.Te
             print('The average loss of validation set for the first ' + str(epoch) + ' epochs: ' + str(testing_loss_epoch))
 
             # save best model so far
-            if evaluation_loss < best_vali_loss:
+            if best_vali_loss == None:
+                best_vali_loss = evaluation_loss
+                torch.save(model, model_name)
+            elif evaluation_loss < best_vali_loss:
                 best_vali_loss = evaluation_loss
                 torch.save(model, model_name)
 
