@@ -53,7 +53,7 @@ def get_data_from_condense_seq(t):  # t==22, subtraining and validation; t==25, 
 
 
 # padding
-# input: each row: [{'major': major_id, 'grade': [course_id, grade_id]},{...},...{...}], each {} is for a semester. output: dim(batchsize, max_semester_number, dim_grade+dim_course+dim_major.
+# input: each row: [{'major': major_id, 'grade': [course_id, grade_id]},{...},...{...}], each {} is for a semester. output: dim(batchsize, max_semester_number, dim_grade+dim_course+dim_major)
 def process_data(index, data, batchsize, dim_input_course, dim_input_grade, dim_input_major):
     batch = data[index]
     num_sem = np.zeros(batchsize, int)
