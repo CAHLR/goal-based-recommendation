@@ -18,14 +18,19 @@ This repo includes code for the three connected tasks in the paper, i.e., studen
 
 
 ### 1. Student Grade Prediction:
-In order to train the proposed LSTM grade prediction model, you should provide a student enrollment dataset in a preprocessed 2D python list with dimention `n×m`, where `n` is the number of students and `m` is the number of semesters covered in your dataset: <a href="https://www.codecogs.com/eqnedit.php?latex=[s_1,&space;s_2,&space;s_3,&space;...,&space;s_n]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?[s_1,&space;s_2,&space;s_3,&space;...,&space;s_n]" title="[s_1, s_2, s_3, ..., s_n]" /></a>, where $s_i=[t_{i1}, t_{i2}, ..., t_{im}]$, and $s_i$ denotes the preprocessed enrollment histories of the $i$-th student in your data (multiple semesters) and $t_{ik}$ represents the specific enrollment histories of the $i$-th student in the $k$-th semester. Note that the $k$-th semester of all the students refers to the same semester, for example, $m=3$, which means there are 3 semesters covered in your data: Fall 2019, Spring 2020, Summer 2020, then $t_{i2} (i=1,2,...,n)$ should contain enrollment histories of Spring 2020 for all students in your data. $t_{ik}=\{\}$ (empty) if the $i$-th student did not enroll in any course in semester $k$.
+In order to train the proposed LSTM grade prediction model, you should provide a student enrollment dataset in a preprocessed 2D python list with dimention `n×m`, where `n` is the number of students and `m` is the number of semesters covered in your dataset: <img src="https://latex.codecogs.com/gif.latex?[s_1,&space;s_2,&space;s_3,&space;...,&space;s_n]" title="[s_1, s_2, s_3, ..., s_n]" />
+, where <img src="https://latex.codecogs.com/gif.latex?s_i=[t_{i1},&space;t_{i2},&space;...,&space;t_{im}]" title="s_i=[t_{i1}, t_{i2}, ..., t_{im}]" />, and <img src="https://latex.codecogs.com/gif.latex?s_i" title="s_i" /> denotes the preprocessed enrollment histories of the i-th student in your data (multiple semesters) and <img src="https://latex.codecogs.com/gif.latex?t_{ik}" title="t_{ik}" /> represents the specific enrollment histories of the i-th student in the k-th semester. Note that the k-th semester of all the students refers to the same semester, for example, m=3, which means there are 3 semesters covered in your data: Fall 2019, Spring 2020, Summer 2020, then <img src="https://latex.codecogs.com/gif.latex?t_{i2}&space;(i=1,2,...,n)" title="t_{i2} (i=1,2,...,n)" /> should contain enrollment histories of Spring 2020 for all students in your data. <img src="https://latex.codecogs.com/gif.latex?t_{ik}=\{\}" title="t_{ik}=\{\}" /> (empty) if the i-th student did not enroll in any course in semester k.
 
-The format of $t_{ik}$-python dictionary:
-{'major': $m_{ik}$, 'grade': [[$c_{ik}^1, g_{ik}^1$],[$c_{ik}^2, g_{ik}^2$],...,[$c_{ik}^p, g_{ik}^p$]]},
- where $m_{ik}$ refers to the major ID of the $i$-th student's major in the $k$-th semester, [$c_{ik}^p, g_{ik}^p$] refers to the course ID and grade ID the $i$-th student received for the $p$-th course they enrolled in the $k$-th semester. 
+The format of <img src="https://latex.codecogs.com/gif.latex?t_{ik}" title="t_{ik}" /> is a python dictionary:
+
+{'major': <img src="https://latex.codecogs.com/gif.latex?m_{ik}" title="m_{ik}" />, 'grade': <img src="https://latex.codecogs.com/gif.latex?[[c_{ik}^1,&space;g_{ik}^1],[c_{ik}^2,&space;g_{ik}^2],...,[c_{ik}^p,&space;g_{ik}^p]]" title="[[c_{ik}^1, g_{ik}^1],[c_{ik}^2, g_{ik}^2],...,[c_{ik}^p, g_{ik}^p]]" />},
+
+ where <img src="https://latex.codecogs.com/gif.latex?m_{ik}" title="m_{ik}" /> refers to the major ID of the i-th student's major in the k-th semester, <img src="https://latex.codecogs.com/gif.latex?[c_{ik}^p,&space;g_{ik}^p]" title="[c_{ik}^p, g_{ik}^p]" /> refers to the course ID and grade ID the i-th student received for the p-th course they enrolled in the k-th semester. 
  
 * **command**
 	*  training: python train.py
 	*  evaluation: python evaluate.py
+	*  
+
 
 
