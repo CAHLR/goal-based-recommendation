@@ -1,0 +1,577 @@
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-A 	1AL Chemistry-A 	R1B English-A 	24 Integrative Biology-Credit 	1A Mathematics-A 	98 Music-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 Public Health-Credit 	116 Public Health-Credit 	3A Chemistry-A 	7A Physics-A 	1B Mathematics-A 	25 Spanish-A 	3AL Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-B 	53 Mathematics-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	1 Psychology-A 	100 Spanish-A 	7B Physics-B 	1B Biology-B 	sem 4: 	major: ['Letters & Sci Undeclared']: 	1A Biology-A 	131A Statistics-A 	1AL Biology-A 	3AC Sociology-A 	107B Spanish-A 	sem 5: 	major: ['Letters & Sci Undeclared']: 	102A Spanish-A 	sem 6: 	major: ['L&S Public Health']: 	150D Public Health-A 	133 Statistics-A 	161 Spanish-A 	102 Molecular & Cell Biology-C 
+label: 	['150A Public Health', '130 Geography', '54 Mathematics', '135 Spanish']
+predict: 	['113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '16B Mathematics', 'H54 Mathematics']
+correct: 	['54 Mathematics']
+
+sem 0: 	major: ['Materials Science & Eng']: 	1B Mathematics-B 	R1A Film-B 	1AL Chemistry-A 	3 Physical Education-Credit 	98 Engineering-Credit 	1A Chemistry-B 	sem 1: 	major: ['Materials Science & Eng']: 	7 Engineering-F 	7A Physics-C 	127AC History-C 	53 Mathematics-D 	3 Physical Education-A 	sem 2: 	major: ['Materials Science & Eng']: 	W7 Engineering-B 	R5B German-A 	sem 3: 	major: ['Materials Science & Eng']: 	98 Engineering-Credit 	2 Physical Education-A 	45 Engineering-C 	54 Mathematics-B 	C85 Mechanical Engineering-D 	4 Physical Education-A 	sem 4: 	major: ['Materials Science & Eng']: 	53 Mathematics-C 	120 Engineering-B 	7B Physics-C 	171 Industrial Eng & Ops Rsch-A 	sem 5: 	major: ['Materials Science & Eng']: 	100 Bioengineering-Credit 	7C Physics-C 	113 Materials Science & Eng-C 	102 Materials Science & Eng-D 	sem 6: 	major: ['Materials Science & Eng']: 	4 Physical Education-B 	103 Materials Science & Eng-B 	1B Chemistry-B 	96 Business Admin-Undergrad-A 	104 Materials Science & Eng-C 
+label: 	['123 Materials Science & Eng', '115 Engineering', '167 Civil & Environmental Eng', '130 Materials Science & Eng']
+predict: 	['133 Statistics', '16B Mathematics', 'H1B Mathematics', '191 Mathematics', 'C103 Mathematics', '1A Mathematics', '16A Mathematics', 'H110 Mathematics', '152 Mathematics', '114 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	N40AC Education-A 	R1AN English-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R1B Comparative Literature-B 	C70T Letters & Science-B 	1 Letters & Science-Credit 	1A Mathematics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	61A Computer Science-B 	98 Mathematics-Credit 	1B Mathematics-A 	C30V Letters & Science-Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	N100 History-Credit 	61BL Computer Science-B 	sem 4: 	major: ['Letters & Sci Undeclared']: 	61C Computer Science-C 	116 Public Health-Credit 	98 Public Health-Credit 	98 Computer Science-Credit 	54 Mathematics-A 	sem 5: 	major: ['Letters & Sci Undeclared']: 	53 Mathematics-B 	70 Computer Science-C 	94 Peace & Conflict Studies-Credit 	20 Electrical Engineering-C 	sem 6: 	major: ['L&S Computer Science']: 	113 Mathematics-B 	170 Computer Science-C 	110 Mathematics-C 	1 Physical Education-Credit 	198 Env Sci, Policy, & Mgmt-Credit 
+label: 	['20A Music', '10 Theater Dance & Perf Stds', '188 Computer Science', '1 Physical Education', '162 Computer Science']
+predict: 	['2 Statistics', '128A Mathematics', '133 Statistics', '16B Mathematics', 'H54 Mathematics', 'W21 Statistics', '121A Mathematics', '10B Mathematics', '121B Mathematics', '191 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	24 Anthropology-Credit 	54 Mathematics-B 	50 Film-A 	61A Computer Science-C 	sem 1: 	major: ['Letters & Sci Undeclared']: 	61BL Computer Science-C 	W111 African American Studies-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	70 Computer Science-D 	C26 Near Eastern Studies-A 	1A Mathematics-A 	61C Computer Science-D 	sem 3: 	major: ['Letters & Sci Undeclared']: 	97 Social Welfare-Credit 	61C Computer Science-B 	90B Religious Studies-A 	1B Mathematics-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	20A Music-A 	70 Computer Science-C 	sem 5: 	major: ['L&S Computer Science']: 	3AC Anthropology-C 	188 Computer Science-B 	179 Political Science-Credit 	161 Computer Science-No Credit 
+label: 	['186 Computer Science', '134 Statistics', '16A Electrical Engineering', '162 Computer Science']
+predict: 	['133 Statistics', '121B Mathematics', '128B Mathematics', '191 Mathematics', '118 Mathematics', '153 Mathematics', '160 Mathematics', '127 Mathematics', '151 Mathematics', '158 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	10 Computer Science-Credit 	10 Nutritional Science & Tox-A 	2AC Anthropology-A 	1A Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 Mechanical Engineering-Credit 	1B Mathematics-B 	10 Business Admin-Undergrad-B 	1AL Chemistry-A 	R1B History-A 	1A Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	197 Ethnic Studies-Credit 	1 Economics-A 	53 Mathematics-B 	1 Sociology-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	54 Mathematics-B 	12A Philosophy-Credit 	20 Statistics-C 	55 Mathematics-B 	301 Mathematics-Credit 	sem 4: 	major: ['Letters & Sci Undeclared']: 	107 Business Admin-Undergrad-A 	sem 5: 	major: ['Business Administration']: 	100 Business Admin-Undergrad-A 	103 Business Admin-Undergrad-B 	100B Economics-B 	102A Business Admin-Undergrad-B 
+label: 	['133 Business Admin-Undergrad', '137 Business Admin-Undergrad', '105 Business Admin-Undergrad', '26AC Music', '131 Business Admin-Undergrad']
+predict: 	['2 Statistics', '113 Mathematics', '128A Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics', '121A Mathematics', '10B Mathematics', 'H54 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	7A History-Credit 	27 Music-A 	20 Statistics-A 	1B Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	1 Economics-A 	94 Peace & Conflict Studies-Credit 	R1A French-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	98 Business Admin-Undergrad-Credit 	100B Economics-A 	121 Sociology-A 	186 Chinese-A 	44 Env Sci, Policy, & Mgmt-Credit 	98 Legal Studies-Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	R1B Theater Dance & Perf Stds-A 	100A Economics-A 	162 Economics-B 	3 Earth & Planetary Science-Credit 	C172 Business Admin-Undergrad-A 	sem 4: 	major: ['Economics']: 	1 Spanish-A 	C171 Economics-A 	140 Economics-A 
+label: 	['C8 Statistics', '54 Mathematics', '143 Environ Econ & Policy', '133 Statistics']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '20 Statistics', '54 Mathematics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['54 Mathematics', '133 Statistics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	134E Slavic Languages & Lit-A 	7A Physics-Credit 	61A Computer Science-A 	54 Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	W53 Mathematics-C 	70 Computer Science-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	98 Mechanical Engineering-Credit 	61B Computer Science-A 	98 Computer Science-Credit 	133 Statistics-A 	116 Public Health-Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	110 Mathematics-No Credit 	61C Computer Science-B 	11 Nutritional Science & Tox-A 	98 Mathematics-Credit 	sem 4: 	major: ['L&S Computer Science']: 	170 Computer Science-B 	197 Computer Science-Credit 	186 Computer Science-B 	1AX Korean-A 
+label: 	['10 Peace & Conflict Studies', '198 Sociology', '188 Computer Science', '162 Computer Science']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '54 Mathematics', '128A Mathematics', '55 Mathematics', '104 Mathematics', '16B Mathematics', 'H54 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Electrical Eng & Comp Sci']: 	61A Computer Science-B 	98 Engineering-Credit 	98 Statistics-Credit 	54 Mathematics-B 	7A Physics-B 	sem 1: 	major: ['Electrical Eng & Comp Sci']: 	157AC Engineering-A 	61B Computer Science-B 	R1B Comparative Literature-B 	7B Physics-A 	sem 2: 	major: ['Electrical Eng & Comp Sci']: 	70 Computer Science-A 	sem 3: 	major: ['Electrical Eng & Comp Sci']: 	10 Bioengineering-A 	61C Computer Science-B 	20 Electrical Engineering-A 	10 Nutritional Science & Tox-Credit 	sem 4: 	major: ['Electrical Eng & Comp Sci']: 	40 Electrical Engineering-A 	127 Electrical Engineering-B 	60 Env Sci, Policy, & Mgmt-Credit 	109 Near Eastern Studies-A 	197 Electrical Engineering-Credit 
+label: 	['137A Electrical Engineering', '160 Computer Science', '170 Computer Science']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '21 Statistics', '20 Statistics', '54 Mathematics', '55 Mathematics', '128A Mathematics', '110 Mathematics', '104 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	R5A South Asian-A 	1A Mathematics-B 	1A Chemistry-B 	17A Classics-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-A 	R5B South Asian-A 	C142 South Asian-B 	3A Chemistry-C 	3AL Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	54 Mathematics-C 	1B Biology-B 	3BL Chemistry-A 	3B Chemistry-C 	3AC Anthropology-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	53 Mathematics-C 	1A Biology-C 	1AL Biology-B 	8A Physics-B 	sem 4: 	major: ['Letters & Sci Undeclared']: 	134 Statistics-F 	108A Nutritional Science & Tox-C 	102 Molecular & Cell Biology-C 	8B Physics-C 
+label: 	['3 French', '104 Molecular & Cell Biology', '124 Classics', '140 Near Eastern Studies']
+predict: 	['133 Statistics', 'H54 Mathematics', 'W21 Statistics', '10B Mathematics', '121B Mathematics', '128B Mathematics', '191 Mathematics', '118 Mathematics', '16A Mathematics', '1A Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Electrical Eng & Comp Sci']: 	2AC Anthropology-A 	61A Computer Science-B 	54 Mathematics-A 	7A Physics-B 	sem 1: 	major: ['Electrical Eng & Comp Sci']: 	61B Computer Science-A 	1B Chinese-A 	7B Physics-A 	sem 2: 	major: ['Electrical Eng & Comp Sci']: 	70 Computer Science-A 	R5B German-A 	sem 3: 	major: ['Electrical Eng & Comp Sci']: 	20 Electrical Engineering-B 	61C Computer Science-B 	10A Chinese-A 	sem 4: 	major: ['Electrical Eng & Comp Sci']: 	170 Computer Science-A 	188 Computer Science-B 	10B Chinese-A 	sem 5: 	major: ['Electrical Eng & Comp Sci']: 	40 Electrical Engineering-B 	101A Economics-Credit 	168 Computer Science-A 	194 Computer Science-A 
+label: 	['162 Computer Science', '155 Chinese', '189 Computer Science']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '55 Mathematics', '110 Mathematics', '128A Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	61A Computer Science-A 	24 Integrative Biology-Credit 	54 Mathematics-B 	R4B College Writing Programs-A 	C12 Astronomy-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	70 Computer Science-A 	61B Computer Science-A 	2AC Anthropology-B 	10B Classics-Credit 	sem 2: 	major: ['L&S Computer Science']: 	40 Electrical Engineering-A 	1 Economics-B 	61C Computer Science-B 	10 Nutritional Science & Tox-Credit 	sem 3: 	major: ['L&S Computer Science']: 	188 Computer Science-A 	121 Letters & Science-Credit 	162 Computer Science-A 	97 Computer Science-Credit 	98 Chemistry-Credit 	sem 4: 	major: ['L&S Computer Science']: 	C100 Energy and Resources-Credit 	98 Mechanical Engineering-Credit 	168 Computer Science-A 	170 Computer Science-A 
+label: 	['C103 Public Policy', '161 Computer Science', '189 Computer Science', '96 Business Admin-Undergrad']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '55 Mathematics', '128A Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Summer Session Undeclared']: 	2 French-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Bioengineering-A 	1A Chemistry-A 	98 Molecular & Cell Biology-Credit 	1AL Chemistry-A 	24 Bioengineering-Credit 	R1B History of Art-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	7A Physics-A 	3A Chemistry-A 	98 Molecular & Cell Biology-Credit 	53 Mathematics-A 	W1 Psychology-A 	25 Bioengineering-Credit 	3AL Chemistry-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	7B Physics-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	C100A Molecular & Cell Biology-A 	61A Computer Science-A 	54 Mathematics-A 	301C Chemistry-Credit 
+label: 	['104 Bioengineering', '198 Molecular & Cell Biology', '70 Computer Science']
+predict: 	['113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics', '10B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Eng Math & Statistics']: 	32 Mathematics-A 	50 Chicano Studies-A 	sem 1: 	major: ['Eng Math & Statistics']: 	1A Mathematics-B 	R1A Rhetoric-B 	2AC Anthropology-A 	1AL Chemistry-A 	1A Chemistry-B 	sem 2: 	major: ['Eng Math & Statistics']: 	1B Mathematics-B 	7 Engineering-B 	55 Mathematics-C 	7A Physics-C 	sem 3: 	major: ['Eng Math & Statistics']: 	R1B Celtic Studies-B 	53 Mathematics-B 	sem 4: 	major: ['Eng Math & Statistics']: 	82 UGIS-UG Interdisc Studies-A 	7B Physics-C 	54 Mathematics-B 	45 Engineering-B 
+label: 	['7C Physics', '130 Education']
+predict: 	['2 Statistics', '113 Mathematics', '20 Statistics', '128A Mathematics', '110 Mathematics', '133 Statistics', '16B Mathematics', '121A Mathematics', 'H54 Mathematics', 'W21 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-A 	50AC Gender & Womens Studies-A 	2 Philosophy-B 	11 Nutritional Science & Tox-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1A Filipino-A 	175 Ethnic Studies-A 	1B Mathematics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	98BC Mathematics-Credit 	127AC History-A 	53 Mathematics-C 	55 Mathematics-C 	sem 3: 	major: ['Letters & Sci Undeclared']: 	110 Mathematics-C 	113 Mathematics-B 	198BC Env Sci, Policy, & Mgmt-Credit 	10 Geography-A 
+label: 	['1 Environmental Design', '198 Psychology', '128A Mathematics', '104 Mathematics']
+predict: 	['2 Statistics', '128A Mathematics', '133 Statistics', '16B Mathematics', 'H54 Mathematics', 'W21 Statistics', '121A Mathematics', '10B Mathematics', '121B Mathematics', '191 Mathematics']
+correct: 	['128A Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	144 Music-A 	1B Mathematics-A 	40 Theater Dance & Perf Stds-A 	49C Music-B 	98 College Writing Programs-Credit 	1 German-A 	sem 1: 	major: ['Music']: 	1 Psychology-B 	R2A Asian American Studies-A 	60 Music-A 	2 German-A 	2 Physical Education-Credit 	150B Music-B 	98 College Writing Programs-Credit 	53 Mathematics-B 	sem 2: 	major: ['Music']: 	54 Mathematics-B 	7B History-B 	sem 3: 	major: ['Music']: 	51 Music-A 	61 Music-A 	84 Rhetoric-Credit 	2 Physical Education-Credit 	110 Mathematics-Credit 	10 Media Studies-A 	150B Music-A 	3 German-A 
+label: 	['197 Music', 'W21 Statistics', '4 German', '3 Physical Education', 'R5B German', '96 Business Admin-Undergrad', '101A Economics', '2 Physical Education', '150B Music', '55 Mathematics']
+predict: 	['113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '55 Mathematics', '133 Statistics', '104 Mathematics', '16B Mathematics', '10B Mathematics', '121A Mathematics']
+correct: 	['55 Mathematics']
+
+sem 0: 	major: ['Electrical Eng & Comp Sci']: 	61A Computer Science-A 	35AC Integrative Biology-Credit 	54 Mathematics-A 	61B Computer Science-A 	sem 1: 	major: ['Electrical Eng & Comp Sci']: 	R1B Comparative Literature-A 	61C Computer Science-A 	20 Electrical Engineering-A 	7B Physics-A 	53 Mathematics-A 	sem 2: 	major: ['Electrical Eng & Comp Sci']: 	184 Computer Science-A 	195 Computer Science-Credit 	140 Psychology-Credit 	70 Computer Science-A 	20 Statistics-A 	40 Electrical Engineering-A 	sem 3: 	major: ['Electrical Eng & Comp Sci']: 	C103 Information-Credit 	105 Electrical Engineering-A 	134 Electrical Engineering-A 	162 Computer Science-A 	sem 4: 	major: ['Electrical Eng & Comp Sci']: 	10 Business Admin-Undergrad-B 	164 Computer Science-A 	30 History-Credit 	149 Electrical Eng & Computer Sci-A 	101A Business Admin-Undergrad-A 
+label: 	['195A Business Admin-Undergrad', '119 Business Admin-Undergrad', '103 Business Admin-Undergrad', '151LB Electrical Eng & Computer Sci', '151 Electrical Eng & Computer Sci']
+predict: 	['113 Mathematics', '2 Statistics', '54 Mathematics', '110 Mathematics', '55 Mathematics', '128A Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics', '10B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	R1A English-A 	141 Music-A 	1A Chemistry-A 	1A Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-A 	141 Music-A 	R1B Comparative Literature-A 	1AL Biology-A 	1A Biology-B 	7A Physics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	61A Computer Science-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	3AL Chemistry-A 	40C Letters & Science-A 	3A Chemistry-A 	1B Biology-A 	24 Bioengineering-Credit 	141 Music-A 	53 Mathematics-A 
+label: 	['7B Physics', '25 Bioengineering', '54 Mathematics', '3B Chemistry', 'C100A Molecular & Cell Biology', '3BL Chemistry', '141 Music']
+predict: 	['113 Mathematics', '2 Statistics', '20 Statistics', '54 Mathematics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '133 Statistics', '104 Mathematics', '16B Mathematics']
+correct: 	['54 Mathematics']
+
+sem 0: 	major: ['Chemical Engineering']: 	7B Physics-A 	102 Chinese-A 	53 Mathematics-A 	40 Chemical Engineering-A 	4A Chemistry-A 	sem 1: 	major: ['Chemical Engineering']: 	1AL Biology-A 	3AL Chemistry-A 	54 Mathematics-A 	1A Biology-A 	3A Chemistry-A 	sem 2: 	major: ['Chemical Engineering']: 	R5B German-A 	sem 3: 	major: ['Chemical Engineering']: 	103 Chemistry-A 	C130 Chemistry-A 	120A Chemistry-A 	R5A Scandinavian-A 
+label: 	['112B Chemistry', '130B Chemistry', '110 Molecular & Cell Biology', '150 Molecular & Cell Biology']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Molecular & Cell Biology-Credit 	R5A South Asian-A 	1A Chemistry-A 	1AL Chemistry-A 	1A Mathematics-A 	3AC Anthropology-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	20 Geography-A 	98 Molecular & Cell Biology-Credit 	1B Mathematics-A 	301C Chemistry-Credit 	1B Chemistry-A 	2 Psychology-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	2 Philosophy-A 	53 Mathematics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	55 Mathematics-A 	61A Computer Science-A 	54 Mathematics-A 	98BC Computational Biology-Credit 	112A Chemistry-A 
+label: 	['3BL Chemistry', '3B Chemistry', '8A Physics', '97 Computer Science', '140 Film']
+predict: 	['113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics', '10B Mathematics', '121A Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	54 Mathematics-B 	61A Computer Science-B 	25A Philosophy-B 	R1A Comparative Literature-A 	24 Political Economy-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	100AC History-A 	1 Economics-A 	C70U Letters & Science-A 	53 Mathematics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-A 	R1B History of Art-A 	sem 3: 	major: ['Applied Mathematics']: 	5 History-A 	7A History-A 	55 Mathematics-A 	110 Mathematics-B 
+label: 	['128A Mathematics', '164A History', '116G History']
+predict: 	['113 Mathematics', '2 Statistics', '54 Mathematics', '128A Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics', '10B Mathematics', 'H54 Mathematics', '135 Statistics']
+correct: 	['128A Mathematics']
+
+sem 0: 	major: ['Electrical Eng & Comp Sci']: 	54 Mathematics-A 	61A Computer Science-B 	7A Physics-B 	sem 1: 	major: ['Electrical Eng & Comp Sci']: 	53 Mathematics-B 	R1A Comparative Literature-A 	61B Computer Science-A 	70 Computer Science-A 	sem 2: 	major: ['Electrical Eng & Comp Sci']: 	61C Computer Science-B 	7B Physics-B 	170 Computer Science-B 	20A Asian American Studies-A 	sem 3: 	major: ['Electrical Eng & Comp Sci']: 	197 Computer Science-Credit 	188 Computer Science-B 	162 Computer Science-B 	R2B Asian American Studies-A 	20 Electrical Engineering-A 	sem 4: 	major: ['Electrical Eng & Comp Sci']: 	197 Computer Science-Credit 	40 Electrical Engineering-B 	159AC Ethnic Studies-B 	186 Computer Science-A 
+label: 	['160 Computer Science', '195 Computer Science', '176 Asian American Studies', '189 Computer Science', '144 Asian American Studies']
+predict: 	['113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '110 Mathematics', '55 Mathematics', '128A Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Business Admin-Undergrad-Credit 	20 Statistics-A 	6 Env Sci, Policy, & Mgmt-A 	1A Mathematics-A 	1B Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	24 Rhetoric-Credit 	2 Political Science-Credit 	1 Economics-B 	C142 South Asian-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	102A Business Admin-Undergrad-A 	R1A Near Eastern Studies-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	101A Economics-A 	98 African American Studies-Credit 	R1B Comparative Literature-A 	10 Business Admin-Undergrad-A 	53 Mathematics-Credit 	198 Business Admin-Undergrad-Credit 
+label: 	['198 Business Admin-Undergrad', '103 Business Admin-Undergrad', '160 History', '100B Economics']
+predict: 	['113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '54 Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1B Film-A 	16B Mathematics-A 	35 Classics-Credit 	4C Environmental Design-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	1 Economics-A 	10 Geography-A 	C12 Earth & Planetary Science-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	117A English-Credit 	94 Statistics-A 	61A Computer Science-A 	98 Computer Science-Credit 
+label: 	['54 Mathematics', '70 Computer Science', '53 Mathematics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '55 Mathematics', '54 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['53 Mathematics', '54 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	53 Mathematics-A 	H7A Physics-A 	R44 Classics-A 	C64 Psychology-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	54 Mathematics-A 	H7B Physics-A 	25B Philosophy-A 	5 Linguistics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	182 Economics-Credit 	136 Economics-A 	H7C Physics-A 	55 Mathematics-A 	110 Mathematics-B 
+label: 	['137A Physics', '136F Business Admin-Undergrad', '104 Mathematics', '113 Mathematics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics', 'H54 Mathematics', '10B Mathematics']
+correct: 	['113 Mathematics', '104 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	54 Mathematics-B 	131A Statistics-A 	94 Peace & Conflict Studies-Credit 	101B Economics-B 	sem 1: 	major: ['Economics']: 	N124B History-B 	110 Mathematics-A 	sem 2: 	major: ['Economics']: 	113 Mathematics-C 	70 Computer Science-B 
+label: 	['89A Statistics', '128A Mathematics', '10 Nutritional Science & Tox', '104 Mathematics']
+predict: 	['53 Mathematics', '2 Statistics', '128A Mathematics', '20 Statistics', '55 Mathematics', '54 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics', 'H54 Mathematics']
+correct: 	['128A Mathematics', '104 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-Credit 	98 Asian Studies-Credit 	53 Mathematics-B 	1A Japanese-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 Sociology-Credit 	104 Mathematics-F 	7A Physics-A 	54 Mathematics-C 	sem 2: 	major: ['Letters & Sci Undeclared']: 	55 Mathematics-A 	R5A German-A 	101A Economics-B 	20 Statistics-B 
+label: 	['R5B German', '134 Statistics', '104 Mathematics', '110 Mathematics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '128A Mathematics', '110 Mathematics', '133 Statistics', '16B Mathematics', 'H54 Mathematics', '121A Mathematics', 'W21 Statistics']
+correct: 	['110 Mathematics']
+
+sem 0: 	major: ['Electrical Eng & Comp Sci']: 	61A Computer Science-A 	98 Engineering-Credit 	53 Mathematics-A 	R1B Film-B 	sem 1: 	major: ['Electrical Eng & Comp Sci']: 	54 Mathematics-B 	7A Physics-A 	90B Religious Studies-Credit 	61B Computer Science-A 	sem 2: 	major: ['Electrical Eng & Comp Sci']: 	70 Computer Science-A 	188 Computer Science-A 	195 Computer Science-Credit 	16A Electrical Engineering-B 	7B Physics-A 
+label: 	['100 Linguistics', '170 Computer Science', '189 Computer Science', '1 Economics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-B 	1A Mathematics-A 	1AL Chemistry-A 	5 History-A 	24 Near Eastern Studies-A 	98 Mathematics-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1B Biology-A 	1 Economics-A 	R4B College Writing Programs-A 	1B Mathematics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	53 Mathematics-B 	100B Economics-A 	21 Statistics-A 	7A History-A 
+label: 	['10 Business Admin-Undergrad', '39L Slavic Languages & Lit', '54 Mathematics', '101A Economics']
+predict: 	['113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics']
+correct: 	['54 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	61A Computer Science-B 	98 Psychology-Credit 	54 Mathematics-B 	21 Statistics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 Electrical Engineering-Credit 	29 Music-A 	10 Business Admin-Undergrad-A 	61B Computer Science-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	97 Computer Science-Credit 	61C Computer Science-B 	70 Computer Science-B 	1 Economics-A 
+label: 	['170 Computer Science', '97 Computer Science', '107 Business Admin-Undergrad', '188 Computer Science', '198 Computer Science']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '55 Mathematics', '128A Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	54 Mathematics-B 	49B Music-A 	61A Computer Science-A 	150A Music-A 	49C Music-B 	141 Music-A 	sem 1: 	major: ['Music']: 	97 Computer Science-Credit 	141 Music-A 	R1B Philosophy-B 	61B Computer Science-A 	50 Music-A 	150A Music-A 	60 Music-A 	sem 2: 	major: ['Music']: 	61 Music-A 	197 Computer Science-Credit 	188 Computer Science-A 	51 Music-B 	50AC Env Sci, Policy, & Mgmt-Credit 	61C Computer Science-A 
+label: 	['120 Engineering', '16A Electrical Engineering', '195 Computer Science', '133 Statistics', '70 Computer Science']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '133 Statistics', '104 Mathematics']
+correct: 	['133 Statistics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	54 Mathematics-A 	90A Molecular & Cell Biology-A 	61A Computer Science-A 	3AC Sociology-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1 Anthropology-A 	50AC Env Sci, Policy, & Mgmt-A 	70 Computer Science-A 	61B Computer Science-A 	sem 2: 	major: ['L&S Computer Science']: 	27 Music-A 	170 Computer Science-A 	30 History-A 	61C Computer Science-A 	97 Computer Science-Credit 
+label: 	['160 History', '16A Electrical Engineering', '186 Computer Science', '188 Computer Science']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '55 Mathematics', '128A Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	3AC Sociology-B 	H7B Physics-B 	7A Physics-A 	98BC Physics-Credit 	54 Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	55 Mathematics-A 	R1B Film-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	H7C Physics-C 	C10 Astronomy-A 	61A Computer Science-B 	113 Mathematics-C 	C62 Molecular & Cell Biology-Credit 
+label: 	['105 Physics', '20A Music', '110 Mathematics']
+predict: 	['53 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '54 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics', 'W21 Statistics']
+correct: 	['110 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	10 Computer Science-A 	1 Economics-A 	1B Mathematics-B 	13 Art Practice-A 	3 Physical Education-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-B 	4 Physical Education-Credit 	101B Economics-B 	53 Mathematics-B 	C180U Letters & Science-A 	sem 2: 	major: ['Economics']: 	117 Env Sci, Policy, & Mgmt-A 	4 Physical Education-Credit 	197 Education-Credit 	R1B Theater Dance & Perf Stds-A 	54 Mathematics-B 	101A Economics-B 
+label: 	['141 Economics', '22 Letters & Science', '117AC Public Policy', '110 Mathematics', '97 Education']
+predict: 	['113 Mathematics', '2 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics', '10B Mathematics', '121A Mathematics']
+correct: 	['110 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-A 	1 Letters & Science-Credit 	R5A South Asian-B 	61A Computer Science-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	97 Computer Science-Credit 	98 English-Credit 	61B Computer Science-A 	54 Mathematics-A 	24 Materials Science & Eng-Credit 	R4B College Writing Programs-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	50AC Env Sci, Policy, & Mgmt-Credit 	70 Computer Science-B 	61C Computer Science-B 	10 Asian Studies-B 
+label: 	['32 Physical Education', '188 Computer Science', '170 Computer Science', '198 Computer Science']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1A Native American Studies-A 	10 Computer Science-A 	50AC Env Sci, Policy, & Mgmt-A 	54 Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-A 	61A Computer Science-A 	24 History-Credit 	53 Mathematics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	R1B History of Art-A 	70 Computer Science-A 	32 Physical Education-Credit 	61B Computer Science-A 
+label: 	['375 Computer Science', '1 Psychology', '170 Computer Science', '61C Computer Science', '188 Computer Science']
+predict: 	['113 Mathematics', '2 Statistics', '54 Mathematics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics', '10B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	3AC Anthropology-A 	1A Mathematics-A 	R1B English-A 	24 History-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	28 Classics-Credit 	1B Mathematics-B 	20 Statistics-A 	1 Economics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	53 Mathematics-B 	C32 Geography-A 	61A Computer Science-Credit 	100A Economics-A 
+label: 	['100B Economics', '55 Mathematics', '24 Gender & Womens Studies', '54 Mathematics']
+predict: 	['113 Mathematics', '2 Statistics', '54 Mathematics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics', '121A Mathematics']
+correct: 	['54 Mathematics', '55 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	61A Computer Science-A 	98BC Physics-Credit 	141 Music-A 	7A Physics-A 	C128 Buddhist Studies-A 	53 Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	54 Mathematics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	H7B Physics-A 	7A Astronomy-A 	C82 Geography-Credit 	1 French-A 	141 Music-A 
+label: 	['105 Physics', 'H7C Physics', '110 Mathematics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics']
+correct: 	['110 Mathematics']
+
+sem 0: 	major: ['Bioengineering']: 	24 Bioengineering-Credit 	7A Physics-A 	98 Engineering-Credit 	131B History-B 	53 Mathematics-A 	sem 1: 	major: ['Bioengineering']: 	54 Mathematics-A 	7B Physics-A 	R1B History-B 	7 Engineering-B 	sem 2: 	major: ['Bioengineering']: 	3AL Chemistry-A 	3A Chemistry-B 	100 Bioengineering-A 	10 Bioengineering-A 	45 Engineering-A 
+label: 	['1A Biology', '25 Bioengineering', '1AL Biology', '16A Electrical Engineering', '168A History']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	53 Mathematics-B 	2AC Anthropology-A 	R1B Comparative Literature-B 	61A Computer Science-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	61B Computer Science-D 	1 Anthropology-B 	55 Mathematics-B 	54 Mathematics-F 	sem 2: 	major: ['Letters & Sci Undeclared']: 	54 Mathematics-A 	20 Statistics-A 	61C Computer Science-B 	61B Computer Science-A 
+label: 	['170 Computer Science', '194 Business Admin-Undergrad', '179 Political Science', '110 Mathematics', '197 Computer Science', '134 Statistics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '128A Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics', 'H54 Mathematics', '121A Mathematics']
+correct: 	['110 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-B 	1AL Chemistry-A 	1A Chemistry-B 	1 Sociology-A 	11 Physical Education-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	11 Physical Education-Credit 	53 Mathematics-B 	7A Physics-B 	26AC Music-A 	R1A English-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	54 Mathematics-A 	10 Nutritional Science & Tox-Credit 	R1B Comparative Literature-B 	1 Economics-B 
+label: 	['50AC Env Sci, Policy, & Mgmt', '20 Statistics', '128A Mathematics', '11 Physical Education']
+predict: 	['113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics', '121A Mathematics']
+correct: 	['20 Statistics', '128A Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-A 	44 Env Sci, Policy, & Mgmt-Credit 	20 Statistics-B 	1 Sociology-B 	98 Asian American Studies-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1 Economics-A 	C70V Letters & Science-Credit 	1 French-A 	50AC Geography-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	R2B Asian American Studies-B 	116 Public Health-No Credit 	2 French-A 	100B Economics-A 
+label: 	['1B Mathematics', '100A Economics', '54 Mathematics', '122 Chinese']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '55 Mathematics', '54 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['54 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	15 Env Sci, Policy, & Mgmt-Credit 	R1B Rhetoric-A 	1 Physical Education-Credit 	32 Physical Education-A 	1A Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1 Physical Education-Credit 	36 Classics-Credit 	10 Theater Dance & Perf Stds-A 	1 Economics-A 	1B Mathematics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	2AC Anthropology-Credit 	100A Economics-A 	C26 Near Eastern Studies-A 	21 Statistics-A 
+label: 	['160 History', '54 Mathematics', '10 Business Admin-Undergrad', '101B Economics']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '20 Statistics', '128A Mathematics', '54 Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['54 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	44 Env Sci, Policy, & Mgmt-B 	7A Physics-A 	1A Mathematics-A 	2AC Anthropology-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R1A College Writing Programs-A 	2 Economics-B 	1B Mathematics-A 	H7B Physics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	53 Mathematics-A 	40 Italian Studies-A 	R5B Italian Studies-A 	54 Mathematics-B 	55 Mathematics-A 
+label: 	['162 Industrial Eng & Ops Rsch', '104 Mathematics', '110 Mathematics', '127 Sociology', '166 Industrial Eng & Ops Rsch']
+predict: 	['113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics', 'H54 Mathematics', '135 Statistics']
+correct: 	['110 Mathematics', '104 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	53 Mathematics-B 	98 Engineering-Credit 	160B Letters & Science-Credit 	2 Political Science-A 	1 Economics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	11A Persian-A 	54 Mathematics-A 	21 Statistics-A 
+label: 	['101A Economics', '55 Mathematics', '127AC History', 'R5B South Asian']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics']
+correct: 	['55 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	53 Mathematics-Credit 	61A Computer Science-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	61A Computer Science-No Credit 	54 Mathematics-B 	20 Statistics-C 
+label: 	['55 Mathematics', 'C8 Computer Science', '10B College Writing Programs']
+predict: 	['128A Mathematics', '133 Statistics', 'H54 Mathematics', '16B Mathematics', 'W21 Statistics', '121A Mathematics', '121B Mathematics', '191 Mathematics', '128B Mathematics', '151A Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	3AC Anthropology-A 	10 Nutritional Science & Tox-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	8A Physics-B 	98BC Mathematics-Credit 	53 Mathematics-C 	40C Letters & Science-B 
+label: 	['98 Cognitive Science', '1 Economics', '54 Mathematics', 'R1B Celtic Studies']
+predict: 	['2 Statistics', '113 Mathematics', '128A Mathematics', '110 Mathematics', '133 Statistics', '16B Mathematics', 'H54 Mathematics', 'W21 Statistics', '121A Mathematics', '10B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	25 Spanish-A 	R1B History of Art-A 	53 Mathematics-A 	C70V Letters & Science-A 	94 Peace & Conflict Studies-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	94 Peace & Conflict Studies-Credit 	25B Philosophy-A 	24 Integrative Biology-A 	54 Mathematics-A 	7A Physics-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	110 Mathematics-A 	94 Peace & Conflict Studies-Credit 	98BC Mathematics-Credit 	55 Mathematics-A 	102A Spanish-A 	C64 Molecular & Cell Biology-A 
+label: 	['98 Cognitive Science', '113 Mathematics', '61A Computer Science', '11 History of Art']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics', '10B Mathematics', 'H54 Mathematics']
+correct: 	['113 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	10 Nutritional Science & Tox-A 	1 Economics-B 	C10 Astronomy-A 	53 Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	55 Mathematics-A 	R5B Slavic Languages & Lit-B 	98 Statistics-Credit 	54 Mathematics-A 	179 Political Science-Credit 
+label: 	['136 Economics', '101A Economics', '110 Mathematics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics', '10B Mathematics']
+correct: 	['110 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	53 Mathematics-B 	1AL Chemistry-A 	141 Music-A 	98BC Mathematics-Credit 	1A Chemistry-Credit 	54 Mathematics-A 
+label: 	['20A Asian American Studies', '98BC Mathematics', '55 Mathematics', 'R5B Italian Studies', '20 Statistics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['20 Statistics', '55 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Engineering-Credit 	61A Computer Science-B 	98 Computer Science-Credit 	105 Economics-A 	54 Mathematics-A 
+label: 	['198 Computer Science', '133 Statistics', 'C8 Computer Science', '98 Education', '53 Mathematics', '88 Statistics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '54 Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['53 Mathematics', '133 Statistics']
+
+sem 0: 	major: ['Electrical Eng & Comp Sci']: 	124A History-Credit 	61A Computer Science-A 	16A Electrical Engineering-A 
+label: 	['10 Business Admin-Undergrad', '16B Electrical Engineering', '53 Mathematics']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '20 Statistics', '128A Mathematics', '54 Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['53 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	C62 Molecular & Cell Biology-B 	15 Env Sci, Policy, & Mgmt-Credit 	1A Mathematics-A 	20 Statistics-A 	98 Public Health-Credit 
+label: 	['53 Mathematics', 'R1A College Writing Programs', '2 Economics', '1B Mathematics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '54 Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['53 Mathematics']
+
+sem 0: 	major: ['Industrial Eng & Ops Rsch']: 	98BC Music-Credit 	53 Mathematics-A 	R1B Comparative Literature-B 	7B Physics-A 
+label: 	['182AC Education', 'C85 Mechanical Engineering', '7 Engineering', '54 Mathematics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['54 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1 Sociology-A 	R1B Comparative Literature-B 	16A Mathematics-A 	32 Physical Education-A 	98 Statistics-Credit 
+label: 	['16B Mathematics', '98 Sociology', 'W21 Statistics', '160B Letters & Science', '2AC Anthropology']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '128A Mathematics', '20 Statistics', '54 Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Mathematics-Credit 	1A Mathematics-A 	61A Computer Science-A 	94 Statistics-A 
+label: 	['1B Mathematics', '88 Statistics', '97 Computer Science', '88 Civil & Environmental Eng']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '54 Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	54 Mathematics-B 	98 Ethnic Studies-Credit 	61A Computer Science-B 	C10 Astronomy-Credit 
+label: 	['53 Mathematics', 'C8 Statistics', '98 Chemistry', '32 Integrative Biology']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '20 Statistics', '128A Mathematics', '54 Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['53 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1A French-A 	54 Mathematics-A 	98 Asian American Studies-Credit 	1 Physical Education-Credit 	20 Statistics-A 
+label: 	['133 Statistics', '26AC Music', '53 Mathematics', '40 Plant Biology']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '20 Statistics', '128A Mathematics', '54 Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['53 Mathematics', '133 Statistics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	18 Near Eastern Studies-A 	53 Mathematics-B 	4A Chemistry-B 	24 Near Eastern Studies-A 	7A Physics-B 
+label: 	['2 Psychology', '133 Statistics', '98W Chemistry', '4B Chemistry', 'R2A Asian American Studies', '10 Nutritional Science & Tox']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['133 Statistics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-C 	98 Engineering-Credit 	61A Computer Science-Credit 	7A Chinese-B 
+label: 	['54 Mathematics', '40 Plant Biology', '34 Classics', '53 Mathematics']
+predict: 	['113 Mathematics', '2 Statistics', '128A Mathematics', '20 Statistics', '110 Mathematics', '133 Statistics', '16B Mathematics', 'H54 Mathematics', 'W21 Statistics', '121A Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	7A Physics-A 	20 Statistics-A 	7A History-Credit 	1B Mathematics-A 
+label: 	['54 Mathematics', '10 Nutritional Science & Tox', '53 Mathematics', 'R2A Asian American Studies', '1 Economics']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '20 Statistics', '54 Mathematics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['53 Mathematics', '54 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	53 Mathematics-B 	10 Computer Science-A 	C10 Astronomy-Credit 	27 English-A 
+label: 	['97 Computer Science', '98BC Mathematics', 'R1B Film', '61A Computer Science', '54 Mathematics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '54 Mathematics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['54 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	40 Geography-A 	R1B Comparative Literature-B 	2AC Anthropology-A 	53 Mathematics-A 
+label: 	['28 Classics', '54 Mathematics', '1 Anthropology', '20 Geography']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['54 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1A Comparative Literature-A 	27 Music-A 	53 Mathematics-A 	21 Statistics-A 
+label: 	['98 Statistics', '98 Public Policy', '100B Economics', '10 Astronomy', '10 Business Admin-Undergrad', '133 Statistics']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['133 Statistics']
+
+sem 0: 	major: ['Eng Math & Statistics']: 	53 Mathematics-B 	61A Computer Science-B 	7A Physics-B 	105 Economics-A 
+label: 	['54 Mathematics', '1 Economics', '7B Physics', '2AC Anthropology']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['54 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1 Political Science-B 	C10 Astronomy-A 	1A Mathematics-A 	24 Slavic Languages & Lit-Credit 
+label: 	['1B Mathematics', '7A Physics', 'R1B Comparative Literature', '98 Astronomy', '28 Classics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '54 Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	20 Statistics-A 	1B Mathematics-A 	7A Chinese-Credit 
+label: 	['54 Mathematics', '10 Nutritional Science & Tox', '55 Mathematics', 'R1A English', '198 Asian American Studies']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '54 Mathematics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['54 Mathematics', '55 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	C10 Astronomy-A 	61A Computer Science-A 	1A Mathematics-A 	7A Physics-A 
+label: 	['53 Mathematics', '7B Physics', '1B Mathematics', '54 Mathematics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '54 Mathematics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['53 Mathematics', '54 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	61A Computer Science-A 	53 Mathematics-A 	C19 Psychology-B 	20A Music-A 	10 Geography-B 
+label: 	['47B Computer Science', '16A Electrical Engineering', '61C Computer Science', '54 Mathematics', '25A Music']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['54 Mathematics']
+
+sem 0: 	major: ['Engineering Undeclared']: 	98 Engineering-Credit 	7A Physics-B 	61A Computer Science-A 	92 Engineering-Credit 	54 Mathematics-A 
+label: 	['53 Mathematics', '195 Computer Science', '16A Electrical Engineering']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['53 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	61A Computer Science-Credit 	C82 Earth & Planetary Science-A 	1B Mathematics-A 	R1B Celtic Studies-A 
+label: 	['53 Mathematics', '2 Spanish', 'C8 Statistics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['53 Mathematics']
+
+sem 0: 	major: ['Engineering Physics']: 	53 Mathematics-A 	1A Chemistry-A 	3AC Anthropology-A 	1AL Chemistry-A 
+label: 	['54 Mathematics', 'R1B English', '61A Computer Science', '24 Psychology']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['54 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	5 Political Science-A 	20 Statistics-A 	1B Mathematics-A 	3AC Anthropology-A 
+label: 	['10 Astronomy', '53 Mathematics', '100B Economics', '54 Mathematics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '54 Mathematics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['53 Mathematics', '54 Mathematics']
+
+sem 0: 	major: ['Nuclear Engineering']: 	R1B French-A 	24 Nuclear Engineering-Credit 	54 Mathematics-A 	7A Physics-A 
+label: 	['53 Mathematics', '7B Physics', '98 Social Welfare', '61A Computer Science', '98 Education', '45 Engineering']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['53 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	54 Mathematics-A 	20 Statistics-A 	5 Political Science-A 	2 Env Sci, Policy, & Mgmt-A 
+label: 	['24 Physics', '39L Slavic Languages & Lit', '61A Computer Science', 'R1B History', '1 Sociology']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Electrical Engineering-Credit 	24 Civil & Environmental Eng-Credit 	54 Mathematics-B 	R5A Slavic Languages & Lit-B 	98 Engineering-Credit 	C10 Astronomy-Credit 	61A Computer Science-A 
+label: 	['88 Statistics', '32 Integrative Biology', '98 Chemistry', '198 Computer Science', '53 Mathematics', '198 Business Admin-Undergrad', 'C8 Statistics']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '20 Statistics', '128A Mathematics', '54 Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['53 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Mathematics-Credit 	10 Nutritional Science & Tox-A 	C10 Astronomy-Credit 	1 Economics-A 	1A Mathematics-A 
+label: 	['1 French', '1B Mathematics', 'C8 Statistics', '88 Statistics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '54 Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	C60U Letters & Science-A 	20 Statistics-A 	H53 Mathematics-B 	4 French-A 
+label: 	['R1B History', '2 Economics', '54 Mathematics', '102 French']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['54 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	61A Computer Science-A 	R1B Comparative Literature-B 	54 Mathematics-B 	C10 Astronomy-A 
+label: 	['133 Statistics', '53 Mathematics', '25AC Theater Dance & Perf Stds']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '20 Statistics', '128A Mathematics', '54 Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['53 Mathematics', '133 Statistics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	27 Music-A 	53 Mathematics-A 	20AC Asian American Studies-Credit 	R1A English-A 	4 Physical Education-Credit 
+label: 	['10 Astronomy', '1 Psychology', '20 Statistics', '198 Business Admin-Undergrad', '10 Business Admin-Undergrad']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '20 Statistics', '54 Mathematics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['20 Statistics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	6A History-A 	53 Mathematics-A 	90E Molecular & Cell Biology-Credit 	98 Molecular & Cell Biology-Credit 	31AC English-A 	20 Statistics-A 
+label: 	['54 Mathematics', '133 Statistics', '98 Spanish', '198 Asian American Studies', '24 Integrative Biology', '125 Letters & Science']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['54 Mathematics', '133 Statistics']
+
+sem 0: 	major: ['Engineering Undeclared']: 	61A Computer Science-B 	53 Mathematics-C 	4A Chemistry-C 	98 Engineering-Credit 	92 Engineering-Credit 
+label: 	['R1A Film', '100 Linguistics', '7A Physics']
+predict: 	['113 Mathematics', '2 Statistics', '128A Mathematics', '20 Statistics', '110 Mathematics', '133 Statistics', '16B Mathematics', 'H54 Mathematics', '121A Mathematics', 'W21 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Computer Science-Credit 	R5A German-A 	1A Mathematics-A 	61A Computer Science-B 	10 Business Admin-Undergrad-A 
+label: 	['W21 Statistics', '100B Economics', '54 Mathematics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['54 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	53 Mathematics-B 	24 Energy and Resources-Credit 	C10 Astronomy-A 	R1B Native American Studies-A 
+label: 	['178 Native American Studies', '61A Computer Science', '54 Mathematics', '24 Vision Science']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['54 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Political Science-Credit 	16A Mathematics-A 	C10 Astronomy-A 	2AC Anthropology-A 
+label: 	['1 Economics', '1B Mathematics', '10 Nutritional Science & Tox', '61A Computer Science']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '20 Statistics', '128A Mathematics', '54 Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	[]
+
+positive hit rate	0.6190476190476191
+sem 0: 	major: ['Chemistry']: 	4A Chemistry-C 	26AC Music-A 	1B Mathematics-C 	C96 Chemistry-Credit 	sem 1: 	major: ['Chemistry']: 	54 Mathematics-C 	7A Physics-C 	7 Engineering-C 	4B Chemistry-C 	sem 2: 	major: ['Chemistry']: 	53 Mathematics-C 	sem 3: 	major: ['Chemistry']: 	112A Chemistry-F 	140 Chemical Engineering-D 	7B Physics-C 	1 Psychology-B 	sem 4: 	major: ['Chemistry']: 	61A Computer Science-B 	143 Geography-C 	R5B Slavic Languages & Lit-B 	sem 5: 	major: ['Chemistry']: 	116 Public Health-Credit 	198 Public Health-Credit 	sem 6: 	major: ['Chemistry']: 	70 Computer Science-B 	1 Cognitive Science-A 	198 Mathematics-Credit 	61B Computer Science-B 	sem 7: 	major: ['Chemistry']: 	61C Computer Science-Credit 	sem 8: 	major: ['Applied Mathematics']: 	128A Mathematics-F 	196 Business Admin-Undergrad-B 	109 East Asian Languages-B 	113 Mathematics-F 
+label: 	['134 Statistics', '151 Peace & Conflict Studies']
+predict: 	['133 Statistics', '128B Mathematics', '121B Mathematics', '191 Mathematics', '118 Mathematics', '153 Mathematics', 'H185 Mathematics', '160 Mathematics', '152 Statistics', '114 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	10 Geography-A 	C70T Letters & Science-A 	98 Mathematics-Credit 	1B Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	54 Mathematics-C 	50 Film-A 	3AC Anthropology-A 	7A Physics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W53 Mathematics-A 	N82 Earth & Planetary Science-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	7A Astronomy-B 	7B Physics-B 	10A Classics-A 	98 Cognitive Science-Credit 	sem 4: 	major: ['Letters & Sci Undeclared']: 	179 Political Science-No Credit 	110A Physics-B 	7B Astronomy-B 	7C Physics-A 	sem 5: 	major: ['Astrophysics']: 	137A Physics-B 	8 Psychology-A 	sem 6: 	major: ['Astrophysics']: 	110B Physics-B 	C162 Earth & Planetary Science-B 	50 Earth & Planetary Science-B 	198 Architecture-No Credit 
+label: 	['70A Letters & Science', '198 Astronomy', 'C161 Astronomy', '2 Statistics']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '133 Statistics', '16B Mathematics', 'H54 Mathematics']
+correct: 	['2 Statistics']
+
+sem 0: 	major: ['Electrical Eng & Comp Sci']: 	61A Computer Science-C 	1A Mathematics-B 	98 Engineering-Credit 	98 Bioengineering-Credit 	2 Env Sci, Policy, & Mgmt-B 	sem 1: 	major: ['Electrical Eng & Comp Sci']: 	7A Physics-C 	1B Mathematics-B 	61B Computer Science-D 	R5A Slavic Languages & Lit-B 	sem 2: 	major: ['Electrical Eng & Comp Sci']: 	W53 Mathematics-A 	sem 3: 	major: ['Electrical Eng & Comp Sci']: 	167AC Psychology-B 	R1B Theater Dance & Perf Stds-B 	61B Computer Science-B 	195 Computer Science-Credit 	7B Physics-B 	sem 4: 	major: ['Electrical Eng & Comp Sci']: 	61C Computer Science-B 	40 Electrical Engineering-B 	97 Computer Science-Credit 	54 Mathematics-C 	sem 5: 	major: ['Electrical Eng & Comp Sci']: 	188 Computer Science-B 	C140 South Asian-A 	70 Computer Science-B 	20 Electrical Engineering-C 
+label: 	['189 Computer Science', '1 Economics', '170 Computer Science', '110 South Asian']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '133 Statistics', '16B Mathematics', 'H54 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	24 Linguistics-Credit 	10A Classics-A 	1A Mathematics-A 	5 Political Science-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	24 German-Credit 	R1B English-A 	1 Economics-A 	54 Mathematics-C 	55 Mathematics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	53 Mathematics-A 	8A Physics-A 	50AC Gender & Womens Studies-A 	20 Statistics-A 	sem 3: 	major: ['Mathematics']: 	110 Mathematics-F 	101B Economics-B 	10 Nutritional Science & Tox-B 	100 Latin-A 	sem 4: 	major: ['Mathematics']: 	104 Mathematics-C 	sem 5: 	major: ['Mathematics']: 	185 Mathematics-C 	1 Greek-A 	101 Latin-B 	113 Mathematics-B 
+label: 	['110 Mathematics', '172 Mathematics', '2 Greek', '115 Mathematics']
+predict: 	['2 Statistics', '128A Mathematics', '133 Statistics', '16B Mathematics', 'H54 Mathematics', '121A Mathematics', 'W21 Statistics', '10B Mathematics', '135 Statistics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	10 Astronomy-B 	H7A Physics-C 	98 Physics-Credit 	H1B Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R1B Comparative Literature-A 	53 Mathematics-B 	98 Astronomy-Credit 	H7B Physics-C 	sem 2: 	major: ['Letters & Sci Undeclared']: 	54 Mathematics-B 	7A Astronomy-B 	20A Music-A 	C50 East Asian Languages-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	42 Env Sci, Policy, & Mgmt-Credit 	26AC Music-A 	7B Astronomy-B 	7C Physics-B 	sem 4: 	major: ['Letters & Sci Undeclared']: 	10 Asian Studies-Credit 	C120 Buddhist Studies-Credit 	C162 Astronomy-A 	110A Physics-C 
+label: 	['C161 Physics', '133 Statistics', '1 Spanish', '1 Economics']
+predict: 	['2 Statistics', '113 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '133 Statistics', '16B Mathematics', '121A Mathematics', 'H54 Mathematics']
+correct: 	['133 Statistics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-A 	32 Molecular & Cell Biology-A 	98 Molecular & Cell Biology-Credit 	R1A College Writing Programs-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-B 	R4B College Writing Programs-B 	1B Mathematics-A 	1A Chemistry-C 	sem 2: 	major: ['Letters & Sci Undeclared']: 	117 Integrative Biology-B 	1AL Biology-C 	53 Mathematics-B 	54 Mathematics-B 	1A Biology-C 	sem 3: 	major: ['Letters & Sci Undeclared']: 	55 Mathematics-B 	3A Chemistry-C 	3AL Chemistry-A 	7B History-B 	sem 4: 	major: ['Applied Mathematics']: 	110 Mathematics-C 	126 Mathematics-C 	1 Physical Education-B 	98 Molecular & Cell Biology-Credit 	C70U Letters & Science-B 
+label: 	['C101 Letters & Science', '128A Mathematics', '113 Mathematics', '198BC Mathematics', '1 Physical Education', '179 Political Science']
+predict: 	['2 Statistics', '128A Mathematics', '133 Statistics', '16B Mathematics', 'H54 Mathematics', 'W21 Statistics', '121A Mathematics', '10B Mathematics', '191 Mathematics', '128B Mathematics']
+correct: 	['128A Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	21 Statistics-B 	16A Mathematics-B 	R1B Comparative Literature-A 	179 Political Science-Credit 	24 Political Economy-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	20B Asian American Studies-Credit 	C30X Letters & Science-Credit 	1 Economics-B 	98 Public Health-Credit 	116 Public Health-Credit 	C10 Astronomy-C 	24 Integrative Biology-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	128AC Asian American Studies-A 	101A Economics-C 	C82 Earth & Planetary Science-B 	55 Mathematics-D 	sem 3: 	major: ['Letters & Sci Undeclared']: 	152 Economics-Credit 	133 Statistics-B 	183 Education-B 	54 Mathematics-B 	sem 4: 	major: ['Letters & Sci Undeclared']: 	55 Mathematics-B 	C25 German-Credit 	182 Economics-Credit 	136 Economics-B 
+label: 	['115 Economics', '100B Economics', '128A Mathematics', '110 Mathematics']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '20 Statistics', '128A Mathematics', '110 Mathematics', '104 Mathematics', '16B Mathematics', '121A Mathematics', 'H54 Mathematics']
+correct: 	['128A Mathematics', '110 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	N31AC English-B 	21AC Ethnic Studies-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R1A College Writing Programs-B 	98 Asian Studies-Credit 	W1 Psychology-Credit 	1A Mathematics-B 	10 Business Admin-Undergrad-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	10 Computer Science-B 	1 Economics-D 	40 Plant Biology-B 	98 Asian Studies-Credit 	R2B Asian American Studies-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	1 Economics-C 	98 Asian Studies-Credit 	12A Philosophy-No Credit 	196 Business Admin-Undergrad-C 	21 Statistics-C 
+label: 	['101A Economics', '1B Mathematics', '98 Asian Studies', '54 Mathematics', '148 Music']
+predict: 	['133 Statistics', 'H54 Mathematics', '191 Mathematics', '121B Mathematics', '128B Mathematics', '118 Mathematics', 'H185 Mathematics', '153 Mathematics', '160 Mathematics', '152 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1A Chicano Studies-A 	98 English-Credit 	1A Mathematics-B 	C20 Earth & Planetary Science-B 	81B UGIS-UG Interdisc Studies-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 Nutritional Science & Tox-Credit 	80B UGIS-UG Interdisc Studies-Credit 	32 Physical Education-A 	1B Mathematics-A 	R5B German-A 	1 Economics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-B 	53 Mathematics-D 	54 Mathematics-C 	sem 3: 	major: ['Letters & Sci Undeclared']: 	55 Mathematics-F 	100A Economics-F 	131AC Education-B 	113 Mathematics-F 
+label: 	['53 Mathematics', '55 Mathematics']
+predict: 	['133 Statistics', '16B Mathematics', 'W53 Mathematics', '1A Mathematics', '16A Mathematics', '96 Mathematics', '154 Statistics', '12A Philosophy', '132AC Legal Studies', '1B Biology']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1 Economics-B 	C62 Molecular & Cell Biology-Credit 	94 Peace & Conflict Studies-Credit 	53 Mathematics-C 	10 Plant Biology-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-Credit 	1AL Chemistry-B 	1 Cognitive Science-B 	166AC Psychology-A 	61AS Computer Science-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	54 Mathematics-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	61AS Computer Science-B 	94 Statistics-No Credit 	39E Letters & Science-No Credit 	70 Computer Science-B 	61B Computer Science-B 
+label: 	['61C Computer Science', '100AC Gender & Womens Studies', '16A Electrical Engineering', '96 Business Admin-Undergrad', '198 Computer Science', '53 Mathematics']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '133 Statistics', '16B Mathematics', 'H54 Mathematics']
+correct: 	['53 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-B 	98 Mathematics-Credit 	R1A College Writing Programs-A 	1 Political Science-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1 Economics-B 	1B Mathematics-B 	C70U Letters & Science-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	R1B Linguistics-B 	53 Mathematics-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	54 Mathematics-C 	12 Landscape Arch & Env Plan-A 	20 Statistics-C 	101A Economics-C 
+label: 	['55 Mathematics', '90 Design Innovation', '116 Public Health', '101B Economics', '198 Public Health']
+predict: 	['2 Statistics', '133 Statistics', '16B Mathematics', 'W21 Statistics', 'H54 Mathematics', '121A Mathematics', '10B Mathematics', '121B Mathematics', '191 Mathematics', '128B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	53 Mathematics-C 	7A Physics-B 	10 Computer Science-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R1A College Writing Programs-B 	61A Computer Science-B 	10 Nutritional Science & Tox-Credit 	97 Computer Science-Credit 	W21 Statistics-F 	sem 2: 	major: ['Letters & Sci Undeclared']: 	61BL Computer Science-C 	R1B New Media-C 	sem 3: 	major: ['Letters & Sci Undeclared']: 	70 Computer Science-C 	39AC Business Admin-Undergrad-B 	61C Computer Science-D 	10 Asian Studies-Credit 
+label: 	['1 Economics', '20 Statistics', '110 Mathematics', '16A Electrical Engineering', '97 Computer Science']
+predict: 	['133 Statistics', '121B Mathematics', '128B Mathematics', '191 Mathematics', '118 Mathematics', '153 Mathematics', 'H185 Mathematics', '160 Mathematics', '152 Statistics', '127 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	7B History-B 	R5B South Asian-A 	179 Political Science-Credit 	1A Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-B 	10 Nutritional Science & Tox-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-C 	1 Economics-B 	116 Public Health-Credit 	R5A South Asian-A 
+label: 	['179 Political Science', '101B Economics', '54 Mathematics', '2 Psychology', '96 Business Admin-Undergrad']
+predict: 	['2 Statistics', '113 Mathematics', '128A Mathematics', '55 Mathematics', '54 Mathematics', '110 Mathematics', '133 Statistics', '16B Mathematics', 'H54 Mathematics', '121A Mathematics']
+correct: 	['54 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-A 	7A History-A 	98 Rhetoric-Credit 	1 Psychology-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-B 	98 Psychology-Credit 	135 Peace & Conflict Studies-A 	C10 Astronomy-B 	10 Business Admin-Undergrad-C 	10B Classics-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	53 Mathematics-C 	10 Nutritional Science & Tox-A 	198 Psychology-Credit 	190 Buddhist Studies-A 
+label: 	['134 Statistics', '101A Economics', '100 Peace & Conflict Studies', '54 Mathematics']
+predict: 	['2 Statistics', '128A Mathematics', '110 Mathematics', '133 Statistics', '16B Mathematics', 'H54 Mathematics', 'W21 Statistics', '121A Mathematics', '10B Mathematics', '191 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['CNR Undeclared']: 	R1A College Writing Programs-B 	1A Chemistry-B 	1AL Chemistry-A 	1A Mathematics-B 	98 Nutritional Science & Tox-Credit 	sem 1: 	major: ['CNR Undeclared']: 	1B Mathematics-B 	24 Civil & Environmental Eng-Credit 	1B Biology-C 	sem 2: 	major: ['CNR Undeclared']: 	R1B Film-B 	10 Computer Science-B 	7A Physics-C 
+label: 	['61A Computer Science', '2 Statistics', '53 Mathematics']
+predict: 	['133 Statistics', '16B Mathematics', 'H54 Mathematics', 'W21 Statistics', '121A Mathematics', '10B Mathematics', '191 Mathematics', '121B Mathematics', '128B Mathematics', '118 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	C62 Molecular & Cell Biology-A 	1 Economics-A 	10 Bioengineering-A 	61A Computer Science-C 	sem 1: 	major: ['Letters & Sci Undeclared']: 	61B Computer Science-F 	C10 Astronomy-A 	C61 Psychology-A 	20 Statistics-C 	97 Computer Science-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	98 Nutritional Science & Tox-Credit 	61B Computer Science-D 	10 Business Admin-Undergrad-A 	5 History-B 	54 Mathematics-C 
+label: 	['100A Economics', '53 Mathematics', 'C175 Economics', '102A Business Admin-Undergrad']
+predict: 	['2 Statistics', '133 Statistics', '16B Mathematics', '10B Mathematics', 'W21 Statistics', '121A Mathematics', 'H54 Mathematics', '121B Mathematics', '128B Mathematics', '191 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Chemical Biology']: 	137AC History-B 	1A Mathematics-A 	4A Chemistry-B 	24 German-Credit 	sem 1: 	major: ['Chemical Biology']: 	8A Physics-A 	1B Mathematics-A 	R1B Rhetoric-B 	1B Biology-A 	sem 2: 	major: ['Chemical Biology']: 	3AL Chemistry-A 	24 Bioengineering-Credit 	C121A Near Eastern Studies-A 	53 Mathematics-B 	7B Physics-B 	3A Chemistry-B 
+label: 	['116 Public Health', 'C100A Molecular & Cell Biology', '25 Bioengineering', '3B Chemistry', '7 Engineering', '54 Mathematics']
+predict: 	['113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics']
+correct: 	['54 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	W53 Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	54 Mathematics-C 	R5A South Asian-B 	61A Computer Science-B 	1 Economics-Credit 
+label: 	['70 Computer Science', '137AC History', '128A Mathematics']
+predict: 	['128A Mathematics', '110 Mathematics', '133 Statistics', 'H54 Mathematics', '16B Mathematics', 'W21 Statistics', '121A Mathematics', '10B Mathematics', '150 Statistics', '121B Mathematics']
+correct: 	['128A Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1 Economics-C 	1A Chemistry-C 	100AC History-C 	160 History-No Credit 	1AL Chemistry-C 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-C 	10A Classics-B 	100B Economics-C 
+label: 	['54 Mathematics', 'R1B Rhetoric', '53 Mathematics']
+predict: 	['191 Mathematics', '121B Mathematics', '128B Mathematics', '118 Mathematics', '153 Mathematics', '160 Mathematics', '127 Mathematics', '151 Mathematics', '157 Statistics', '132AC Legal Studies']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	N60AC Comparative Literature-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	198 Education-No Credit 	55 Mathematics-F 	160AC Anthropology-No Credit 	186AC Education-No Credit 
+label: 	['158C History', '179 Political Science', '55 Mathematics', '101A Economics']
+predict: 	['133 Statistics', '121B Mathematics', '191 Mathematics', '128B Mathematics', '118 Mathematics', '153 Mathematics', 'H185 Mathematics', '160 Mathematics', '127 Mathematics', '151 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-B 	113 Mathematics-A 	27AC African American Studies-Credit 	110 Mathematics-A 
+label: 	['160 Mathematics', '104 Mathematics', '135 Mathematics', '134 Statistics']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['104 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	35AC Integrative Biology-A 	24 Energy and Resources-A 	53 Mathematics-B 
+label: 	['134 Statistics', '109 Near Eastern Studies', '54 Mathematics', '1 Economics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['54 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	5 History-A 	54 Mathematics-B 	98BC Mathematics-Credit 	C10 Astronomy-A 
+label: 	['10 Nutritional Science & Tox', '55 Mathematics', '11 History of Art', '100AC History']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '20 Statistics', '128A Mathematics', '54 Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['55 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	94 Statistics-Credit 	98 Computer Science-Credit 	1A Mathematics-B 	61A Computer Science-B 
+label: 	['198 Computer Science', '54 Mathematics', 'R1A French']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '54 Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['54 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	55 Mathematics-C 	110 Mathematics-No Credit 	104 Mathematics-B 
+label: 	['127AC History', '198 Education', '128A Mathematics', '185 Mathematics']
+predict: 	['128A Mathematics', '20 Statistics', '133 Statistics', 'H54 Mathematics', '16B Mathematics', 'W21 Statistics', '121A Mathematics', '10B Mathematics', '150 Statistics', '121B Mathematics']
+correct: 	['128A Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1B English-B 	10A Mathematics-B 	32 Molecular & Cell Biology-C 	12 History-A 
+label: 	['179 Political Science', '7 Engineering', '1B Mathematics', '1 Economics']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '20 Statistics', '128A Mathematics', '54 Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-B 	55 Mathematics-A 	104 Mathematics-B 	1 Physical Education-Credit 
+label: 	['110 Mathematics', '128A Mathematics', '185 Mathematics', '115 Mathematics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '54 Mathematics', '20 Statistics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['128A Mathematics', '110 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	C3 Economics-A 	98 Public Policy-Credit 	21 Statistics-A 	20A Asian American Studies-A 	98 Asian Studies-Credit 
+label: 	['10 Nutritional Science & Tox', 'R1A College Writing Programs', '54 Mathematics', '100B Economics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '54 Mathematics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['54 Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	C12 Astronomy-B 	17A Classics-B 	7A Physics-C 	1 Letters & Science-Credit 
+label: 	['28 Classics', 'C10 Astronomy', '1A Chemistry']
+predict: 	['113 Mathematics', '2 Statistics', '20 Statistics', '128A Mathematics', '54 Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics', '16B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Mechanical Engineering-No Credit 	98 Engineering-Credit 	35 History of Art-No Credit 	61A Computer Science-A 	54 Mathematics-B 
+label: 	['190A Industrial Eng & Ops Rsch', 'R1B Film', '32 Integrative Biology', '70 Computer Science']
+predict: 	['53 Mathematics', '2 Statistics', '113 Mathematics', '20 Statistics', '128A Mathematics', '54 Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	198BC Mathematics-Credit 	198 English-Credit 	190 Public Policy-A 	21 Statistics-A 	100B Economics-B 
+label: 	['54 Mathematics', '133 Statistics', '198BC Music', '198 Statistics', '100A Economics']
+predict: 	['53 Mathematics', '113 Mathematics', '2 Statistics', '20 Statistics', '54 Mathematics', '128A Mathematics', '55 Mathematics', '110 Mathematics', '104 Mathematics', '133 Statistics']
+correct: 	['54 Mathematics', '133 Statistics']
+
+negative hit rate	0.5161290322580645
