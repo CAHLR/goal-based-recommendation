@@ -1,0 +1,832 @@
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Education-Credit 	C50 Buddhist Studies-A 	24 English-Credit 	98 Music-Credit 	20A Music-A 	C70V Letters & Science-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 Education-Credit 	25A Music-A 	98 Music-Credit 	C103 Public Policy-A 	61 Interdisciplinary Studies-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	177 Dutch-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	100A Interdisciplinary Studies-A 	R5A South & SE Asian Studies-A 	115 Global Poverty & Practice-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	100 Legal Studies-A 	61 Molecular & Cell Biology-A 	C100 Development Studies-A 	R1B History of Art-A 	sem 5: 	major: ['Interdisciplinary Studies']: 	183 Anthropology-A 	1B Biology-A 	159AC Geography-A 	150 International & Area Stds-A 	sem 6: 	major: ['Interdisciplinary Studies']: 	8A Physics-B 	104 Gender & Womens Studies-Credit 	1A Chemistry-A 	1AL Chemistry-A 	158AC International & Area Stds-A 	sem 7: 	major: ['Interdisciplinary Studies']: 	189 Interdisciplinary Studies-A 	sem 8: 	major: ['Interdisciplinary Studies']: 	98 Mathematics-Credit 	3A Chemistry-A 	16A Mathematics-A 	123 Geography-A 	3AL Chemistry-A 
+label: 	['105 Global Poverty & Practice', '3BL Chemistry', '1A Biology', '3B Chemistry', '1AL Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '3B Chemistry', '150 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', 'H7C Physics', '1AL Biology']
+correct: 	['1A Biology', '3B Chemistry', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	1A Mathematics-B 	C30T Letters & Science-A 	2 Physical Education-B 	C70T Letters & Science-B 	1A Chemistry-C 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1 Psychology-A 	3AC Anthropology-A 	3A Chemistry-C 	16B Mathematics-B 	97 Social Welfare-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	N3AL Chemistry-A 	1 Economics-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	1B Biology-B 	10 Business Admin-Undergrad-B 	125 Theater Dance & Perf Stds-B 	10A Southeast Asian-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	1B Mathematics-C 	20 Statistics-C 	3B Chemistry-C 	sem 5: 	major: ['Letters & Sci Undeclared']: 	1AL Biology-B 	1A Biology-C 	sem 6: 	major: ['Letters & Sci Undeclared']: 	10 Nutritional Science & Tox-A 	103 Nutritional Science & Tox-B 	8A Physics-B 	131 Integrative Biology-A 
+label: 	['8B Physics', '132 Integrative Biology', '132L Integrative Biology']
+predict: 	['C100A Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '104 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', 'C148 Molecular & Cell Biology', '132 Integrative Biology', '140 Molecular & Cell Biology', '150L Molecular & Cell Biology']
+correct: 	['8B Physics', '132 Integrative Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1A Rhetoric-B 	1AL Chemistry-A 	1 Psychology-B 	16A Mathematics-B 	1A Chemistry-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	8A Physics-A 	1A Mathematics-A 	98 Molecular & Cell Biology-Credit 	50AC Env Sci, Policy, & Mgmt-A 	1 Anthropology-A 	98 Mathematics-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-B 	R5B Italian Studies-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	8B Physics-Credit 	1 French-Credit 	3AL Chemistry-B 	1B Mathematics-B 	sem 4: 	major: ['Letters & Sci Undeclared']: 	198 Statistics-Credit 	134 Statistics-C 	98 Computer Science-Credit 	53 Mathematics-C 	61A Computer Science-Credit 	sem 5: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-C 	3BL Chemistry-B 	45 Music-A 	sem 6: 	major: ['Letters & Sci Undeclared']: 	8B Physics-A 	1A Biology-B 	1 Sociology-B 	1AL Biology-C 
+label: 	['169 Integrative Biology', '132 Integrative Biology', '198 Public Health', '116 Public Health', '10 Nutritional Science & Tox']
+predict: 	['C100A Molecular & Cell Biology', '150 Molecular & Cell Biology', '104 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '137B Physics', '1B Biology', 'C148 Molecular & Cell Biology', '140 Molecular & Cell Biology', '150L Molecular & Cell Biology']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-D 	1 Italian Studies-B 	40 Italian Studies-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	2 Italian Studies-B 	1A Chemistry-C 	1B Mathematics-C 	R1A College Writing Programs-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3 Italian Studies-B 	R1B Theater Dance & Perf Stds-B 	125 Scandinavian-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	4 Italian Studies-A 	55 Mathematics-No Credit 	1AL Chemistry-B 	54 Mathematics-C 	sem 4: 	major: ['Italian Studies']: 	101A Italian Studies-B 	1AL Biology-B 	160AC Env Sci, Policy, & Mgmt-B 	1A Biology-C 	53 Mathematics-B 	sem 5: 	major: ['Italian Studies']: 	55 Mathematics-B 	120 Italian Studies-A 	101B Italian Studies-B 	1B Biology-B 	sem 6: 	major: ['Italian Studies']: 	104 Italian Studies-B 	3A Chemistry-A 	3AL Chemistry-A 
+label: 	['3BL Chemistry', '8A Physics', '3B Chemistry', '117 Italian Studies']
+predict: 	['C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '3B Chemistry', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', 'H7C Physics', '137B Physics', '100B Molecular & Cell Biology']
+correct: 	['3B Chemistry']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	1A Chemistry-A 	16A Mathematics-A 	R1A Native American Studies-A 	1 Sociology-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-B 	10 Business Admin-Undergrad-A 	3A Chemistry-C 	116 Public Health-Credit 	R1B History of Art-A 	2 Psychology-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	N3AL Chemistry-A 	W21 Statistics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	98 Business Admin-Undergrad-Credit 	39AC Business Admin-Undergrad-A 	1B Biology-A 	157 Economics-B 	C5 Business Admin-Undergrad-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	1AL Biology-A 	1A Biology-B 	2 Economics-A 	98 Statistics-Credit 	96 Business Admin-Undergrad-A 	sem 5: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-Credit 	sem 6: 	major: ['L&S Public Health']: 	8A Physics-B 	142 Public Health-A 	150D Public Health-A 	131 Integrative Biology-B 
+label: 	['150A Public Health', '198 Civil & Environmental Eng', '150E Public Health', '132 Integrative Biology']
+predict: 	['C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', 'H7C Physics', '137B Physics', '100B Molecular & Cell Biology', 'C148 Molecular & Cell Biology']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1B English-B 	1A Mathematics-A 	2AC Anthropology-A 	27 Music-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 Env Sci, Policy, & Mgmt-Credit 	1AL Chemistry-A 	20A Asian American Studies-A 	1A Chemistry-B 	1B Mathematics-A 	40 Plant Biology-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-B 	2 Statistics-B 	160 Integrative Biology-A 	3AL Chemistry-A 	1B Biology-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	8A Physics-C 	3BL Chemistry-A 	12A Philosophy-Credit 	3B Chemistry-B 	sem 4: 	major: ['Letters & Sci Undeclared']: 	8B Physics-C 	sem 5: 	major: ['Letters & Sci Undeclared']: 	75 Scandinavian-A 	1AL Biology-B 	1A Biology-C 	117 Integrative Biology-B 
+label: 	['181L Integrative Biology', '113L Integrative Biology', '139 Music', '198 Env Sci, Policy, & Mgmt']
+predict: 	['150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '150L Molecular & Cell Biology', '132 Integrative Biology', '140 Integrative Biology', '125 Chemistry', '104LF Integrative Biology', '1B Chemistry', '120A Chemistry']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-A 	98 Public Health-Credit 	4 Physical Education-Credit 	98 Mathematics-Credit 	2 Psychology-A 	116 Public Health-Credit 	10 Nutritional Science & Tox-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	4 Physical Education-Credit 	1B Mathematics-A 	R4B College Writing Programs-A 	1AL Chemistry-A 	1A Chemistry-C 	sem 2: 	major: ['Letters & Sci Undeclared']: 	115 Global Poverty & Practice-B 	1B Biology-A 	198 Public Health-Credit 	55 Molecular & Cell Biology-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	10A College Writing Programs-A 	98 Public Health-Credit 	2 Spanish-A 	3AC Sociology-A 	2 Physical Education-Credit 	sem 4: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-A 	N3AL Chemistry-A 	sem 5: 	major: ['L&S Public Health']: 	142 Public Health-A 	150D Public Health-A 	3BL Chemistry-A 	3B Chemistry-A 	198 Public Health-Credit 	150B Public Health-A 
+label: 	['198 Public Health', '1AL Biology', '1 Physical Education', '150A Public Health', '1A Biology', '110 College Writing Programs']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '150 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '137B Physics', '1AL Biology', 'H7C Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Chemical Engineering']: 	40 Chemical Engineering-B 	R1A French-B 	4A Chemistry-C 	39D Legal Studies-B 	1B Mathematics-C 	sem 1: 	major: ['Chemical Engineering']: 	7A Physics-B 	142 Music-A 	98 Physics-Credit 	4B Chemistry-C 	7 Engineering-C 	sem 2: 	major: ['Chemical Engineering']: 	53 Mathematics-B 	7B Physics-C 	140 Chemical Engineering-B 	112A Chemistry-B 	sem 3: 	major: ['Chemical Engineering']: 	141 Chemical Engineering-B 	54 Mathematics-B 	127AC History-Credit 	1 Physical Education-A 	150A Chemical Engineering-C 	sem 4: 	major: ['Chemical Engineering']: 	1A Biology-C 	137A Physics-B 	sem 5: 	major: ['Chemical Engineering']: 	142 Chemical Engineering-B 	45 Engineering-B 	150B Chemical Engineering-B 	185 Chemical Engineering-B 
+label: 	['170A Chemical Engineering', 'C101 Letters & Science', '154 Chemical Engineering', '90 Chemical Engineering', '2 Spanish']
+predict: 	['C100A Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '104 Molecular & Cell Biology', '3A Chemistry', 'C114 Molecular & Cell Biology', '1AL Biology', '1A Chemistry', 'H7C Physics', '1B Biology']
+correct: 	[]
+
+sem 0: 	major: ['L&S Public Health']: 	32 Mathematics-B 	20 Chicano Studies-B 	sem 1: 	major: ['L&S Public Health']: 	R1A English-B 	98 Mathematics-Credit 	1A Mathematics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-B 	98 Mathematics-Credit 	1A Chemistry-Credit 	121 Letters & Science-Credit 	15 Molecular & Cell Biology-Credit 	10B Mathematics-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	97 Ethnic Studies-Credit 	1B Biology-B 	R5B Scandinavian-A 	8A Physics-B 	sem 4: 	major: ['Letters & Sci Undeclared']: 	198 Computer Science-Credit 	3A Chemistry-C 	8B Physics-C 	3AL Chemistry-A 	37 Geography-A 	sem 5: 	major: ['Letters & Sci Undeclared']: 	W1 Psychology-B 	3B Chemistry-C 
+label: 	['1AL Biology', '3AC Anthropology', '1A Biology', '3AC Sociology']
+predict: 	['35AC Integrative Biology', 'C112L Molecular & Cell Biology', '150L Molecular & Cell Biology', 'H7A Physics', '32 Molecular & Cell Biology', '141A Physics', '131L Integrative Biology', '158LF Integrative Biology', '113 Chemistry', '105 Chemistry']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	10 Computer Science-A 	28 Classics-A 	1B Mathematics-A 	98 Env Sci, Policy, & Mgmt-Credit 	98 Psychology-Credit 	1 Economics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1 Cognitive Science-A 	1B Biology-B 	C64 Molecular & Cell Biology-B 	61A Computer Science-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	C142 South Asian-A 	8A Physics-C 	R4B College Writing Programs-A 	1AL Chemistry-A 	1A Chemistry-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	8B Physics-B 	sem 4: 	major: ['Letters & Sci Undeclared']: 	1A Tamil-A 	1AL Biology-A 	3A Chemistry-B 	3AL Chemistry-A 	1A Biology-B 
+label: 	['3B Chemistry', '140 Integrative Biology', '3BL Chemistry', 'C143B Integrative Biology', '1B Tamil', '190 Design Innovation']
+predict: 	['C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '3B Chemistry', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', 'H7C Physics', 'C114 Molecular & Cell Biology', '137B Physics', '100B Molecular & Cell Biology', 'C148 Molecular & Cell Biology']
+correct: 	['3B Chemistry']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	96 Mathematics-A 	98 Mathematics-Credit 	14N Public Health-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	2 French-A 	98 Mathematics-Credit 	32 Mathematics-A 	1A Chemistry-B 	C96 Integrative Biology-Credit 	98 Chicano Studies-Credit 	1AL Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3AL Chemistry-A 	3A Chemistry-B 	98 Mathematics-Credit 	R1A Comparative Literature-B 	1 Physical Education-Credit 	1A Mathematics-A 	98 Chicano Studies-Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	R1B New Media-B 	1B Biology-B 	sem 4: 	major: ['Letters & Sci Undeclared']: 	35AC Integrative Biology-Credit 	3BL Chemistry-A 	1B Mathematics-B 	1 Physical Education-Credit 	3B Chemistry-B 
+label: 	['1AL Biology', '3 French', '1A Biology', '8A Physics']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '150 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '1AL Biology', '137B Physics', 'H7C Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Molecular & Cell Biology-Credit 	1AL Chemistry-A 	11A Persian-A 	1 Psychology-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	11B Persian-A 	1A Chemistry-A 	R1B English-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3AL Chemistry-A 	10 Nutritional Science & Tox-A 	98 Mathematics-Credit 	3AC Sociology-A 	3A Chemistry-A 	16A Mathematics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	14 Art Practice-A 	1B Biology-A 	16B Mathematics-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	150B Public Health-A 	116 Public Health-Credit 	3BL Chemistry-A 	20A Persian-A 	3B Chemistry-A 
+label: 	['1A Biology', '1AL Biology', '243C Public Health', '140 Near Eastern Studies', '150D Public Health']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '1AL Biology', '137B Physics', 'H7C Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	3AC Anthropology-A 	98 Public Health-Credit 	24 Bioengineering-Credit 	R1A Comparative Literature-A 	16A Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-A 	R1B Chicano Studies-A 	1AL Chemistry-A 	10 Nutritional Science & Tox-A 	1A Chemistry-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1B Biology-A 	32 Molecular & Cell Biology-A 	116 Public Health-Credit 	1 Psychology-A 	98 Public Health-Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	3AL Chemistry-A 	40 Italian Studies-A 	1 Sociology-A 	98 Ethnic Studies-Credit 	3A Chemistry-A 	sem 4: 	major: ['L&S Public Health']: 	98 Molecular & Cell Biology-Credit 	3B Chemistry-A 	135A Chicano Studies-A 	142 Public Health-A 	3BL Chemistry-A 
+label: 	['150D Public Health', '15 Molecular & Cell Biology', '1AL Biology', '1A Biology', '150A Public Health']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '150 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', 'H7C Physics', '1AL Biology', '137B Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Chemical Biology']: 	1A Chemistry-B 	1A Mathematics-A 	96 Chemistry-Credit 	R1B English-B 	24 Bioengineering-Credit 	1AL Chemistry-A 	sem 1: 	major: ['Chemical Biology']: 	8A Physics-B 	53 Mathematics-B 	50AC Env Sci, Policy, & Mgmt-B 	4B Chemistry-B 	98 Psychology-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-A 	3AL Chemistry-A 	8B Physics-A 	10A Classics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	1 Psychology-A 	3BL Chemistry-A 	98 Public Health-Credit 	3B Chemistry-A 	116 Public Health-Credit 	1B Biology-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	1AL Biology-A 	1A Biology-B 	sem 5: 	major: ['Letters & Sci Undeclared']: 	301B Chemistry-Credit 	181 Anthropology-B 	131L Integrative Biology-B 	164 Integrative Biology-A 	131 Integrative Biology-A 
+label: 	['140 Integrative Biology', '197 Education', '142 Public Health', '166 Integrative Biology', '29 Music']
+predict: 	['110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', 'H7C Physics', 'C114 Molecular & Cell Biology', '137B Physics', '100B Molecular & Cell Biology', '1A Chemistry', 'C148 Molecular & Cell Biology']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1 Psychology-A 	24 English-Credit 	C62 Molecular & Cell Biology-B 	24 Linguistics-Credit 	24 Integrative Biology-B 	3AC Anthropology-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1 Anthropology-A 	2 Political Science-A 	116 Public Health-Credit 	12 History-A 	50 Molecular & Cell Biology-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	98 Molecular & Cell Biology-Credit 	16A Mathematics-A 	1A Chemistry-A 	1B Biology-B 	R5A South Asian-A 	1AL Chemistry-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-B 	16B Mathematics-A 	C142 South Asian-A 	3AL Chemistry-A 	8A Physics-A 	sem 4: 	major: ['Psychology']: 	3BL Chemistry-A 	8B Physics-B 	C140 South Asian-A 	3B Chemistry-A 	140 Psychology-A 	167AC Psychology-A 
+label: 	['135 Psychology', 'C162 Psychology', '110 South Asian', '101 Psychology', '1AL Biology', '1A Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '150 Molecular & Cell Biology', '104 Molecular & Cell Biology', '137B Physics', '1AL Biology', '100B Molecular & Cell Biology', 'H7C Physics', '132 Integrative Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Nutritional Science']: 	R2B Asian American Studies-A 	1AL Chemistry-A 	1A Mathematics-A 	1A Chemistry-C 	35AC Integrative Biology-B 	sem 1: 	major: ['Nutritional Science']: 	98 Music-Credit 	3A Chemistry-B 	16B Mathematics-A 	11 Nutritional Science & Tox-A 	3AL Chemistry-A 	sem 2: 	major: ['Nutritional Science']: 	3BL Chemistry-A 	3 Psychology-Credit 	3B Chemistry-B 	sem 3: 	major: ['Nutritional Science']: 	10 Nutritional Science & Tox-A 	98 Philosophy-Credit 	32 Molecular & Cell Biology-A 	1 Economics-B 	32L Molecular & Cell Biology-A 
+label: 	['C8 Statistics', '1AL Biology', '88 Letters & Science', '1A Biology', '1 Psychology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '137B Physics', '1AL Biology', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-A 	98 Public Health-Credit 	25 Spanish-A 	1A Chemistry-B 	3AC Anthropology-A 	24 Integrative Biology-Credit 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	190 Asian American Studies-A 	1B Mathematics-B 	61A Computer Science-B 	3AL Chemistry-A 	3A Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1B Biology-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-A 	8A Physics-A 	3BL Chemistry-A 	115 Global Poverty & Practice-A 	97 Computer Science-Credit 
+label: 	['1AL Biology', 'R1B Theater Dance & Perf Stds', '150 Global Poverty & Practice', '1A Biology', '8B Physics']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'H7C Physics', 'C114 Molecular & Cell Biology', '1AL Biology', '137B Physics']
+correct: 	['1A Biology', '8B Physics', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-A 	1A Mathematics-A 	3AC Sociology-A 	24 Classics-Credit 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	29 Music-A 	40 Italian Studies-A 	1B Mathematics-A 	1B Biology-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	N3AL Chemistry-A 	3A Chemistry-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	3B Chemistry-A 	8A Physics-A 	R5A German-A 
+label: 	['8B Physics', '1A Biology', '301C Chemistry', '1AL Biology', 'R1B Music', '1 Psychology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'H7C Physics', 'C114 Molecular & Cell Biology', '1AL Biology', '1A Chemistry']
+correct: 	['1A Biology', '8B Physics', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	R4B College Writing Programs-A 	1A Chemistry-B 	1A Mathematics-B 	24 Integrative Biology-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-A 	3AL Chemistry-A 	10B Mathematics-B 	3AC Anthropology-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	3B Chemistry-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	8A Physics-A 	1AL Biology-B 	1A Biology-A 	12 Art Practice-A 	301B Chemistry-Credit 
+label: 	['100E History', '301B Chemistry', '8B Physics', 'C8 Computer Science', '1B Biology']
+predict: 	['110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'H7C Physics', 'C114 Molecular & Cell Biology', '137B Physics', 'C148 Molecular & Cell Biology', '100B Molecular & Cell Biology']
+correct: 	['8B Physics']
+
+sem 0: 	major: ['Molecular Environ Biology']: 	16A Mathematics-A 	24 African American Studies-Credit 	R1A Comparative Literature-B 	1AL Chemistry-A 	98 Mathematics-Credit 	1A Chemistry-C 	sem 1: 	major: ['Molecular Environ Biology']: 	3AL Chemistry-A 	3A Chemistry-A 	R1B Philosophy-B 	3AC Anthropology-A 	98 Molecular & Cell Biology-Credit 	1A Mathematics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W187 Interdisciplinary Studies-A 	196 International & Area Stds-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-A 	3B Chemistry-A 	98 Political Science-Credit 	3BL Chemistry-A 	27 Music-A 
+label: 	['2 Psychology', '8A Physics', '1A Biology', '1AL Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '1AL Biology', '137B Physics', '1B Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1B French-A 	1AL Chemistry-A 	98 German-Credit 	1A Mathematics-B 	24 Bioengineering-Credit 	98 Bioengineering-Credit 	1A Chemistry-C 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-B 	98 Computer Science-No Credit 	25 Bioengineering-Credit 	1B Mathematics-B 	61A Computer Science-Credit 	3AL Chemistry-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W53 Mathematics-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	98 Engineering-Credit 	54 Mathematics-C 	7A Physics-B 	1B Biology-C 	171 Industrial Eng & Ops Rsch-A 
+label: 	['1A Biology', '3BL Chemistry', '7B Physics', '1AL Biology', '3B Chemistry']
+predict: 	['150L Molecular & Cell Biology', '140 Integrative Biology', '160L Molecular & Cell Biology', '104LF Integrative Biology', '1B Chemistry', '3BL Chemistry', '105 Chemistry', '169 Integrative Biology', '141B Physics', '113L Integrative Biology']
+correct: 	['3BL Chemistry']
+
+sem 0: 	major: ['CNR Undeclared']: 	1AL Chemistry-A 	90A Religious Studies-A 	1A Chemistry-A 	20 Plant Biology-Credit 	1A Mathematics-A 	sem 1: 	major: ['CNR Undeclared']: 	3AL Chemistry-A 	R1B English-A 	131AC Sociology-Credit 	54 Mathematics-Credit 	3A Chemistry-B 	sem 2: 	major: ['CNR Undeclared']: 	197 Education-Credit 	1B Biology-A 	3BL Chemistry-A 	3B Chemistry-A 	18 Near Eastern Studies-A 	sem 3: 	major: ['Genetics & Plant Biology']: 	131A Statistics-A 	1AL Biology-A 	198 Physical Education-Credit 	197 Education-Credit 	1 German-A 	1A Biology-B 
+label: 	['3 German', 'C107L Plant Biology', '113 Plant Biology', '135 Plant Biology']
+predict: 	['132 Molecular & Cell Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '137 Integrative Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', 'C112 Molecular & Cell Biology', '136 Molecular & Cell Biology', '4A Chemistry', '8B Physics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-C 	1B Mathematics-C 	1AL Chemistry-B 	24 Integrative Biology-B 	R5B South & SE Asian Studies-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1B Biology-B 	3A Chemistry-C 	3AC Sociology-A 	3AL Chemistry-A 	1 Psychology-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	11AC Ethnic Studies-A 	1AL Biology-B 	15 Molecular & Cell Biology-A 	1A Biology-B 	14 Public Health-A 	sem 3: 	major: ['L&S Public Health']: 	150D Public Health-A 	3B Chemistry-B 	C155 Public Health-B 	142 Public Health-A 
+label: 	['150E Public Health', '150A Public Health', '101B Filipino', '102 Molecular & Cell Biology', '198 Ethnic Studies']
+predict: 	['C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '150 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '137B Physics', 'H7C Physics', '100B Molecular & Cell Biology', 'C148 Molecular & Cell Biology']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	61A Computer Science-A 	24 Earth & Planetary Science-Credit 	1A Chemistry-A 	C140V Letters & Science-Credit 	1B Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3AL Chemistry-A 	20A Music-A 	98BC Physics-Credit 	53 Mathematics-A 	3A Chemistry-A 	7A Physics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W61 Molecular & Cell Biology-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	89 Physics-A 	H7B Physics-A 	3BL Chemistry-A 	3B Chemistry-A 
+label: 	['1A Biology', '179 Anthropology', '1AL Biology', '50AC Env Sci, Policy, & Mgmt', 'H7C Physics']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '1A Chemistry', 'C148 Molecular & Cell Biology']
+correct: 	['1A Biology', 'H7C Physics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	1A Chemistry-C 	1A Mathematics-C 	R1A College Writing Programs-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 Public Health-Credit 	1 College Writing Programs-Credit 	1B Biology-D 	3A Chemistry-B 	98 African American Studies-Credit 	R4B College Writing Programs-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1B Biology-B 	N3AL Chemistry-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	3AC Anthropology-A 	3B Chemistry-A 	1A Biology-B 	1AL Biology-B 
+label: 	['8A Physics', '1 Sociology', 'W1 Psychology', '1B Mathematics']
+predict: 	['C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '137B Physics', 'H7C Physics', '100B Molecular & Cell Biology', '140 Molecular & Cell Biology']
+correct: 	[]
+
+sem 0: 	major: ['Nutritional Science']: 	98 Astronomy-Credit 	10 Nutritional Science & Tox-A 	R1A Comparative Literature-B 	1AL Chemistry-A 	1A Chemistry-C 	98 Physical Education-Credit 	sem 1: 	major: ['Nutritional Science']: 	R1B Film-A 	3A Chemistry-A 	132AC Asian American Studies-Credit 	98 Molecular & Cell Biology-Credit 	16A Mathematics-A 	sem 2: 	major: ['Nutritional Science']: 	N3AL Chemistry-A 	1B Biology-B 	sem 3: 	major: ['Nutritional Science']: 	3B Chemistry-B 	32 Molecular & Cell Biology-B 	16B Mathematics-B 	3BL Chemistry-A 	32L Molecular & Cell Biology-B 
+label: 	['1AL Biology', '1 Sociology', '196 Business Admin-Undergrad', '104 Nutritional Science & Tox', '1A Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '1AL Biology', '137B Physics', 'H7C Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-A 	1B Mathematics-B 	1 Sociology-A 	1AL Chemistry-A 	98 Psychology-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	97 Education-Credit 	3AL Chemistry-A 	1B Biology-B 	7B Korean-A 	1 Psychology-A 	3A Chemistry-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	53 Mathematics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	R5A German-A 	3B Chemistry-B 	3BL Chemistry-A 	116 Public Health-Credit 	8A Physics-B 	2 Physical Education-Credit 
+label: 	['1AL Biology', '124B History', '1A Biology', '8B Physics']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', '1AL Biology', 'H7C Physics', 'C114 Molecular & Cell Biology', '137B Physics']
+correct: 	['1A Biology', '8B Physics', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	C62 Molecular & Cell Biology-A 	98 Molecular & Cell Biology-Credit 	90B Molecular & Cell Biology-Credit 	1A Mathematics-A 	1A Chemistry-A 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3AC Sociology-B 	98 Public Health-Credit 	16B Mathematics-A 	116 Public Health-Credit 	10 Business Admin-Undergrad-A 	3A Chemistry-A 	3AL Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	3B Chemistry-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	8A Physics-A 	1AL Biology-A 	98 Public Health-Credit 	1A Biology-B 	1 Psychology-A 
+label: 	['1B Biology', '3AC Anthropology', '8B Physics', 'C61 Molecular & Cell Biology']
+predict: 	['110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '137B Physics', '100B Molecular & Cell Biology', 'C148 Molecular & Cell Biology']
+correct: 	['8B Physics']
+
+sem 0: 	major: ['Sustainable Environ Dsgn']: 	10 Nutritional Science & Tox-A 	3AC Anthropology-A 	1A Chemistry-B 	1AL Chemistry-A 	52AC Theater Dance & Perf Stds-A 	sem 1: 	major: ['Sustainable Environ Dsgn']: 	98 Psychology-Credit 	R1A College Writing Programs-B 	2 French-Credit 	3A Chemistry-A 	3AL Chemistry-A 	sem 2: 	major: ['Sustainable Environ Dsgn']: 	3BL Chemistry-A 	3B Chemistry-A 	sem 3: 	major: ['Sustainable Environ Dsgn']: 	1AL Biology-B 	1A Biology-B 	R1B Linguistics-A 	32 Molecular & Cell Biology-A 	98 Sociology-Credit 	32L Molecular & Cell Biology-B 	1 Physical Education-Credit 
+label: 	['C160 Public Health', '2 Statistics', '98 Integrative Biology', '1 Economics']
+predict: 	['C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '137B Physics', '100B Molecular & Cell Biology', 'H7C Physics', '1B Biology']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	7A Physics-A 	54 Mathematics-A 	1A Chemistry-A 	1AL Chemistry-A 	1 Political Science-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	61A Computer Science-A 	98 Economics-Credit 	53 Mathematics-A 	98 Computer Science-Credit 	7B Physics-A 	20 Electrical Engineering-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	40 Electrical Engineering-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	70 Computer Science-A 	R1A English-A 	3A Chemistry-A 	61B Computer Science-A 	1B Biology-A 	3AL Chemistry-A 
+label: 	['170 Computer Science', '375 Computer Science', '3BL Chemistry', '3B Chemistry', 'R1B English', '61C Computer Science', '1AL Biology', '1A Biology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '3B Chemistry', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'H7C Physics', '1A Chemistry', 'C114 Molecular & Cell Biology']
+correct: 	['1A Biology', '3B Chemistry']
+
+sem 0: 	major: ['Environmental Sciences']: 	16A Mathematics-C 	1A Chemistry-C 	12 Landscape Arch & Env Plan-A 	1AL Chemistry-A 	24 Env Sci, Policy, & Mgmt-Credit 	24 Comparative Literature-Credit 	sem 1: 	major: ['Environmental Sciences']: 	24 Rhetoric-Credit 	28 Classics-A 	3AL Chemistry-A 	3A Chemistry-A 	16B Mathematics-C 	sem 2: 	major: ['Environmental Sciences']: 	3BL Chemistry-A 	3B Chemistry-A 	sem 3: 	major: ['Environmental Sciences']: 	1 German-A 	50AC Env Sci, Policy, & Mgmt-A 	1A Biology-B 	1AL Biology-C 
+label: 	['112 Env Sci, Policy, & Mgmt', '1B Biology', '2 German']
+predict: 	['C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', '104 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '1B Biology', 'H7C Physics', '137B Physics', '150L Molecular & Cell Biology']
+correct: 	['1B Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1B Celtic Studies-A 	1AL Chemistry-B 	24 Near Eastern Studies-A 	10A Mathematics-B 	1A Chemistry-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	24 Integrative Biology-A 	98 Molecular & Cell Biology-Credit 	3A Chemistry-B 	C166 Religious Studies-A 	29 Music-A 	3AL Chemistry-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	3B Chemistry-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	1A Punjabi-A 	1B Biology-B 	8A Physics-A 	R5A South & SE Asian Studies-A 
+label: 	['1AL Biology', '10B Mathematics', '1A Biology', '1B Punjabi']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '1AL Biology', 'H7C Physics', '137B Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	100XA Chinese-A 	1A Chemistry-B 	98 Molecular & Cell Biology-Credit 	R1B Comparative Literature-B 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R1A Comparative Literature-A 	3A Chemistry-A 	1 Economics-B 	3AL Chemistry-A 	50 Film-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1B Biology-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	3AC Sociology-Credit 	3BL Chemistry-A 	8A Physics-A 	3B Chemistry-A 
+label: 	['1A Biology', '1AL Biology', '40 Plant Biology', '2 Psychology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '1AL Biology', '1A Chemistry']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-B 	98 Env Sci, Policy, & Mgmt-Credit 	3AL Chemistry-A 	24 Integrative Biology-Credit 	3A Chemistry-B 	R1B English-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	45 Music-A 	3BL Chemistry-A 	3B Chemistry-C 	sem 2: 	major: ['Letters & Sci Undeclared']: 	8A Physics-C 	198 Molecular & Cell Biology-Credit 	174AC Anthropology-A 	1B Biology-B 	1A Japanese-No Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	1AL Biology-C 	1A Biology-C 	8B Physics-C 	2 Statistics-Credit 
+label: 	['C156 Integrative Biology', '137 Integrative Biology', '198 UGIS-UG Interdisc Studies', '142 Env Sci, Policy, & Mgmt']
+predict: 	['35AC Integrative Biology', '150L Molecular & Cell Biology', 'H7A Physics', '32 Molecular & Cell Biology', '131L Integrative Biology', '158LF Integrative Biology', '129 Physics', 'C144 Integrative Biology', '15 Chemistry', 'C62 Molecular & Cell Biology']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1A Comparative Literature-A 	1A Chemistry-A 	18 Near Eastern Studies-A 	10A Mathematics-A 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R1B Comparative Literature-B 	3A Chemistry-A 	10B Mathematics-A 	98 Psychology-Credit 	3AL Chemistry-A 	1B Biology-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W1 Psychology-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	8A Physics-B 	3B Chemistry-A 	116 Public Health-Credit 	198 Public Health-Credit 	301C Chemistry-Credit 	5 Sociology-A 
+label: 	['3AC Anthropology', '1AL Biology', '1A Biology', '138 Integrative Biology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', '1AL Biology', 'H7C Physics', 'C114 Molecular & Cell Biology', '137B Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1B Biology-A 	24 Integrative Biology-Credit 	98 Public Health-Credit 	16A Mathematics-A 	R1A Comparative Literature-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-A 	3AC Anthropology-A 	16B Mathematics-A 	R5B South & SE Asian Studies-A 	1AL Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	N3AL Chemistry-A 	3A Chemistry-B 	3 Psychology-Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	301C Chemistry-Credit 	3BL Chemistry-A 	3B Chemistry-A 	1 Economics-B 	1 Psychology-Credit 
+label: 	['1 Physical Education', '8A Physics', '1A Biology', '1 Sociology', '1AL Biology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '137B Physics', 'C114 Molecular & Cell Biology', 'H7C Physics', '1AL Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Chemical Biology']: 	96 Chemistry-Credit 	52AC Theater Dance & Perf Stds-A 	4A Chemistry-B 	53 Mathematics-C 	sem 1: 	major: ['Chemical Biology']: 	10 Nutritional Science & Tox-A 	8A Physics-A 	3A Chemistry-A 	2 Psychology-A 	sem 2: 	major: ['Chemical Biology']: 	W187 Interdisciplinary Studies-Credit 	196 International & Area Stds-Credit 	sem 3: 	major: ['Chemical Biology']: 	3B Chemistry-B 	32L Molecular & Cell Biology-A 	32 Molecular & Cell Biology-A 	3AL Chemistry-A 	R5B Italian Studies-A 
+label: 	['3AC Sociology', '11 Nutritional Science & Tox', '1A Biology', '3BL Chemistry', '1AL Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '1A Chemistry', '137B Physics']
+correct: 	['1A Biology']
+
+sem 0: 	major: ['Chemistry']: 	1A Chemistry-B 	35AC Integrative Biology-Credit 	96 Chemistry-Credit 	1AL Chemistry-A 	1A Mathematics-B 	sem 1: 	major: ['Chemistry']: 	6B History-A 	R5B Scandinavian-A 	1B Biology-B 	3A Chemistry-A 	3AL Chemistry-A 	sem 2: 	major: ['Chemistry']: 	3B Chemistry-A 	10 Nutritional Science & Tox-A 	sem 3: 	major: ['Chemistry']: 	1A Biology-B 	1AL Biology-A 	27 Music-A 	C10 Astronomy-A 
+label: 	['112 Public Health', '1B Mathematics', '3BL Chemistry', 'C61 Molecular & Cell Biology']
+predict: 	['110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', '137B Physics', 'C114 Molecular & Cell Biology', 'H7C Physics', '100B Molecular & Cell Biology', 'C148 Molecular & Cell Biology']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-B 	90B Molecular & Cell Biology-Credit 	1A Mathematics-A 	2AC Anthropology-A 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-B 	1 Economics-B 	98 Environmental Design-Credit 	117B English-A 	1B Mathematics-A 	3AL Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	R5B Italian Studies-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	101B Economics-B 	3B Chemistry-B 	20 Statistics-C 
+label: 	['117S English', '100A Economics', '8A Physics', '115 Economics']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '1A Chemistry', '1B Biology']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	5 Political Science-A 	1A Mathematics-A 	R1B English-A 	98 Molecular & Cell Biology-Credit 	98 International & Area Stds-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 English-Credit 	1B Mathematics-A 	198 Molecular & Cell Biology-Credit 	R1B Rhetoric-A 	1AL Chemistry-A 	1A Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-B 	N3AL Chemistry-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-A 	10 Rhetoric-A 	3BL Chemistry-A 	8A Physics-A 	20 Statistics-A 
+label: 	['1A Biology', '1AL Biology', '20 Rhetoric', '8B Physics']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'H7C Physics', 'C114 Molecular & Cell Biology', '1AL Biology', '137B Physics']
+correct: 	['1A Biology', '8B Physics', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	179 Political Science-Credit 	2 Physical Education-Credit 	1A Mathematics-A 	98BC Physics-Credit 	40D Letters & Science-Credit 	24 Nuclear Engineering-A 	C62 Molecular & Cell Biology-B 	1AL Chemistry-A 	1A Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	W1 Psychology-B 	1B Mathematics-A 	3A Chemistry-B 	3AL Chemistry-A 	R1B English-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-B 	20A Music-A 	3BL Chemistry-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	1 Physical Education-Credit 	1A Biology-B 	8A Physics-B 	20B Music-A 	61A Computer Science-Credit 	1AL Biology-B 
+label: 	['1B Biology', '8B Physics', '26AC Music', '98BC Music']
+predict: 	['110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '137B Physics', '100B Molecular & Cell Biology', 'C148 Molecular & Cell Biology']
+correct: 	['8B Physics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Statistics-Credit 	98 Molecular & Cell Biology-Credit 	16B Mathematics-A 	1A Chemistry-B 	1 Psychology-A 	1 Anthropology-A 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	2 Spanish-A 	8B History-Credit 	1B Biology-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-A 	3AL Chemistry-A 	101 Psychology-A 	116 Public Health-Credit 	106 Scandinavian-A 	sem 3: 	major: ['Psychology']: 	1A Biology-B 	1AL Biology-A 
+label: 	['140 Psychology', '301C Chemistry', '3BL Chemistry', '3B Chemistry', '134 Psychology']
+predict: 	['132 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '3B Chemistry', '137 Integrative Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', 'C112 Molecular & Cell Biology', '4A Chemistry', '8B Physics']
+correct: 	['3B Chemistry']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	97 Social Welfare-Credit 	27 Music-A 	1A Chemistry-B 	98 Molecular & Cell Biology-Credit 	1AL Chemistry-A 	10A Mathematics-A 	16 Linguistics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3AL Chemistry-A 	3A Chemistry-B 	97 Social Welfare-Credit 	10B Mathematics-A 	R1B French-A 	98BC Architecture-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W1 Psychology-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	R1B Theater Dance & Perf Stds-A 	3B Chemistry-B 	1B Biology-A 	146 Philosophy-Credit 
+label: 	['128Z Music', '1 Sociology', '1A Biology', '1AL Biology', '8A Physics']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '1AL Biology', 'H7C Physics', '137B Physics', 'C114 Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-A 	1AL Chemistry-A 	R1A Comparative Literature-B 	94 Peace & Conflict Studies-Credit 	1A Chemistry-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R1B Comparative Literature-B 	C61 Molecular & Cell Biology-A 	1B Mathematics-A 	3AL Chemistry-A 	3A Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	3B Chemistry-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	301C Chemistry-Credit 	8A Physics-A 	27AC African American Studies-Credit 	C50 East Asian Languages-A 	1B Biology-A 
+label: 	['115 Tibetan', '1AL Biology', '301C Chemistry', '8B Physics', '1A Biology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'H7C Physics', 'C114 Molecular & Cell Biology', '1AL Biology', '137B Physics']
+correct: 	['1A Biology', '8B Physics', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	24 Integrative Biology-A 	98 Integrative Biology-Credit 	10A Mathematics-B 	98 Mathematics-Credit 	1A Chemistry-B 	1AL Chemistry-A 	146A French-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	100AC History-A 	3A Chemistry-A 	10B Mathematics-A 	98 Molecular & Cell Biology-Credit 	98 Mathematics-Credit 	3AL Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	116 Public Health-Credit 	3B Chemistry-A 	3BL Chemistry-A 	1B Biology-A 	98 Public Health-Credit 	118B French-A 
+label: 	['10 Optometry', '98 Energy and Resources', '1AL Biology', '4 Spanish', '1 Physical Education', '1A Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '137B Physics', '8B Physics', '1AL Biology', '100B Molecular & Cell Biology', 'C114 Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	26 English-B 	1A Chemistry-B 	1AL Chemistry-A 	10A Mathematics-B 	24 Rhetoric-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-C 	10B Mathematics-B 	2 Political Science-A 	3AL Chemistry-A 	3AC Anthropology-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-B 	71 Native American Studies-A 	8A Physics-B 	R1A Theater Dance & Perf Stds-A 	3BL Chemistry-A 
+label: 	['50AC Env Sci, Policy, & Mgmt', '1AL Biology', '8B Physics', '1A Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '137B Physics', '1AL Biology', 'H7C Physics']
+correct: 	['1A Biology', '8B Physics', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	10A Mathematics-B 	98 Statistics-Credit 	1A Chemistry-B 	R1A French-B 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 Philosophy-Credit 	98 Integrative Biology-Credit 	10B Mathematics-B 	3A Chemistry-B 	3AL Chemistry-A 	26AC Music-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	10 Nutritional Science & Tox-A 	3B Chemistry-A 	115 Global Poverty & Practice-A 	1B Biology-A 
+label: 	['10 Business Admin-Undergrad', '1A Biology', '1AL Biology', '198 Public Health', '8A Physics']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '137B Physics', '1AL Biology', 'C114 Molecular & Cell Biology', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-B 	1A Chemistry-B 	1AL Chemistry-A 	1 Psychology-A 	98 Molecular & Cell Biology-Credit 	90A Molecular & Cell Biology-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R1B Comparative Literature-B 	15 Molecular & Cell Biology-A 	3A Chemistry-A 	3AL Chemistry-A 	1B Biology-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	C96 Plant Biology-Credit 	115 Global Poverty & Practice-A 	116 Public Health-Credit 	3B Chemistry-A 	3BL Chemistry-A 	8A Physics-B 	98 Public Health-Credit 
+label: 	['105 Global Poverty & Practice', '1AL Biology', '8B Physics', '1A Biology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', '1AL Biology', 'C114 Molecular & Cell Biology', '137B Physics', 'H7C Physics']
+correct: 	['1A Biology', '8B Physics', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-A 	1AL Chemistry-A 	R1B History-A 	10A Mathematics-A 	10 Bioengineering-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1B Biology-A 	50 Slavic Languages & Lit-A 	24 Integrative Biology-A 	10B Mathematics-A 	3A Chemistry-A 	3AL Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	17A Classics-A 	1 Psychology-B 	8A Physics-B 	3B Chemistry-B 	3BL Chemistry-A 	84 Astronomy-Credit 
+label: 	['1AL Biology', '8B Physics', '1A Biology', '25 Letters & Science', 'C188C History']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'H7C Physics', 'C114 Molecular & Cell Biology', '1AL Biology', '137B Physics']
+correct: 	['1A Biology', '8B Physics', '1AL Biology']
+
+sem 0: 	major: ['Nutritional Science']: 	98 Integrative Biology-Credit 	1AL Chemistry-A 	98 Asian American Studies-Credit 	R5A German-A 	1A Chemistry-A 	10A Mathematics-A 	sem 1: 	major: ['Nutritional Science']: 	16B Mathematics-A 	3A Chemistry-B 	3AC Sociology-A 	98 Asian American Studies-Credit 	10 Nutritional Science & Tox-A 	11 Nutritional Science & Tox-A 	3AL Chemistry-A 	sem 2: 	major: ['Nutritional Science']: 	1 Economics-B 	32 Molecular & Cell Biology-B 	32L Molecular & Cell Biology-A 	117 Integrative Biology-A 	3BL Chemistry-A 	3B Chemistry-A 
+label: 	['1AL Biology', 'R4B College Writing Programs', '2 Statistics', '1 Physical Education', '1A Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '137B Physics', '1AL Biology', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	90B Molecular & Cell Biology-Credit 	1A Chemistry-B 	R44 Classics-A 	1A Mathematics-B 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-A 	1B Mathematics-A 	R1B Film-A 	3AL Chemistry-A 	2 Psychology-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	7A Japanese-A 	3B Chemistry-A 	1B Biology-A 	3AC Sociology-A 
+label: 	['1AL Biology', '1A Biology', '8A Physics', '34 Classics', '177 Japanese']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '137B Physics', '1AL Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	1B Mathematics-A 	1A Chemistry-A 	R5B South Asian-A 	98 Rhetoric-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	N3AL Chemistry-A 	3A Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-A 	1 Psychology-A 	98 Public Health-Credit 	3BL Chemistry-A 	116 Public Health-Credit 	8A Physics-A 
+label: 	['1A Biology', '112 Public Health', '8B Physics', '1AL Biology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '1AL Biology', '137B Physics']
+correct: 	['1A Biology', '8B Physics', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	94 Peace & Conflict Studies-Credit 	1A Chemistry-B 	2AC Anthropology-A 	1B Biology-C 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-B 	3AL Chemistry-A 	C61 Psychology-B 	3A Chemistry-B 	98 Philosophy-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-A 	98 Cognitive Science-Credit 	8A Physics-B 	12A Philosophy-C 
+label: 	['11 History of Art', '1AL Biology', '1A Biology', '50 Molecular & Cell Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '1AL Biology', '1B Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	2AC Anthropology-A 	1A Chemistry-A 	53 Mathematics-B 	24 Linguistics-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R1A Rhetoric-A 	C160 Public Health-A 	3AL Chemistry-A 	3A Chemistry-A 	1B Biology-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	8A Physics-A 	3B Chemistry-B 	107 Rhetoric-A 	R2B Asian American Studies-B 
+label: 	['8B Physics', '1A Biology', '1AL Biology', '50 Slavic Languages & Lit']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', '1AL Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '137B Physics']
+correct: 	['1A Biology', '8B Physics', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Mathematics-Credit 	10A Mathematics-A 	1AL Chemistry-A 	R2A Asian American Studies-A 	1A Chemistry-A 	24 Integrative Biology-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R2B Asian American Studies-A 	10B Mathematics-A 	98 Public Health-Credit 	116 Public Health-Credit 	98 Mathematics-Credit 	3AL Chemistry-A 	3A Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1 Psychology-A 	3B Chemistry-A 	1B Biology-A 	20A Music-A 	3BL Chemistry-A 	301 Mathematics-Credit 
+label: 	['1AL Biology', '301 Mathematics', '8A Physics', '26AC Music', '25A Music', '1A Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '137B Physics', 'C114 Molecular & Cell Biology', '1AL Biology', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	39L Journalism-A 	R1B Legal Studies-A 	10A Mathematics-B 	1A Chemistry-B 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3AL Chemistry-A 	4 Political Science-A 	98 Mathematics-Credit 	10B Mathematics-B 	3A Chemistry-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	115 Global Poverty & Practice-A 	3BL Chemistry-A 	3B Chemistry-A 	8A Physics-B 
+label: 	['1A Biology', '131AC Sociology', '8B Physics', '198 Health & Medical Sciences', '1AL Biology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '1AL Biology', '137B Physics', 'H7C Physics']
+correct: 	['1A Biology', '8B Physics', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-A 	R1B History of Art-A 	1A Chemistry-C 	1AL Chemistry-B 	98 Molecular & Cell Biology-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-A 	N3AL Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-B 	1B Biology-B 	3BL Chemistry-B 	61A Computer Science-Credit 
+label: 	['8A Physics', '198 Computer Science', '1A Biology', '1AL Biology', '301C Chemistry']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '1AL Biology', '137B Physics', 'H7C Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	C62 Molecular & Cell Biology-A 	1A Mathematics-B 	1 Physical Education-Credit 	1A Chemistry-B 	1 Latin-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	20A Music-A 	410 Music-A 	3A Chemistry-B 	1B Biology-A 	10 Gender & Womens Studies-A 	144 Music-A 	1 Physical Education-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	160 Molecular & Cell Biology-A 	104 Molecular & Cell Biology-B 	144 Music-A 	1A Biology-B 	3AL Chemistry-A 	1AL Biology-A 
+label: 	['3BL Chemistry', 'R1A Rhetoric']
+predict: 	['C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '3B Chemistry', '150 Molecular & Cell Biology', '8B Physics', '137B Physics', '100B Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', 'C148 Molecular & Cell Biology']
+correct: 	[]
+
+sem 0: 	major: ['Nutritional Science']: 	10 Nutritional Science & Tox-A 	R1A English-A 	3AC Anthropology-A 	16A Mathematics-A 	98 Env Sci, Policy, & Mgmt-Credit 	sem 1: 	major: ['Nutritional Science']: 	R1B History of Art-A 	1 Economics-C 	1AL Chemistry-A 	1A Chemistry-B 	98 Public Health-Credit 	sem 2: 	major: ['Nutritional Science']: 	32L Molecular & Cell Biology-A 	98 Nutritional Science & Tox-Credit 	3AL Chemistry-A 	32 Molecular & Cell Biology-A 	3A Chemistry-B 	C62 Molecular & Cell Biology-A 
+label: 	['2 Statistics', '1AL Biology', '3B Chemistry', '1A Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '3B Chemistry', '150 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '1AL Biology', '137B Physics']
+correct: 	['1A Biology', '3B Chemistry', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	98BC Music-Credit 	20A Music-A 	10A Mathematics-A 	C12 Earth & Planetary Science-B 	1A Chemistry-B 	sem 1: 	major: ['Music']: 	150A Music-A 	10B Mathematics-A 	49C Music-B 	49B Music-A 	1B Biology-B 	142 Music-A 	sem 2: 	major: ['Music']: 	161A Music-A 	50 Music-A 	R1B African American Studies-A 	150A Music-A 	3AL Chemistry-A 	3A Chemistry-A 	60 Music-A 
+label: 	['1AL Biology', '3B Chemistry', '161B Music', '1A Biology', '150A Music', '61 Music', '3BL Chemistry']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '3B Chemistry', '150 Molecular & Cell Biology', '104 Molecular & Cell Biology', '137B Physics', '100B Molecular & Cell Biology', '8B Physics', 'H7C Physics']
+correct: 	['1A Biology', '3B Chemistry']
+
+sem 0: 	major: ['Chemical Biology']: 	R1A College Writing Programs-A 	98W Chemistry-Credit 	1A Mathematics-B 	96 Chemistry-Credit 	4A Chemistry-C 	sem 1: 	major: ['Chemical Biology']: 	3A Chemistry-B 	8A Physics-C 	2 Psychology-A 	98 Molecular & Cell Biology-Credit 	1B Mathematics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3AL Chemistry-A 	R5B Scandinavian-A 	116 Public Health-Credit 	98 Public Health-Credit 	1B Biology-B 	3B Chemistry-C 
+label: 	['3AC Sociology', '1A Biology', '10 Nutritional Science & Tox', '3BL Chemistry', '1AL Biology', '197 Physical Education']
+predict: 	['C100A Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '1AL Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', 'C148 Molecular & Cell Biology', '132 Integrative Biology', '140 Molecular & Cell Biology', '150L Molecular & Cell Biology']
+correct: 	['1AL Biology']
+
+sem 0: 	major: ['Nutritional Science']: 	55 Molecular & Cell Biology-A 	10 Nutritional Science & Tox-A 	100A Malay/Indonesian-A 	1AL Chemistry-A 	1A Chemistry-A 	sem 1: 	major: ['Nutritional Science']: 	3AL Chemistry-A 	24 Vision Science-Credit 	16A Mathematics-A 	3A Chemistry-A 	R5A Italian Studies-A 	10 Optometry-A 	sem 2: 	major: ['Nutritional Science']: 	3B Chemistry-A 	32L Molecular & Cell Biology-A 	32 Molecular & Cell Biology-A 	2 Psychology-A 	2 Statistics-A 	3BL Chemistry-A 
+label: 	['301B Chemistry', '26AC Music', '1AL Biology', 'R5B Italian Studies', '1A Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '137B Physics', 'C114 Molecular & Cell Biology', '1AL Biology', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R5A Scandinavian-A 	1A Mathematics-A 	1AL Chemistry-A 	1A Chemistry-A 	32 Molecular & Cell Biology-A 	98 Public Policy-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-A 	R5B Scandinavian-A 	98 Public Policy-Credit 	3A Chemistry-A 	3AL Chemistry-A 	25AC Theater Dance & Perf Stds-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	8A Physics-A 	1 Psychology-A 	1B Biology-A 	3BL Chemistry-A 	3B Chemistry-A 
+label: 	['8B Physics', '100B Economics', '1AL Biology', '1A Biology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', '1AL Biology', 'C114 Molecular & Cell Biology', '137B Physics', 'H7C Physics']
+correct: 	['1A Biology', '8B Physics', '1AL Biology']
+
+sem 0: 	major: ['CNR Undeclared']: 	31AC English-A 	3 Spanish-A 	24 Plant Biology-Credit 	1A Mathematics-Credit 	sem 1: 	major: ['CNR Undeclared']: 	1 Anthropology-A 	4 Spanish-B 	1AL Chemistry-A 	16B Mathematics-A 	1A Chemistry-C 	sem 2: 	major: ['CNR Undeclared']: 	R1B History of Art-A 	25 Spanish-A 	3AL Chemistry-A 	1B Biology-B 	3A Chemistry-A 
+label: 	['3B Chemistry', '3BL Chemistry', '102A Spanish', '1A Biology', '1AL Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '3B Chemistry', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', 'H7C Physics', '1AL Biology']
+correct: 	['1A Biology', '3B Chemistry', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	24 Psychology-Credit 	R1A Rhetoric-B 	10A Mathematics-B 	98 Psychology-Credit 	1A Chemistry-A 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10B Mathematics-A 	1B Biology-B 	3A Chemistry-A 	3AL Chemistry-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1AL Biology-B 	7A Japanese-A 	R1B Linguistics-A 	8A Physics-B 	98 Music-Credit 	1A Biology-B 
+label: 	['8B Physics', '3B Chemistry', '3BL Chemistry', '3AC Sociology', '29 Music']
+predict: 	['110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '3B Chemistry', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', '137B Physics', 'C114 Molecular & Cell Biology', 'H7C Physics', '100B Molecular & Cell Biology']
+correct: 	['3B Chemistry', '8B Physics']
+
+sem 0: 	major: ['Nutritional Science']: 	98 Cognitive Science-Credit 	10 Nutritional Science & Tox-B 	3AC Sociology-B 	1AL Chemistry-A 	1A Chemistry-C 	sem 1: 	major: ['Nutritional Science']: 	3AL Chemistry-A 	28 Classics-Credit 	1 Psychology-A 	R1B English-B 	3A Chemistry-B 	sem 2: 	major: ['Nutritional Science']: 	3B Chemistry-A 	1B Biology-C 	32 Molecular & Cell Biology-B 	32L Molecular & Cell Biology-A 	C20 Earth & Planetary Science-Credit 	16A Mathematics-B 
+label: 	['1A Biology', '3BL Chemistry', '16B Mathematics', '2 Statistics', '1AL Biology']
+predict: 	['C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '8B Physics', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '1AL Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '150L Molecular & Cell Biology', 'C148 Molecular & Cell Biology']
+correct: 	['1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	3AC Anthropology-B 	1A Chemistry-C 	1AL Chemistry-B 	1 Psychology-A 	16A Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-B 	3AL Chemistry-A 	16B Mathematics-C 	4 Political Science-B 	24 Vision Science-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-B 	98 Public Health-Credit 	R1B Linguistics-B 	1 Physical Education-Credit 	116 Public Health-Credit 	1B Biology-C 
+label: 	['1A Biology', '50 Molecular & Cell Biology', '112 UGIS-UG Interdisc Studies', '3BL Chemistry', '1AL Biology']
+predict: 	['C100A Molecular & Cell Biology', '8B Physics', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '1AL Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', 'C148 Molecular & Cell Biology', '1A Chemistry', '140 Integrative Biology']
+correct: 	['1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1 Physical Education-Credit 	144 Music-Credit 	16 Linguistics-A 	1A Chemistry-A 	1AL Chemistry-A 	1B Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	144 Music-Credit 	53 Mathematics-C 	R1B Celtic Studies-B 	3A Chemistry-A 	3AL Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	3B Chemistry-B 	155 Philosophy-B 	1B Biology-B 
+label: 	['100 History of Art', '8A Physics', '1AL Biology', '1A Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '137B Physics', '1AL Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Molecular & Cell Biology-Credit 	1AL Chemistry-A 	1A Mathematics-A 	11 History of Art-A 	C61 Psychology-A 	1A Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-B 	N3AL Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-B 	3BL Chemistry-A 	R1B Legal Studies-A 	98 Public Health-Credit 	1 Psychology-B 	1B Biology-B 
+label: 	['8A Physics', '1A Biology', '1AL Biology', '1 Sociology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '137B Physics', 'H7C Physics', '1AL Biology', 'C114 Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-A 	98 Molecular & Cell Biology-Credit 	1AL Chemistry-A 	1A Mathematics-A 	R5A South Asian-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R1B Theater Dance & Perf Stds-A 	3A Chemistry-A 	3AL Chemistry-A 	1B Mathematics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-A 	3BL Chemistry-A 	50AC Env Sci, Policy, & Mgmt-A 	1B Biology-A 
+label: 	['1AL Biology', '127 Peace & Conflict Studies', '8A Physics', '301B Chemistry', '1A Biology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '1AL Biology', '137B Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	179 Political Science-Credit 	1 Political Science-A 	1A Chemistry-B 	R1B History of Art-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	25 Bioengineering-Credit 	7 Engineering-B 	3A Chemistry-B 	3AL Chemistry-A 	54 Mathematics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	3B Chemistry-B 	10 Bioengineering-A 	24 Bioengineering-Credit 	7A Physics-B 	53 Mathematics-B 
+label: 	['1AL Biology', '1A Biology', '124B History', '7B Physics', 'C116 Psychology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '1AL Biology', 'H7C Physics', '137B Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1A Near Eastern Studies-A 	1A Chemistry-A 	24 Vision Science-Credit 	1 Physical Education-Credit 	1A Mathematics-A 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-A 	3AC Sociology-A 	3AL Chemistry-A 	1 Cognitive Science-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-A 	116 Public Health-Credit 	3B Chemistry-A 	3BL Chemistry-A 	98 Public Health-Credit 	1B Biology-A 
+label: 	['1A Biology', '1AL Biology', '95 Integrative Biology', 'R5B Scandinavian', '82 UGIS-UG Interdisc Studies', '8A Physics']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '137B Physics', 'C114 Molecular & Cell Biology', '1AL Biology', 'H7C Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-B 	R1B French-A 	1A Chemistry-C 	10A Mathematics-C 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10B Mathematics-B 	3A Chemistry-B 	45B English-A 	3AL Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	165 English-A 	1B Biology-B 	3B Chemistry-B 	45A English-A 	3BL Chemistry-A 
+label: 	['1A Biology', '1AL Biology', '122 English', '117S English', '8A Physics']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '137B Physics', 'C114 Molecular & Cell Biology', '1AL Biology', 'H7C Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R44 Classics-A 	90B Molecular & Cell Biology-Credit 	1A Mathematics-B 	1AL Chemistry-A 	1A Chemistry-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-C 	1B Mathematics-B 	3AL Chemistry-A 	R1B History of Art-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	10 Geography-A 	116 Public Health-Credit 	3B Chemistry-B 	1B Biology-A 	98 Public Health-Credit 
+label: 	['1AL Biology', '1 Spanish', '194 Integrative Biology', '8A Physics', '1A Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '137B Physics', '1AL Biology', 'H7C Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-A 	1AL Chemistry-A 	24 Vision Science-Credit 	R1A Comparative Literature-A 	1A Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-B 	R5B German-A 	98 Public Health-Credit 	3AL Chemistry-A 	1B Mathematics-A 	1 Physical Education-Credit 	10 Nutritional Science & Tox-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	20AC LGBT Studies-A 	3BL Chemistry-A 	98 Art Practice-Credit 	1 Psychology-A 	3B Chemistry-A 	1B Biology-A 
+label: 	['1A Biology', '1AL Biology', '32 Integrative Biology', '180 History', '174 Korean', '8A Physics']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '1AL Biology', '137B Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Chemical Biology']: 	98 Molecular & Cell Biology-Credit 	1A Chemistry-A 	1A Mathematics-B 	1AL Chemistry-A 	1 Sociology-A 	sem 1: 	major: ['Chemical Biology']: 	28AC African American Studies-A 	3A Chemistry-B 	1B Mathematics-B 	R1A Comparative Literature-B 	sem 2: 	major: ['Chemical Biology']: 	3B Chemistry-B 	8A Physics-A 	R1B Comparative Literature-B 	3AL Chemistry-A 	1B Biology-B 
+label: 	['1A Biology', '1AL Biology', '8B Physics', '3BL Chemistry', '1 Psychology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '137B Physics', '1AL Biology']
+correct: 	['1A Biology', '8B Physics', '1AL Biology']
+
+sem 0: 	major: ['Nutritional Science']: 	1AL Chemistry-A 	10 Nutritional Science & Tox-A 	98 Architecture-Credit 	1A Chemistry-C 	R2A Asian American Studies-A 	sem 1: 	major: ['Nutritional Science']: 	R5B South & SE Asian Studies-A 	3A Chemistry-C 	3AL Chemistry-A 	98 Nutritional Science & Tox-Credit 	16A Mathematics-B 	sem 2: 	major: ['Nutritional Science']: 	3AC Sociology-A 	3BL Chemistry-A 	3B Chemistry-C 	32L Molecular & Cell Biology-A 	32 Molecular & Cell Biology-B 
+label: 	['1A Biology', '2 Statistics', 'C1 Environ Econ & Policy', '1AL Biology']
+predict: 	['150L Molecular & Cell Biology', '140 Integrative Biology', '1B Biology', '1B Chemistry', '141A Physics', '104LF Integrative Biology', 'C130 Chemistry', '160L Molecular & Cell Biology', '130B Chemistry', '105 Chemistry']
+correct: 	[]
+
+sem 0: 	major: ['Microbial Biology']: 	1A Chemistry-A 	16A Mathematics-A 	24 Earth & Planetary Science-Credit 	8A Physics-A 	2 Statistics-B 	1AL Chemistry-A 	sem 1: 	major: ['Microbial Biology']: 	3A Chemistry-B 	1B Biology-A 	3AL Chemistry-A 	8B Physics-B 	sem 2: 	major: ['Microbial Biology']: 	98 Ethnic Studies-Credit 	16B Mathematics-A 	3BL Chemistry-A 	3B Chemistry-A 	301C Chemistry-Credit 
+label: 	['R5B Slavic Languages & Lit', '160 Plant Biology', '1AL Biology', '301C Chemistry', '1A Biology', '301B Chemistry', '1 Spanish']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '137B Physics', 'H7C Physics', 'C114 Molecular & Cell Biology', '1AL Biology', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	1A Chemistry-B 	1A Mathematics-C 	R1B Rhetoric-A 	C70V Letters & Science-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R5B South Asian-Credit 	1B Mathematics-B 	3AL Chemistry-A 	3A Chemistry-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	1 Psychology-Credit 	3B Chemistry-A 	1B Biology-B 	C55 Geography-A 
+label: 	['26AC Music', '1AL Biology', '1A Biology', '1 Sociology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', 'H7C Physics', '137B Physics', '1AL Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-B 	98 Mechanical Engineering-Credit 	1A Mathematics-A 	1AL Chemistry-A 	R1A Rhetoric-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1B Biology-B 	R1B Comparative Literature-B 	3AC Anthropology-B 	1B Mathematics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3AL Chemistry-A 	8A Physics-A 	44 Env Sci, Policy, & Mgmt-A 	80 Earth & Planetary Science-A 	3A Chemistry-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	8B Physics-B 	3B Chemistry-B 	2 Statistics-B 	3BL Chemistry-A 
+label: 	['131 Integrative Biology', '110 Native American Studies', 'C12 Env Sci, Policy, & Mgmt', '1A Biology', '1AL Biology']
+predict: 	['132 Molecular & Cell Biology', '1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '137 Integrative Biology', '104 Molecular & Cell Biology', 'C112 Molecular & Cell Biology', '136 Molecular & Cell Biology', '150 Molecular & Cell Biology', '4A Chemistry']
+correct: 	['1A Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	32 Physical Education-A 	1AL Chemistry-A 	R1B Rhetoric-B 	1A Chemistry-A 	10A Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10B Mathematics-A 	50AC Geography-A 	3AL Chemistry-A 	1 Economics-B 	3A Chemistry-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-A 	3BL Chemistry-A 	1B Biology-A 	5 Sociology-Credit 	27 Music-A 
+label: 	['1AL Biology', '8A Physics', '198 Psychology', '25 Bioengineering', '1 Psychology', '1A Biology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', '1AL Biology', '137B Physics', 'C114 Molecular & Cell Biology', 'H7C Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	53 Mathematics-C 	1AL Chemistry-B 	50 Molecular & Cell Biology-B 	40 Italian Studies-A 	1A Chemistry-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-C 	8A Physics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1A Biology-B 	1AL Biology-B 	R1B Comparative Literature-B 	120AC History-A 	3AL Chemistry-A 
+label: 	['1B Biology', '198 Ethnic Studies', '2 Statistics', '3BL Chemistry', '3B Chemistry']
+predict: 	['C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '3B Chemistry', '150 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '137B Physics', 'H7C Physics', '100B Molecular & Cell Biology']
+correct: 	['3B Chemistry']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	3AC Anthropology-B 	16A Mathematics-A 	R2A Asian American Studies-A 	1AL Chemistry-A 	1A Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3AL Chemistry-A 	16B Mathematics-A 	1 Psychology-A 	3A Chemistry-A 	R1B Theater Dance & Perf Stds-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1B Biology-A 	3B Chemistry-A 	25A Music-A 	3BL Chemistry-A 
+label: 	['1AL Biology', '8A Physics', '1A Biology', '124 Classics']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', 'H7C Physics', '137B Physics', '1AL Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	10 Bioengineering-A 	54 Mathematics-B 	1 Psychology-A 	24 Bioengineering-Credit 	1A Chemistry-B 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R1B History-A 	3AL Chemistry-A 	53 Mathematics-A 	3A Chemistry-A 	25 Bioengineering-Credit 	7A Physics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	1B Biology-A 	3B Chemistry-A 	1 German-A 	3AC Sociology-A 
+label: 	['1A Biology', '7B Physics', '1AL Biology', '2 Statistics', 'C105 Linguistics']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '1AL Biology', 'H7C Physics', '137B Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	1A Chemistry-B 	98 Asian American Studies-Credit 	20A Asian American Studies-Credit 	10A Mathematics-B 	8A Physics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-C 	98 Asian American Studies-Credit 	R1B Comparative Literature-B 	8B Physics-B 	3AL Chemistry-A 	10B Mathematics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	R5B Anthropology-A 	128AC Asian American Studies-A 	3BL Chemistry-A 	3B Chemistry-B 	1 Psychology-A 
+label: 	['198 Molecular & Cell Biology', '1A Biology', '1AL Biology', '1 Sociology', '11 Nutritional Science & Tox', 'C128 East Asian Languages']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '1AL Biology', '137B Physics', 'H7C Physics', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	3AC Anthropology-A 	1AL Chemistry-A 	6 Env Sci, Policy, & Mgmt-A 	1A Chemistry-A 	1A Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-A 	1 Psychology-A 	R1B Linguistics-A 	3AL Chemistry-A 	1B Mathematics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1A Biology-A 	3BL Chemistry-A 	198 Health & Medical Sciences-Credit 	3B Chemistry-A 	1AL Biology-A 	C77 English-A 
+label: 	['1B Biology', 'C61 Molecular & Cell Biology', '8A Physics', '1 Sociology']
+predict: 	['110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '137B Physics', 'H7C Physics', '100B Molecular & Cell Biology', 'C148 Molecular & Cell Biology']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-A 	R5A Slavic Languages & Lit-A 	1AL Chemistry-A 	98 Molecular & Cell Biology-Credit 	3 Physical Education-Credit 	1A Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3AL Chemistry-A 	13 Art Practice-A 	C61 Molecular & Cell Biology-A 	1B Mathematics-A 	3A Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1B Biology-A 	R5B Slavic Languages & Lit-A 	3B Chemistry-A 	3BL Chemistry-A 
+label: 	['1 Sociology', '1A Biology', '1AL Biology', '1 Psychology', '131A Statistics']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', '1AL Biology', 'C114 Molecular & Cell Biology', '137B Physics', 'H7C Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Nutritional Science']: 	24 Integrative Biology-Credit 	1A Chemistry-B 	98BC Env Sci, Policy, & Mgmt-Credit 	10 Nutritional Science & Tox-A 	1AL Chemistry-A 	3AC Anthropology-A 	sem 1: 	major: ['Nutritional Science']: 	98BC Env Sci, Policy, & Mgmt-Credit 	160B Letters & Science-A 	3AL Chemistry-A 	98 Ethnic Studies-Credit 	16A Mathematics-A 	24 Integrative Biology-Credit 	C101 Natural Resources-Credit 	3A Chemistry-B 	sem 2: 	major: ['Nutritional Science']: 	3B Chemistry-B 	94 Peace & Conflict Studies-Credit 	180 Plant Biology-B 	32L Molecular & Cell Biology-A 	3BL Chemistry-A 	32 Molecular & Cell Biology-A 	16B Mathematics-A 
+label: 	['1AL Biology', '198BC Env Sci, Policy, & Mgmt', '13 French', '1A Biology', '104 Nutritional Science & Tox', '98 Env Sci, Policy, & Mgmt', '113 Env Sci, Policy, & Mgmt']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '137B Physics', '1AL Biology', 'C114 Molecular & Cell Biology', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Nutritional Science']: 	16A Mathematics-A 	1A Chemistry-B 	100A Japanese-A 	1AL Chemistry-A 	10 Nutritional Science & Tox-A 	sem 1: 	major: ['Nutritional Science']: 	R5B Italian Studies-B 	100B Japanese-A 	3A Chemistry-A 	3AL Chemistry-A 	C101 Natural Resources-Credit 	sem 2: 	major: ['Nutritional Science']: 	32 Molecular & Cell Biology-B 	3B Chemistry-A 	3BL Chemistry-A 	32L Molecular & Cell Biology-A 	3AC Anthropology-Credit 	2 Statistics-B 
+label: 	['1A Biology', 'C3 Economics', '102 Japanese', '1AL Biology', '104 Nutritional Science & Tox']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '137B Physics', '1AL Biology', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Molecular Environ Biology']: 	16A Mathematics-A 	R1A Rhetoric-A 	3AC Anthropology-A 	24 Integrative Biology-Credit 	98 Env Sci, Policy, & Mgmt-Credit 	sem 1: 	major: ['Molecular Environ Biology']: 	1A Chemistry-B 	24 Integrative Biology-A 	15 Env Sci, Policy, & Mgmt-A 	1AL Chemistry-A 	16B Mathematics-A 	R1B Rhetoric-A 	sem 2: 	major: ['Molecular Environ Biology']: 	N3AL Chemistry-A 	3A Chemistry-C 	sem 3: 	major: ['Molecular Environ Biology']: 	C12 Env Sci, Policy, & Mgmt-A 	3BL Chemistry-A 	3B Chemistry-C 	61A Computer Science-Credit 
+label: 	['1A Biology', '8A Physics', 'C160V Letters & Science', '1AL Biology']
+predict: 	['C114 Molecular & Cell Biology', '150 Molecular & Cell Biology', '1B Biology', '150L Molecular & Cell Biology', '140 Integrative Biology', '132 Integrative Biology', '120A Chemistry', '104LF Integrative Biology', '141A Physics', '140 Molecular & Cell Biology']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	3AC Sociology-A 	10A Mathematics-A 	94 Peace & Conflict Studies-Credit 	1A Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R5B Italian Studies-A 	3AL Chemistry-A 	50 Molecular & Cell Biology-A 	3A Chemistry-A 	10B Mathematics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	3B Chemistry-A 	1B Biology-A 	R5A German-A 	115 Global Poverty & Practice-A 
+label: 	['1 Psychology', '1AL Biology', '1A Biology', '8A Physics']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '137B Physics', '1AL Biology', 'H7C Physics', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	10A Mathematics-B 	C12 Env Sci, Policy, & Mgmt-A 	1A Chemistry-A 	1AL Chemistry-A 	24 Integrative Biology-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	26 English-A 	11 Nutritional Science & Tox-A 	98 Mathematics-Credit 	10B Mathematics-A 	3A Chemistry-B 	3AC Anthropology-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3AL Chemistry-A 	R1B Film-A 	1B Biology-A 	W1 Psychology-B 	3B Chemistry-B 
+label: 	['3BL Chemistry', 'C61 Molecular & Cell Biology', '1AL Biology', '1 Sociology', '1A Biology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '1AL Biology', '137B Physics', 'H7C Physics', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	24 Psychology-Credit 	1AL Chemistry-A 	10A Mathematics-A 	R1A English-B 	1A Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	35 Classics-Credit 	R5B South & SE Asian Studies-A 	10B Mathematics-A 	3A Chemistry-A 	3AL Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	35AC Integrative Biology-Credit 	1B Biology-A 	1 Psychology-A 	118 Molecular & Cell Biology-Credit 	3B Chemistry-A 	3BL Chemistry-A 
+label: 	['8A Physics', '198 Public Health', '1A Biology', '1 Sociology', '1AL Biology', '10 Nutritional Science & Tox']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'H7C Physics', 'C114 Molecular & Cell Biology', '137B Physics', '1AL Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Mathematics-Credit 	1AL Chemistry-A 	R5A South & SE Asian Studies-A 	98 Integrative Biology-Credit 	10A Mathematics-A 	24 Integrative Biology-A 	1A Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	301C Chemistry-Credit 	98 Mathematics-Credit 	3A Chemistry-A 	3AL Chemistry-A 	10B Mathematics-A 	R5B South & SE Asian Studies-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	20AC Asian American Studies-A 	3B Chemistry-A 	1 Psychology-A 	8A Physics-B 
+label: 	['C8 Statistics', '1A Biology', '1AL Biology', 'C167 Sociology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '1AL Biology', '137B Physics', 'C114 Molecular & Cell Biology', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-A 	R44 Classics-A 	98 Molecular & Cell Biology-Credit 	1A Chemistry-A 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-A 	301C Chemistry-Credit 	98 Cognitive Science-Credit 	98 Asian Studies-Credit 	3AL Chemistry-A 	1B Mathematics-A 	24 Vision Science-Credit 	R4B College Writing Programs-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	98 Landscape Arch & Env Plan-Credit 	138 History-A 	1 Psychology-A 	84 Vision Science-Credit 	1B Biology-A 	3BL Chemistry-A 	3B Chemistry-A 	98 Molecular & Cell Biology-Credit 
+label: 	['1AL Biology', '198 Psychology', '1 Political Science', '8A Physics', '3AC Sociology', '1A Biology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '137B Physics', '1AL Biology', 'H7C Physics', 'C114 Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	24 Linguistics-Credit 	1A Chemistry-C 	1AL Chemistry-B 	162 Env Sci, Policy, & Mgmt-A 	10A Mathematics-C 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 Mathematics-Credit 	3A Chemistry-B 	R1A English-B 	3AL Chemistry-A 	11AC Ethnic Studies-B 	10B Mathematics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	1B Biology-B 	25 Spanish-A 	98 Env Sci, Policy, & Mgmt-Credit 	3B Chemistry-B 
+label: 	['1AL Biology', '1A Biology', '10B Classics', '8A Physics', '135 Spanish']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '137B Physics', '1AL Biology', 'H7C Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-B 	7A History-A 	10A Mathematics-A 	1AL Chemistry-A 	24 Integrative Biology-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	116 Public Health-Credit 	98 Public Policy-Credit 	3AL Chemistry-A 	1 Psychology-A 	39A Earth & Planetary Science-A 	3A Chemistry-B 	98 Mathematics-Credit 	10B Mathematics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1B Biology-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	1A Arabic-A 	3AC Sociology-A 	98 Computer Science-Credit 	3B Chemistry-B 
+label: 	['1A Biology', '98 Molecular & Cell Biology', '1AL Biology', '8A Physics', 'C3 Economics']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '137B Physics', '1AL Biology', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Nutritional Science']: 	1AL Chemistry-A 	10 Nutritional Science & Tox-A 	98 Molecular & Cell Biology-Credit 	98 Architecture-Credit 	11A Persian-A 	3 Physical Education-Credit 	1A Chemistry-B 	sem 1: 	major: ['Nutritional Science']: 	C101 Letters & Science-Credit 	165 Near Eastern Studies-A 	16A Mathematics-A 	3AL Chemistry-A 	3A Chemistry-B 	24 Psychology-Credit 	sem 2: 	major: ['Nutritional Science']: 	3B Chemistry-C 	20A Persian-A 	R1A Near Eastern Studies-A 	3BL Chemistry-A 	32 Molecular & Cell Biology-B 	32L Molecular & Cell Biology-A 
+label: 	['R5B German', '2 Statistics', '3AC Sociology', '1AL Biology', '1A Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '1AL Biology', 'H7C Physics', '1B Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-B 	1AL Chemistry-B 	1A Chemistry-B 	R1B Near Eastern Studies-A 	98 Psychology-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-B 	181B American Studies-Credit 	N3AL Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-A 	1B Biology-A 	2AC Anthropology-A 	3BL Chemistry-A 
+label: 	['82 UGIS-UG Interdisc Studies', '1AL Biology', 'C188 Near Eastern Studies', '1A Biology', '8A Physics']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '137B Physics', '1AL Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	17A Classics-B 	24 Integrative Biology-Credit 	1A Mathematics-B 	1AL Chemistry-A 	1A Chemistry-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-A 	3A Chemistry-B 	3AL Chemistry-A 	1 Anthropology-A 	26AC Music-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	R5A South Asian-A 	2AC Anthropology-A 	98 Public Health-Credit 	3BL Chemistry-A 	1B Biology-A 	3B Chemistry-B 
+label: 	['8A Physics', '1AL Biology', '179 Anthropology', 'R5B South Asian', '1A Biology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '137B Physics', '1AL Biology', 'H7C Physics', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-A 	1 Latin-A 	1AL Chemistry-A 	R1B History of Art-B 	1A Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-A 	3AL Chemistry-A 	1 Anthropology-A 	8A Physics-A 	3A Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1B Biology-A 	3B Chemistry-A 	8B Physics-A 	2AC Anthropology-A 
+label: 	['1AL Biology', '1 Sociology', '2 Psychology', 'C160V Letters & Science', '1A Biology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '1AL Biology', '137B Physics', '100B Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	25A Philosophy-A 	10A Mathematics-A 	35AC Integrative Biology-A 	3 Philosophy-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	10B Mathematics-A 	1B Biology-A 	1A Chemistry-B 	98 Mathematics-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-B 	3AL Chemistry-A 	1A Biology-B 	8A Physics-B 	1AL Biology-B 
+label: 	['8B Physics', '104 Rhetoric', '3B Chemistry', '198 Psychology', '140 Integrative Biology', '3BL Chemistry']
+predict: 	['110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '3B Chemistry', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '100B Molecular & Cell Biology', '137B Physics', 'H7C Physics']
+correct: 	['3B Chemistry', '8B Physics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-A 	1B Mathematics-A 	R1B English-B 	1AL Chemistry-A 	1 Anthropology-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1A Biology-A 	1AL Biology-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	10 Geography-A 	1B Biology-B 	3A Chemistry-A 	3AL Chemistry-A 	12A Philosophy-A 
+label: 	['8A Physics', '3B Chemistry', '3BL Chemistry', '128 Music', '160 Psychology']
+predict: 	['110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '3B Chemistry', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'H7C Physics', '137B Physics', 'C114 Molecular & Cell Biology', '100B Molecular & Cell Biology']
+correct: 	['3B Chemistry']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	10 Geography-A 	1A Chemistry-C 	1AL Chemistry-A 	98 Mathematics-Credit 	24 Integrative Biology-B 	10A Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10B Mathematics-B 	98 Mathematics-Credit 	1A Biology-A 	R1A Comparative Literature-A 	1AL Biology-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	R1B English-B 	1B Biology-A 	3AL Chemistry-A 	3A Chemistry-A 
+label: 	['10 Nutritional Science & Tox', '8A Physics', '3BL Chemistry', '3B Chemistry', '3AC Anthropology']
+predict: 	['C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '3B Chemistry', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '137B Physics', 'C114 Molecular & Cell Biology', '100B Molecular & Cell Biology', 'H7C Physics']
+correct: 	['3B Chemistry']
+
+sem 0: 	major: ['Chemistry']: 	96 Chemistry-Credit 	24 Integrative Biology-A 	35AC Integrative Biology-A 	4A Chemistry-B 	98W Chemistry-Credit 	53 Mathematics-B 	sem 1: 	major: ['Chemistry']: 	54 Mathematics-B 	5 History-B 	98 Chemistry-Credit 	98W Chemistry-Credit 	4B Chemistry-B 	8A Physics-B 	24 Integrative Biology-A 	sem 2: 	major: ['Chemistry']: 	1B Biology-B 	95 Integrative Biology-Credit 	3AL Chemistry-A 	3A Chemistry-B 	8B Physics-B 	10 Plant Biology-B 
+label: 	['1A Biology', 'R1B English', '3BL Chemistry', '1AL Biology', '3B Chemistry']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '3B Chemistry', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', 'H7C Physics', '137B Physics', '1AL Biology', 'C114 Molecular & Cell Biology']
+correct: 	['1A Biology', '3B Chemistry', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Integrative Biology-Credit 	1AL Chemistry-A 	R2A Asian American Studies-A 	1A Chemistry-B 	1A Mathematics-B 	90E Molecular & Cell Biology-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R5B Scandinavian-A 	3A Chemistry-A 	3AL Chemistry-A 	3AC Sociology-A 	1B Mathematics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	116 Public Health-Credit 	3B Chemistry-A 	1B Biology-B 	27 Music-A 
+label: 	['70 Italian Studies', '2 Statistics', '1AL Biology', '1A Biology', '20B Music']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '137B Physics', '1AL Biology', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Education-Credit 	11 History of Art-A 	1B Mathematics-A 	4 Italian Studies-A 	1AL Chemistry-A 	1A Chemistry-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-B 	1B Biology-A 	C115 Sociology-A 	134 Psychology-A 	3AL Chemistry-A 
+label: 	['1AL Biology', '3BL Chemistry', '3B Chemistry', '1A Biology', '100A Interdisciplinary Studies']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '3B Chemistry', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '137B Physics', 'H7C Physics', 'C114 Molecular & Cell Biology']
+correct: 	['1A Biology', '3B Chemistry']
+
+sem 0: 	major: ['Chemical Engineering']: 	45 Engineering-A 	198 Nutritional Science & Tox-Credit 	140 Chemical Engineering-C 	7 Engineering-B 	sem 1: 	major: ['Chemical Engineering']: 	150A Chemical Engineering-B 	141 Chemical Engineering-B 	98 Chemistry-Credit 	185 Chemical Engineering-B 	sem 2: 	major: ['Chemical Engineering']: 	137A Physics-B 	142 Chemical Engineering-B 	150B Chemical Engineering-C 
+label: 	['111 Bioengineering', '170A Chemical Engineering', '110 Bioengineering', '154 Chemical Engineering']
+predict: 	['C100A Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '150 Molecular & Cell Biology', '1AL Biology', '1B Biology', '150L Molecular & Cell Biology', '1A Chemistry', '140 Integrative Biology', 'C148 Molecular & Cell Biology', '137B Physics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-C 	24 Vision Science-Credit 	24 Integrative Biology-A 	98 English-Credit 	45C English-B 	1AL Chemistry-A 	10A Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-B 	10B Mathematics-B 	1 German-B 	13 Art Practice-A 	3AL Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	150AC Global Poverty & Practice-Credit 	95 Integrative Biology-Credit 	1B Biology-B 	2 Physical Education-Credit 	3B Chemistry-C 	3BL Chemistry-A 
+label: 	['8A Physics', '1 Psychology', '1A Biology', '1AL Biology', '3 French']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '1AL Biology', 'H7C Physics', '137B Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-B 	1A Chemistry-B 	8A Physics-A 	24 Civil & Environmental Eng-Credit 	1 French-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1AL Biology-B 	3A Chemistry-B 	1A Biology-B 	20 Statistics-A 	8B Physics-B 	3AL Chemistry-A 
+label: 	['10 Computer Science', '3BL Chemistry', '1B Biology', '3B Chemistry']
+predict: 	['110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '3B Chemistry', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '137B Physics', 'H7C Physics', '100B Molecular & Cell Biology', 'C148 Molecular & Cell Biology']
+correct: 	['3B Chemistry']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	W21 Statistics-No Credit 	7B Chinese-B 	1A Chemistry-B 	7B History-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1B Biology-B 	116 Public Health-Credit 	32 Molecular & Cell Biology-Credit 	3AL Chemistry-A 	3A Chemistry-A 
+label: 	['179 Political Science', '11 Nutritional Science & Tox', '3B Chemistry', '3BL Chemistry', '8B Physics']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '3B Chemistry', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '1AL Biology', '137B Physics']
+correct: 	['3B Chemistry', '8B Physics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1B Near Eastern Studies-A 	10 Nutritional Science & Tox-A 	98 Education-Credit 	1A Chemistry-A 	1B Mathematics-A 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	N3AL Chemistry-A 	3A Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-A 	116 Public Health-Credit 	R5A South Asian-A 	8A Physics-B 	98 Public Health-Credit 	3BL Chemistry-A 
+label: 	['1AL Biology', '8B Physics', '84 Vision Science', '141 Psychology', '1A Biology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '1AL Biology', '137B Physics']
+correct: 	['1A Biology', '8B Physics', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	R5B Slavic Languages & Lit-A 	8A Physics-A 	116 Public Health-Credit 	1A Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	8B Physics-A 	3A Chemistry-A 	3AL Chemistry-A 	1B Biology-A 
+label: 	['29 Music', '1AL Biology', '3BL Chemistry', '1A Biology', '3B Chemistry']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '3B Chemistry', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '137B Physics', '1AL Biology']
+correct: 	['1A Biology', '3B Chemistry', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-A 	1B Biology-B 	1AL Chemistry-A 	C61 Psychology-A 	R1B Comparative Literature-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Psychology-A 	1B Mathematics-B 	5 Linguistics-A 	3AL Chemistry-A 	3A Chemistry-B 
+label: 	['3AC Sociology', '1AL Biology', '96 Business Admin-Undergrad', '1A Biology', '3BL Chemistry', '3B Chemistry']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '3B Chemistry', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '137B Physics', 'C114 Molecular & Cell Biology', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '3B Chemistry']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	53 Mathematics-B 	1 Psychology-A 	1AL Chemistry-A 	1A Chemistry-A 	98 Env Sci, Policy, & Mgmt-Credit 	98 Psychology-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	2 Statistics-B 	C64 Psychology-B 	112A Chemistry-B 	1B Biology-B 
+label: 	['39 Theater Dance & Perf Stds', '39L Slavic Languages & Lit', '3B Chemistry', '1A Biology', '3BL Chemistry', '1AL Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '3B Chemistry', '3A Chemistry', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '137B Physics', 'C114 Molecular & Cell Biology']
+correct: 	['1A Biology', '3B Chemistry']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	8A Physics-A 	198 Molecular & Cell Biology-Credit 	160 Molecular & Cell Biology-A 	186AC Education-Credit 
+label: 	['161 Molecular & Cell Biology', '1 Political Science', '198 Molecular & Cell Biology', '8B Physics']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '3B Chemistry', '3A Chemistry', '104 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '150 Molecular & Cell Biology', '1AL Biology']
+correct: 	['8B Physics']
+
+positive hit rate	0.8448275862068966
+sem 0: 	major: ['Molecular Environ Biology']: 	16A Mathematics-Credit 	7A History-Credit 	24 Integrative Biology-Credit 	1AL Chemistry-A 	24 Earth & Planetary Science-Credit 	1A Chemistry-B 	sem 1: 	major: ['Molecular Environ Biology']: 	50AC Env Sci, Policy, & Mgmt-A 	3AL Chemistry-A 	3A Chemistry-C 	98 Molecular & Cell Biology-Credit 	W1 Psychology-Credit 	sem 2: 	major: ['Molecular Environ Biology']: 	3B Chemistry-No Credit 	16A Mathematics-F 	1B Biology-B 	162 Env Sci, Policy, & Mgmt-A 	3BL Chemistry-C 	sem 3: 	major: ['Molecular Environ Biology']: 	1AL Biology-B 	1A Biology-C 	16B Mathematics-F 	15 Env Sci, Policy, & Mgmt-A 	sem 4: 	major: ['Molecular Environ Biology']: 	16A Mathematics-B 	sem 5: 	major: ['Molecular Environ Biology']: 	137 Integrative Biology-No Credit 	16B Mathematics-B 	8A Physics-No Credit 
+label: 	['114 Env Sci, Policy, & Mgmt', '8A Physics', '134 Env Sci, Policy, & Mgmt']
+predict: 	['150L Molecular & Cell Biology', '105 Chemistry', '141B Physics', '41 Molecular & Cell Biology', '138 Integrative Biology', 'C182 Chemistry', '130 Physics', '1AL Chemistry', '146 Chemistry', 'C142L Integrative Biology']
+correct: 	[]
+
+sem 0: 	major: ['Microbial Biology']: 	1AL Chemistry-A 	16A Mathematics-B 	1A Chemistry-A 	1 Sociology-A 	R1A Native American Studies-A 	sem 1: 	major: ['Microbial Biology']: 	3AL Chemistry-A 	16B Mathematics-A 	R1B History of Art-B 	3A Chemistry-A 	sem 2: 	major: ['Microbial Biology']: 	3BL Chemistry-A 	3B Chemistry-B 	sem 3: 	major: ['Microbial Biology']: 	1AL Biology-B 	20A Music-A 	1A Biology-B 	2 Statistics-A 	1 Psychology-A 	sem 4: 	major: ['Microbial Biology']: 	26AC Music-A 	8A Physics-B 	1B Biology-Credit 	10 Nutritional Science & Tox-A 	sem 5: 	major: ['Nut Sci-Physio & Metabol']: 	32 Molecular & Cell Biology-A 	32L Molecular & Cell Biology-A 	131 Integrative Biology-B 	103 Nutritional Science & Tox-A 	117 Integrative Biology-B 
+label: 	['C160V Letters & Science', '115 Nutritional Science & Tox', '198 Asian American Studies', '104 Nutritional Science & Tox']
+predict: 	['C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '137B Physics', '100B Molecular & Cell Biology', 'H7C Physics', 'C148 Molecular & Cell Biology']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	20A Music-A 	1A Chemistry-C 	1AL Chemistry-A 	1A Mathematics-B 	R1A Comparative Literature-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	143 Music-A 	1B Biology-C 	1B Mathematics-C 	3A Chemistry-C 	3AL Chemistry-A 	142 Music-A 	25A Music-A 	sem 2: 	major: ['Music']: 	49C Music-B 	49B Music-B 	3BL Chemistry-B 	405 Music-Credit 	3B Chemistry-D 	R1B Comparative Literature-B 	144 Music-B 	sem 3: 	major: ['Music']: 	8A Physics-B 	405 Music-Credit 	1AL Biology-C 	1A Biology-C 	50 Music-B 	142 Music-A 	60 Music-B 	sem 4: 	major: ['Music']: 	3B Chemistry-C 	8B Physics-B 	sem 5: 	major: ['Music']: 	150B Music-A 	C100A Molecular & Cell Biology-F 	61 Music-C 	70 Music-C 
+label: 	['104 Molecular & Cell Biology', '80 Music', '142 Music', '150B Music', '102 Molecular & Cell Biology', '161B Music']
+predict: 	['150L Molecular & Cell Biology', '105 Chemistry', '169 Integrative Biology', '141B Physics', '41 Molecular & Cell Biology', '138 Integrative Biology', 'C161 Physics', 'C182 Chemistry', '1AL Chemistry', '130 Physics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1 Physical Education-Credit 	1A Chemistry-B 	R1B English-B 	94 Peace & Conflict Studies-Credit 	1AL Chemistry-A 	1B Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1 Physical Education-Credit 	3AL Chemistry-A 	3A Chemistry-B 	1B Biology-B 	3 Naval Science-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	C160 Scandinavian-A 	3B Chemistry-B 	1 Physical Education-Credit 	8A Physics-C 	sem 3: 	major: ['Letters & Sci Undeclared']: 	1AL Biology-B 	2 Statistics-C 	1A Biology-B 	196 Business Admin-Undergrad-Credit 	1 Physical Education-Credit 	sem 4: 	major: ['Letters & Sci Undeclared']: 	2 Naval Science-A 	50 Earth & Planetary Science-A 	1 Physical Education-Credit 	140 Integrative Biology-A 	8B Physics-C 	sem 5: 	major: ['Integrative Biology', 'Environmental Earth Science']: 	132 Integrative Biology-A 	117 Integrative Biology-A 	sem 6: 	major: ['Integrative Biology', 'Environmental Earth Science']: 	C144 Integrative Biology-B 	1 Physical Education-Credit 	164 Integrative Biology-B 	117LF Integrative Biology-B 	117 Earth & Planetary Science-C 
+label: 	['102 Earth & Planetary Science', '102 Energy and Resources', '1B Chemistry', '150 Earth & Planetary Science', '1 Physical Education']
+predict: 	['C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '137B Physics', 'H7C Physics', '100B Molecular & Cell Biology', 'C148 Molecular & Cell Biology', '140 Molecular & Cell Biology']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1B Biology-B 	N60AC Comparative Literature-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	4 Spanish-B 	1AL Chemistry-A 	1A Chemistry-B 	61A Computer Science-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	61B Computer Science-B 	3A Chemistry-C 	8A Physics-A 	54 Mathematics-D 	3AL Chemistry-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	1 Economics-Credit 	70 Computer Science-C 	sem 4: 	major: ['Letters & Sci Undeclared']: 	R1B Film-A 	3B Chemistry-C 	8B Physics-C 	3BL Chemistry-C 	61C Computer Science-D 
+label: 	['1AL Biology', '1A Biology', '61C Computer Science', '170 Computer Science', '54 Mathematics']
+predict: 	['141B Physics', 'C182 Chemistry', '146 Chemistry', 'C142L Integrative Biology', '133L Molecular & Cell Biology', '24 Integrative Biology', '181L Integrative Biology', '118 Molecular & Cell Biology', '15 Molecular & Cell Biology', '190 Integrative Biology']
+correct: 	[]
+
+sem 0: 	major: ['Molecular Environ Biology']: 	2AC Anthropology-B 	1AL Chemistry-A 	1A Japanese-A 	16B Mathematics-A 	1A Chemistry-A 	98 English-Credit 	sem 1: 	major: ['Molecular Environ Biology']: 	R1A French-A 	1B Japanese-A 	98BC Env Sci, Policy, & Mgmt-Credit 	3A Chemistry-B 	3AL Chemistry-A 	15 Env Sci, Policy, & Mgmt-A 	sem 2: 	major: ['Molecular Environ Biology']: 	21 Art Practice-A 	R1B French-A 	sem 3: 	major: ['Molecular Environ Biology']: 	133 Statistics-Credit 	10A Japanese-A 	3B Chemistry-B 	3BL Chemistry-A 	1B Biology-A 
+label: 	['98BC Env Sci, Policy, & Mgmt', '1AL Biology', '8A Physics', '1A Biology', '10B Japanese', '50AC Env Sci, Policy, & Mgmt']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '150 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '137B Physics', 'H7C Physics', '1AL Biology', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	50AC Gender & Womens Studies-B 	10A Mathematics-B 	1AL Chemistry-A 	R1B Comparative Literature-B 	1A Chemistry-C 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3AL Chemistry-A 	R5B South Asian-B 	3A Chemistry-B 	174 Philosophy-C 	10B Mathematics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-C 	3BL Chemistry-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	1B Biology-B 	105 Economics-B 	1 Sociology-B 	8A Physics-B 
+label: 	['1 Psychology', '1A Biology', '8B Physics', '170 Anthropology', '1AL Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '1AL Biology', 'H7C Physics', '137B Physics']
+correct: 	['1A Biology', '8B Physics', '1AL Biology']
+
+sem 0: 	major: ['Microbial Biology']: 	16A Mathematics-A 	R5A South & SE Asian Studies-A 	1AL Chemistry-B 	1A Chemistry-B 	24 Psychology-Credit 	sem 1: 	major: ['Microbial Biology']: 	16B Mathematics-A 	R5B South Asian-A 	3A Chemistry-B 	24 History-A 	3AL Chemistry-A 	sem 2: 	major: ['Microbial Biology']: 	1B Biology-B 	sem 3: 	major: ['Microbial Biology']: 	32 Molecular & Cell Biology-B 	8A Physics-B 	3BL Chemistry-A 	32L Molecular & Cell Biology-A 	3B Chemistry-B 
+label: 	['40 Plant Biology', '2 Statistics', '11 Nutritional Science & Tox', '1A Biology', '1AL Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', 'H7C Physics', '137B Physics', '1AL Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-B 	1AL Chemistry-A 	10A Mathematics-C 	R1B Comparative Literature-A 	10 Plant Biology-No Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	25 Bioengineering-Credit 	3A Chemistry-B 	10B Mathematics-B 	2 Psychology-A 	70B Letters & Science-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	N3AL Chemistry-B 	R5B Scandinavian-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-C 	3B Chemistry-C 	8A Physics-C 	C10 Astronomy-C 
+label: 	['1A Biology', '1AL Biology', '50 Molecular & Cell Biology', '8B Physics', '41 Molecular & Cell Biology']
+predict: 	['141B Physics', 'C182 Chemistry', '3AL Chemistry', '1AL Chemistry', '146 Chemistry', '130 Physics', 'C142L Integrative Biology', '133L Molecular & Cell Biology', '24 Integrative Biology', '181L Integrative Biology']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	50 Chicano Studies-A 	14N Public Health-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-C 	10A Mathematics-B 	98 Integrative Biology-Credit 	C96 Integrative Biology-Credit 	1AL Chemistry-A 	35AC Integrative Biology-C 	sem 2: 	major: ['Letters & Sci Undeclared']: 	196 Public Health-A 	2 Political Science-B 	3AC Sociology-A 	3AL Chemistry-B 	3A Chemistry-C 	sem 3: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-C 	3BL Chemistry-B 	8A Physics-C 	166 Sociology-D 	C155 Public Health-C 
+label: 	['C160V Letters & Science', '198 Integrative Biology', '142 Public Health', '198 Public Health', '150E Public Health']
+predict: 	['150L Molecular & Cell Biology', '141B Physics', '138 Integrative Biology', '130 Physics', 'C182 Chemistry', '146 Chemistry', '24 Integrative Biology', 'C142L Integrative Biology', '103LF Integrative Biology', '181L Integrative Biology']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-C 	C30T Letters & Science-B 	98 Asian American Studies-Credit 	32 Mathematics-A 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-B 	3A Chemistry-B 	26AC Music-A 	98 Mathematics-Credit 	3AL Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	20A Music-A 	R2A Asian American Studies-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-No Credit 	3BL Chemistry-B 	3B Chemistry-B 	R2B Asian American Studies-A 
+label: 	['198 Public Health', '1B Mathematics', '10 Nutritional Science & Tox', '1 Psychology', '1B Biology', '116 Public Health']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '104 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '1AL Biology', '1B Biology', 'H7C Physics', '150L Molecular & Cell Biology']
+correct: 	['1B Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-C 	24 Bioengineering-Credit 	1A Chemistry-C 	10 Bioengineering-A 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R1A Rhetoric-A 	25 Bioengineering-Credit 	1B Mathematics-C 	7A Physics-C 	sem 2: 	major: ['Letters & Sci Undeclared']: 	50AC Env Sci, Policy, & Mgmt-B 	3A Chemistry-D 	N3AL Chemistry-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-C 	1AL Biology-B 	140 Film-B 	R44 Classics-C 	1A Biology-C 
+label: 	['3B Chemistry', '3BL Chemistry', '1B Biology', '8B Physics']
+predict: 	['3BL Chemistry', '141B Physics', '41 Molecular & Cell Biology', '138 Integrative Biology', '3AL Chemistry', '130 Physics', '1AL Chemistry', 'C182 Chemistry', '146 Chemistry', 'C142L Integrative Biology']
+correct: 	['3BL Chemistry']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Molecular & Cell Biology-Credit 	90E Molecular & Cell Biology-Credit 	8A Physics-B 	1A Chemistry-C 	1AL Chemistry-A 	R4B College Writing Programs-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	2 Psychology-A 	3AL Chemistry-A 	3AC Sociology-B 	3A Chemistry-C 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1B Biology-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-B 	10A Mathematics-C 	103D History-Credit 	3B Chemistry-C 
+label: 	['10 Nutritional Science & Tox', '10 Gender & Womens Studies', '1A Biology', '10B Mathematics', '98 Mathematics', '1AL Biology']
+predict: 	['150L Molecular & Cell Biology', '140 Integrative Biology', '104LF Integrative Biology', '141A Physics', '1B Chemistry', '160L Molecular & Cell Biology', '130B Chemistry', '105 Chemistry', '169 Integrative Biology', '141B Physics']
+correct: 	[]
+
+sem 0: 	major: ['CNR Undeclared']: 	1AL Chemistry-A 	50AC Env Sci, Policy, & Mgmt-A 	16B Mathematics-A 	1A Chemistry-C 	98 Asian Studies-Credit 	sem 1: 	major: ['CNR Undeclared']: 	24 Integrative Biology-Credit 	11 Nutritional Science & Tox-A 	3A Chemistry-B 	2 Statistics-B 	3AL Chemistry-A 	R1B History of Art-A 	sem 2: 	major: ['CNR Undeclared']: 	3B Chemistry-C 	3BL Chemistry-A 	sem 3: 	major: ['CNR Undeclared']: 	1 Economics-C 	32L Molecular & Cell Biology-A 	32 Molecular & Cell Biology-C 	1B Biology-C 	98 Chemistry-Credit 
+label: 	['1A Biology', '115 Nutritional Science & Tox', '1AL Biology', '8A Physics', '190AC Education', '1 Physical Education']
+predict: 	['150L Molecular & Cell Biology', '104LF Integrative Biology', '105 Chemistry', '169 Integrative Biology', '141B Physics', '41 Molecular & Cell Biology', '138 Integrative Biology', 'C161 Physics', '130 Physics', 'C182 Chemistry']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	50 Molecular & Cell Biology-B 	1A Chemistry-C 	94 Peace & Conflict Studies-Credit 	98 Sociology-Credit 	1B Mathematics-A 	1AL Chemistry-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R1A College Writing Programs-A 	98 Ethnic Studies-Credit 	3AL Chemistry-A 	3A Chemistry-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1B Biology-C 	3B Chemistry-B 	1 French-A 	94 Peace & Conflict Studies-Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	135A Chicano Studies-A 	111AC Sociology-B 	3BL Chemistry-A 	150 International & Area Stds-Credit 
+label: 	['8A Physics', '1A Biology', '197 Chicano Studies', '1AL Biology', '180AC Chicano Studies']
+predict: 	['C114 Molecular & Cell Biology', '150L Molecular & Cell Biology', '140 Integrative Biology', '104LF Integrative Biology', '1B Chemistry', '141A Physics', '160L Molecular & Cell Biology', 'C130 Chemistry', '130B Chemistry', '105 Chemistry']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	20A Asian American Studies-B 	90A Molecular & Cell Biology-Credit 	10A Mathematics-C 	1A Chemistry-C 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 English-Credit 	10B Mathematics-B 	8A Physics-C 	98 Molecular & Cell Biology-Credit 	97 Social Welfare-Credit 	26AC Music-A 	98 Mathematics-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	117LF Integrative Biology-Credit 	117 Integrative Biology-Credit 	N3AL Chemistry-A 	3A Chemistry-C 	sem 3: 	major: ['Letters & Sci Undeclared']: 	1 Physical Education-Credit 	8B Physics-F 	3BL Chemistry-A 	116 Public Health-Credit 	98 Public Health-Credit 	3B Chemistry-C 
+label: 	['150 Asian American Studies', '146 Asian American Studies', '1A Biology', '1AL Biology', '1 Sociology']
+predict: 	['150L Molecular & Cell Biology', '140 Integrative Biology', '1B Biology', '1B Chemistry', '141A Physics', 'C130 Chemistry', '160L Molecular & Cell Biology', '130B Chemistry', '104LF Integrative Biology', '105 Chemistry']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	32 Mathematics-B 	98 Mathematics-Credit 	1A Chinese-C 	1AL Chemistry-B 	1A Chemistry-D 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-C 	1A Mathematics-C 	143 Music-A 	1B Chinese-No Credit 	160B Letters & Science-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-C 	N3AL Chemistry-A 	3A Chemistry-D 	sem 3: 	major: ['Letters & Sci Undeclared']: 	1A Biology-C 	8A Physics-C 	R1B Theater Dance & Perf Stds-B 	1AL Biology-C 	3A Chemistry-B 
+label: 	['1B Biology', '3B Chemistry', 'R1A Native American Studies', '3BL Chemistry']
+predict: 	['3BL Chemistry', '141B Physics', '3AL Chemistry', '1AL Chemistry', 'C182 Chemistry', '146 Chemistry', '24 Integrative Biology', 'C142L Integrative Biology', 'C100 Integrative Biology', '103LF Integrative Biology']
+correct: 	['3BL Chemistry']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-C 	74 Music-A 	1AL Chemistry-A 	R1B Comparative Literature-A 	1A Chemistry-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-B 	1B Biology-B 	98 Molecular & Cell Biology-Credit 	C145 South & SE Asian Studies-A 	1B Mathematics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	N3AL Chemistry-A 	3B Chemistry-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	301C Chemistry-Credit 	3BL Chemistry-A 	138 History-B 	R1A Comparative Literature-A 	8A Physics-B 
+label: 	['8B Physics', '1A Biology', 'W21 Statistics', '1AL Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', 'H7C Physics', '1AL Biology', '137B Physics']
+correct: 	['1A Biology', '8B Physics', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-B 	1AL Chemistry-A 	1 Psychology-A 	1B Mathematics-B 	R5B South & SE Asian Studies-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-B 	116 Public Health-Credit 	10 Nutritional Science & Tox-A 	98 Public Health-Credit 	1B Biology-B 	3AL Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	8A Physics-Credit 	1A Biology-C 	3AC Sociology-B 	1AL Biology-C 	sem 3: 	major: ['L&S Public Health']: 	150D Public Health-B 	94 Peace & Conflict Studies-Credit 	142 Public Health-A 	3BL Chemistry-A 	3B Chemistry-D 
+label: 	['3B Chemistry', '150E Public Health', '126 Public Health', '150A Public Health']
+predict: 	['C100A Molecular & Cell Biology', '150 Molecular & Cell Biology', '104 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '1A Chemistry', '140 Integrative Biology', 'C148 Molecular & Cell Biology', '150L Molecular & Cell Biology', '132 Integrative Biology', '140 Molecular & Cell Biology']
+correct: 	[]
+
+sem 0: 	major: ['Nutritional Science']: 	R1B Celtic Studies-C 	98 Molecular & Cell Biology-Credit 	1AL Chemistry-A 	24 Portuguese-Credit 	10 Nutritional Science & Tox-A 	1A Chemistry-C 	sem 1: 	major: ['Nutritional Science']: 	3A Chemistry-B 	2 Psychology-A 	127AC History-A 	2 Statistics-B 	98 Public Health-Credit 	sem 2: 	major: ['Nutritional Science']: 	115 Global Poverty & Practice-Credit 	3B Chemistry-B 	32 Molecular & Cell Biology-B 	32L Molecular & Cell Biology-A 	3AL Chemistry-A 
+label: 	['1A Biology', '1 Sociology', '1AL Biology', '11 Nutritional Science & Tox', '3BL Chemistry']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '1AL Biology', '137B Physics', 'H7C Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Nutritional Science']: 	R1B History of Art-A 	10 Nutritional Science & Tox-A 	1AL Chemistry-A 	1A Chemistry-C 	98 Rhetoric-Credit 	sem 1: 	major: ['Nutritional Science']: 	26AC Music-A 	3AL Chemistry-A 	24 Integrative Biology-Credit 	2 Statistics-B 	3A Chemistry-B 	sem 2: 	major: ['Nutritional Science']: 	3B Chemistry-B 	20A Music-A 	32L Molecular & Cell Biology-A 	2 Psychology-A 	32 Molecular & Cell Biology-B 
+label: 	['3BL Chemistry', '1AL Biology', '198 English', '1A Biology', 'C101 Natural Resources', '104 Nutritional Science & Tox']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '1AL Biology', '137B Physics', 'H7C Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Nutritional Science']: 	R1B Celtic Studies-C 	1A Chemistry-B 	1A Japanese-A 	1AL Chemistry-A 	10 Nutritional Science & Tox-B 	sem 1: 	major: ['Nutritional Science']: 	1B Japanese-B 	98 Env Sci, Policy, & Mgmt-Credit 	2 Statistics-B 	3A Chemistry-B 	3AL Chemistry-A 	sem 2: 	major: ['Nutritional Science']: 	3B Chemistry-B 	32L Molecular & Cell Biology-A 	32 Molecular & Cell Biology-A 	10A Japanese-B 	3BL Chemistry-A 
+label: 	['10B Japanese', '198BC Env Sci, Policy, & Mgmt', '3AC Sociology', 'C3 Economics', '1AL Biology', '1A Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '137B Physics', 'C114 Molecular & Cell Biology', '1AL Biology', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	10A Mathematics-B 	98 Integrative Biology-Credit 	98 Env Sci, Policy, & Mgmt-Credit 	1A Chemistry-C 	1AL Chemistry-A 	35AC Integrative Biology-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	11 Nutritional Science & Tox-A 	10B Mathematics-A 	98 Mathematics-Credit 	24 Near Eastern Studies-A 	3A Chemistry-A 	3AL Chemistry-A 	50 Film-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	1 Physical Education-Credit 	1B Biology-B 	30 History-Credit 	3B Chemistry-A 
+label: 	['1A Biology', '1 Psychology', '198 Psychology', 'C148 Env Sci, Policy, & Mgmt', '98 Cognitive Science', '1AL Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '137B Physics', '1AL Biology', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Nutritional Science']: 	3AC Sociology-A 	1A Chemistry-B 	97 Social Welfare-Credit 	94 Peace & Conflict Studies-Credit 	10 Nutritional Science & Tox-A 	1AL Chemistry-A 	sem 1: 	major: ['Nutritional Science']: 	2 Statistics-A 	3A Chemistry-B 	3AL Chemistry-A 	98 Mathematics-Credit 	C10 Astronomy-A 	sem 2: 	major: ['Nutritional Science']: 	3B Chemistry-B 	3BL Chemistry-A 	W1 Psychology-Credit 	32L Molecular & Cell Biology-A 	100XA Chinese-A 	32 Molecular & Cell Biology-A 
+label: 	['100XB Chinese', '197 Ethnic Studies', 'C3 Economics', '1AL Biology', '1A Biology', 'R1B Linguistics']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '137B Physics', '1AL Biology', 'C114 Molecular & Cell Biology', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-C 	C13 Astronomy-A 	1A Mathematics-B 	1AL Chemistry-A 	97 Asian American Studies-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-B 	1B Mathematics-B 	3AL Chemistry-A 	27 English-A 	4 Philosophy-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1B Biology-B 	3BL Chemistry-A 	2AC Anthropology-A 	3B Chemistry-C 	10 Plant Biology-A 
+label: 	['8A Physics', '1AL Biology', '2 Statistics', '1A Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '1AL Biology', 'H7C Physics', '137B Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Cognitive Science-Credit 	17A Classics-Credit 	C64 Molecular & Cell Biology-C 	1AL Chemistry-A 	1A Chemistry-C 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-B 	3AL Chemistry-A 	1B Biology-B 	98 Molecular & Cell Biology-Credit 	1 Sociology-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1 Psychology-A 	3B Chemistry-A 	35AC Integrative Biology-Credit 	8A Physics-B 	3BL Chemistry-A 
+label: 	['1AL Biology', '1A Biology', '10 Psychology', '5 Linguistics', 'R1B Theater Dance & Perf Stds']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '137B Physics', 'H7C Physics', '1AL Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-B 	1A Chemistry-D 	35AC Integrative Biology-B 	10A Mathematics-C 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 Molecular & Cell Biology-Credit 	10B Mathematics-C 	15 Near Eastern Studies-A 	8A Physics-C 	2 Psychology-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3AL Chemistry-B 	84 Vision Science-Credit 	3A Chemistry-C 	25A Philosophy-B 	1B Biology-B 	R1A English-A 
+label: 	['1A Biology', 'R1B Comparative Literature', '3B Chemistry', '3BL Chemistry', '1AL Biology']
+predict: 	['150L Molecular & Cell Biology', 'H7C Physics', '140 Integrative Biology', '120A Chemistry', '1B Chemistry', '141A Physics', '104LF Integrative Biology', 'C130 Chemistry', '160L Molecular & Cell Biology', '130B Chemistry']
+correct: 	[]
+
+sem 0: 	major: ['Nutritional Science']: 	R2B Asian American Studies-A 	98 African American Studies-Credit 	1A Chemistry-C 	1AL Chemistry-A 	10 Nutritional Science & Tox-B 	sem 1: 	major: ['Nutritional Science']: 	3A Chemistry-B 	1 Psychology-B 	179 Political Science-Credit 	26AC Music-A 	3AL Chemistry-A 	sem 2: 	major: ['Nutritional Science']: 	32L Molecular & Cell Biology-A 	32 Molecular & Cell Biology-C 	3B Chemistry-B 	3BL Chemistry-A 	1 Economics-B 
+label: 	['131AC Education', '2 Physical Education', '1A Biology', 'W140A Education', '1AL Biology', '2 Statistics']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '1AL Biology', 'H7C Physics', '1B Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-A 	1AL Chemistry-A 	4A History-A 	C70T Letters & Science-B 	1B Mathematics-C 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-C 	1 Spanish-C 	54 Mathematics-D 	3AL Chemistry-B 	25AC Theater Dance & Perf Stds-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-D 	R5A South & SE Asian Studies-A 	3B Chemistry-C 	7A History-B 	8A Physics-B 
+label: 	['100BP History', '8B Physics', '3BL Chemistry', '1A Biology', '1AL Biology', 'R4B College Writing Programs', '54 Mathematics']
+predict: 	['150L Molecular & Cell Biology', '1B Biology', '141A Physics', '1B Chemistry', '105 Chemistry', '169 Integrative Biology', '141B Physics', '138 Integrative Biology', '41 Molecular & Cell Biology', 'C182 Chemistry']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1 Letters & Science-Credit 	1A Chemistry-C 	1AL Chemistry-A 	1 French-A 	10A Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3AL Chemistry-A 	50AC Env Sci, Policy, & Mgmt-A 	2 French-B 	3A Chemistry-C 	10B Mathematics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	98 Public Health-Credit 	1B Biology-B 	27 Music-A 	3BL Chemistry-A 	R5A German-A 	3B Chemistry-A 
+label: 	['179 Anthropology', 'R1B French', '8A Physics', '1AL Biology', '1A Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '137B Physics', '1AL Biology', '100B Molecular & Cell Biology']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Nutritional Science']: 	R1A College Writing Programs-B 	1A Chemistry-C 	24 Vision Science-Credit 	16A Mathematics-B 	1AL Chemistry-A 	sem 1: 	major: ['Nutritional Science']: 	R1B History of Art-B 	16B Mathematics-B 	3AL Chemistry-B 	3A Chemistry-C 	11 Nutritional Science & Tox-A 	sem 2: 	major: ['Nutritional Science']: 	3B Chemistry-C 	32L Molecular & Cell Biology-A 	3AC Sociology-B 	98 Public Health-Credit 	3BL Chemistry-B 	32 Molecular & Cell Biology-B 
+label: 	['2 Statistics', '1A Biology', '14 Public Health', '1AL Biology', 'W1 Psychology']
+predict: 	['C114 Molecular & Cell Biology', '150L Molecular & Cell Biology', 'H7C Physics', '140 Integrative Biology', '1B Biology', '120A Chemistry', '132 Integrative Biology', '1B Chemistry', '141A Physics', '140 Molecular & Cell Biology']
+correct: 	[]
+
+sem 0: 	major: ['Nutritional Science']: 	1A Chemistry-C 	10 Nutritional Science & Tox-B 	1AL Chemistry-A 	3AC Anthropology-A 	80A UGIS-UG Interdisc Studies-Credit 	sem 1: 	major: ['Nutritional Science']: 	1 Economics-C 	R1A Theater Dance & Perf Stds-A 	3AL Chemistry-B 	3A Chemistry-B 	sem 2: 	major: ['Nutritional Science']: 	32L Molecular & Cell Biology-A 	R1B History of Art-B 	3B Chemistry-C 	3BL Chemistry-A 	32 Molecular & Cell Biology-B 
+label: 	['1A Biology', '11 Nutritional Science & Tox', '104 Nutritional Science & Tox', '1AL Biology', '130 Education', '102A Business Admin-Undergrad']
+predict: 	['C100A Molecular & Cell Biology', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '150L Molecular & Cell Biology', 'H7C Physics', 'C148 Molecular & Cell Biology', '1B Biology', '1A Chemistry', '140 Integrative Biology', '132 Integrative Biology']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-B 	1A Mathematics-B 	35AC Integrative Biology-B 	1A Chemistry-C 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-B 	1B Mathematics-C 	R1B Film-A 	3AL Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1B Biology-B 	40 Gender & Womens Studies-A 	98 Molecular & Cell Biology-Credit 	3BL Chemistry-B 	3B Chemistry-C 
+label: 	['1AL Biology', '8A Physics', 'C182C History', '1A Biology']
+predict: 	['150 Molecular & Cell Biology', '8B Physics', '104 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '1AL Biology', 'H7C Physics', 'C148 Molecular & Cell Biology', '8A Physics', '150L Molecular & Cell Biology', '132 Integrative Biology']
+correct: 	['1AL Biology', '8A Physics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	1A Chemistry-B 	1A Mathematics-B 	41AC Ethnic Studies-B 	35AC Integrative Biology-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3AL Chemistry-A 	R1A Comparative Literature-A 	3A Chemistry-B 	130 Rhetoric-B 	1B Mathematics-B 	116 Public Health-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-B 	1 Psychology-B 	R1B Film-A 	1B Biology-C 	3BL Chemistry-B 
+label: 	['84 English', '1AL Biology', '4 Spanish', '1A Biology', 'C61 Psychology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '1AL Biology', '137B Physics', 'H7C Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Computer Science-Credit 	1A Mathematics-A 	1AL Chemistry-A 	3AC Anthropology-A 	1A Chemistry-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	24 Integrative Biology-A 	C61 Psychology-B 	50 Film-A 	3A Chemistry-B 	3AL Chemistry-A 	1B Mathematics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	55 Molecular & Cell Biology-B 	7A Korean-A 	3B Chemistry-B 	1B Biology-B 	3BL Chemistry-A 
+label: 	['8A Physics', '1A Biology', '1AL Biology', '1 Psychology', '1 Sociology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', '137B Physics', '1AL Biology', 'C114 Molecular & Cell Biology', 'H7C Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	1A Mathematics-B 	24 Bioengineering-Credit 	R1A Comparative Literature-B 	1A Chemistry-C 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-B 	1B Mathematics-B 	3AC Anthropology-B 	3AL Chemistry-A 	C61 Psychology-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3BL Chemistry-A 	1AL Biology-C 	1A Biology-C 	3B Chemistry-C 	R1B Film-B 
+label: 	['8A Physics', '96 Business Admin-Undergrad', '1 Psychology', '198 Psychology', '10 Nutritional Science & Tox', '147A Slavic Languages & Lit']
+predict: 	['150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '1B Biology', '150L Molecular & Cell Biology', '8A Physics', '132 Integrative Biology', 'C148 Molecular & Cell Biology', '140 Integrative Biology', '1A Chemistry', '130A Molecular & Cell Biology']
+correct: 	['8A Physics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1A College Writing Programs-A 	24 Integrative Biology-Credit 	1A Chemistry-C 	10A Mathematics-C 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	11 Nutritional Science & Tox-A 	3AL Chemistry-A 	98 Political Science-Credit 	10B Mathematics-B 	R5B Anthropology-B 	3A Chemistry-C 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-C 	128AC Asian American Studies-A 	98 Sociology-Credit 	3BL Chemistry-A 	1B Biology-B 
+label: 	['1AL Biology', '8A Physics', '1A Biology', '98 Art Practice', '1 Psychology', '10 Peace & Conflict Studies']
+predict: 	['150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '150L Molecular & Cell Biology', 'C148 Molecular & Cell Biology', '140 Integrative Biology', 'H7C Physics', '132 Integrative Biology', '1A Chemistry', '8A Physics', '140 Molecular & Cell Biology']
+correct: 	['8A Physics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 English-Credit 	1B Biology-B 	1AL Chemistry-A 	R1B Comparative Literature-B 	1A Chemistry-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	W1 Psychology-Credit 	W187 Interdisciplinary Studies-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3AL Chemistry-A 	1A Biology-C 	1 Physical Education-A 	1AL Biology-C 	180I Sociology-A 	3A Chemistry-B 
+label: 	['3BL Chemistry', '1 Physical Education', '3B Chemistry', '8A Physics', '1 French']
+predict: 	['C100A Molecular & Cell Biology', '3B Chemistry', '150 Molecular & Cell Biology', '8B Physics', '104 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '1B Biology', 'H7C Physics', 'C148 Molecular & Cell Biology', '8A Physics']
+correct: 	['3B Chemistry', '8A Physics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1B Biology-B 	98 Mechanical Engineering-Credit 	50 Film-Credit 	1 Environmental Design-A 	1B Mathematics-C 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-A 	1AL Chemistry-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1 Psychology-A 	3AL Chemistry-A 	1A Biology-B 	1AL Biology-B 	3A Chemistry-B 	84 Vision Science-Credit 
+label: 	['10 Computer Science', '8A Physics', '3BL Chemistry', '3B Chemistry']
+predict: 	['C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '3B Chemistry', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', 'H7C Physics', '137B Physics', '100B Molecular & Cell Biology']
+correct: 	['3B Chemistry']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-B 	1A Chemistry-C 	24 Integrative Biology-Credit 	R1B Comparative Literature-A 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-B 	3AL Chemistry-A 	1B Mathematics-C 	3AC Anthropology-A 	179 Political Science-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-B 	7 Philosophy-A 	1B Biology-B 	3BL Chemistry-A 	179 Political Science-Credit 	301C Chemistry-Credit 
+label: 	['1AL Biology', '45B English', '1A Biology', '301C Chemistry', '8A Physics']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', 'H7C Physics', '1AL Biology', '137B Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-B 	1A Chemistry-B 	R44 Classics-C 	1AL Chemistry-A 	24 Bioengineering-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	4 Physical Education-A 	53 Mathematics-B 	3A Chemistry-B 	1B Biology-C 	3AL Chemistry-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3B Chemistry-A 	7A Physics-C 	3AC Sociology-B 	3BL Chemistry-C 	4 Physical Education-A 
+label: 	['1AL Biology', '4 Physical Education', '7B Physics', '10Y Chinese', '1A Biology']
+predict: 	['C100A Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '104 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '1AL Biology', '8A Physics', '1A Chemistry', 'C148 Molecular & Cell Biology', '140 Molecular & Cell Biology']
+correct: 	['1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	5 Linguistics-A 	1AL Chemistry-A 	1A Chemistry-B 	C70T Letters & Science-A 	1A Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3AL Chemistry-A 	R1B Film-A 	26 English-Credit 	1B Mathematics-B 	3A Chemistry-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	40C Letters & Science-A 	3B Chemistry-A 	3BL Chemistry-A 	R5A South & SE Asian Studies-A 	8A Physics-A 
+label: 	['C160 Scandinavian', '198 Mechanical Engineering', '1AL Biology', '10 Computer Science', '26AC Music', '1A Biology']
+predict: 	['1A Biology', '110 Molecular & Cell Biology', 'C100A Molecular & Cell Biology', '104 Molecular & Cell Biology', '8B Physics', '150 Molecular & Cell Biology', 'C114 Molecular & Cell Biology', '1AL Biology', 'H7C Physics', '137B Physics']
+correct: 	['1A Biology', '1AL Biology']
+
+sem 0: 	major: ['CNR Undeclared']: 	C12 Astronomy-B 	10 Nutritional Science & Tox-A 	1A Mathematics-B 	C62 Molecular & Cell Biology-B 	sem 1: 	major: ['CNR Undeclared']: 	11 Nutritional Science & Tox-A 	98 Cognitive Science-Credit 	R1A College Writing Programs-A 	16B Mathematics-C 	sem 2: 	major: ['CNR Undeclared']: 	98 Nutritional Science & Tox-Credit 	32 Molecular & Cell Biology-B 	10 Letters & Science-Credit 	3AL Chemistry-A 	3A Chemistry-B 	32L Molecular & Cell Biology-A 
+label: 	['7B History', '3BL Chemistry', '3B Chemistry', 'R1B Film']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '3B Chemistry', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '1AL Biology', '137B Physics']
+correct: 	['3B Chemistry']
+
+sem 0: 	major: ['CNR Undeclared']: 	1A Filipino-A 	1A Chemistry-C 	98 Nutritional Science & Tox-Credit 	1AL Chemistry-A 	98 Asian American Studies-Credit 	10 Nutritional Science & Tox-A 	sem 1: 	major: ['CNR Undeclared']: 	3A Chemistry-C 	1B Filipino-A 	R1A Rhetoric-B 	16A Mathematics-A 	3AL Chemistry-C 
+label: 	['32L Molecular & Cell Biology', '100A Filipino', '1A Biology', '32 Molecular & Cell Biology', '1AL Biology', '16B Mathematics']
+predict: 	['C112L Molecular & Cell Biology', '3BL Chemistry', '158LF Integrative Biology', '15 Chemistry', 'C62 Molecular & Cell Biology', '148 Integrative Biology', 'C10 Physics', '135A Molecular & Cell Biology', '117LF Integrative Biology', '111 Physics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-B 	1A Chemistry-C 	1 Physical Education-Credit 	1 French-A 	1AL Chemistry-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1B Biology-B 	3AL Chemistry-A 	3A Chemistry-B 	2 French-A 	R1A African American Studies-A 
+label: 	['3 French', '3B Chemistry', '1AL Biology', '3BL Chemistry', 'R1B French', '1A Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '3B Chemistry', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', 'C114 Molecular & Cell Biology', '137B Physics', '1AL Biology']
+correct: 	['1A Biology', '3B Chemistry', '1AL Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	16A Mathematics-A 	98 Molecular & Cell Biology-Credit 	2 Political Science-A 	1A Chemistry-B 	1AL Chemistry-A 	98 Psychology-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1B Biology-B 	16B Mathematics-B 	27 Music-A 	3A Chemistry-B 	3AL Chemistry-A 
+label: 	['R1B Theater Dance & Perf Stds', '1 Physical Education', '1AL Biology', '3BL Chemistry', '1A Biology']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '3B Chemistry', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '137B Physics', 'C114 Molecular & Cell Biology', '100B Molecular & Cell Biology']
+correct: 	['1A Biology']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Chemistry-B 	1AL Chemistry-A 	3AC Anthropology-A 	39D Social Welfare-Credit 	16B Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 Theater Dance & Perf Stds-Credit 	3AL Chemistry-A 	137B English-A 	1B Biology-A 	1 Psychology-A 	3A Chemistry-B 
+label: 	['90 Env Sci, Policy, & Mgmt', '3B Chemistry', '1AL Biology', '15 Env Sci, Policy, & Mgmt', '1A Biology', '3BL Chemistry']
+predict: 	['1A Biology', 'C100A Molecular & Cell Biology', '110 Molecular & Cell Biology', '3B Chemistry', '104 Molecular & Cell Biology', '150 Molecular & Cell Biology', '8B Physics', '137B Physics', 'C114 Molecular & Cell Biology', 'H7C Physics']
+correct: 	['1A Biology', '3B Chemistry']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1B History of Art-A 	98 Physical Education-Credit 	39A Earth & Planetary Science-A 	1A Chemistry-C 	16B Mathematics-C 	1AL Chemistry-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	24 Bioengineering-Credit 	32L Molecular & Cell Biology-A 	44 Env Sci, Policy, & Mgmt-A 	8A Physics-B 	32 Molecular & Cell Biology-B 	C30T Letters & Science-A 	20A Music-A 
+label: 	['3A Chemistry', 'N3AL Chemistry']
+predict: 	['1A Biology', '3B Chemistry', '3A Chemistry', '8B Physics', 'C112 Molecular & Cell Biology', '1AL Biology', 'C112L Molecular & Cell Biology', '1B Biology', '1A Chemistry', '132 Integrative Biology']
+correct: 	['3A Chemistry']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	3A Chemistry-C 	7A Physics-C 	1B Mathematics-D 	3AL Chemistry-A 	C10 Astronomy-A 
+label: 	['1B Mathematics', '3BL Chemistry', '3B Chemistry', '301C Chemistry']
+predict: 	['1B Biology', '150L Molecular & Cell Biology', '140 Integrative Biology', '104LF Integrative Biology', '141A Physics', '160L Molecular & Cell Biology', '125 Chemistry', '1B Chemistry', '105 Chemistry', '3BL Chemistry']
+correct: 	['3BL Chemistry']
+
+sem 0: 	major: ['Bioengineering']: 	7A Physics-C 	53 Mathematics-C 	3AL Chemistry-A 	10 Bioengineering-A 	17A Classics-Credit 	24 Bioengineering-Credit 	3A Chemistry-C 
+label: 	['7 Engineering', '1A Biology', 'C85 Mechanical Engineering', 'R1B Comparative Literature', '1AL Biology', '25 Bioengineering']
+predict: 	['1B Biology', '150L Molecular & Cell Biology', '140 Integrative Biology', '104LF Integrative Biology', '141A Physics', '125 Chemistry', '160L Molecular & Cell Biology', '1B Chemistry', '105 Chemistry', '3BL Chemistry']
+correct: 	[]
+
+negative hit rate	0.64

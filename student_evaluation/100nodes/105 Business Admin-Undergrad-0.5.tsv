@@ -1,0 +1,791 @@
+sem 0: 	major: ['Letters & Sci Undeclared']: 	27 Music-A 	7A History-A 	1 Economics-A 	24 Nutritional Science & Tox-Credit 	97 Education-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-A 	C10 Astronomy-Credit 	40 Plant Biology-A 	10 Business Admin-Undergrad-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	100A Economics-B 	61A Computer Science-B 	98 Music-Credit 	54 Mathematics-B 	sem 4: 	major: ['Letters & Sci Undeclared']: 	10B Classics-Credit 	98 Electrical Engineering-Credit 	100B Economics-A 	61B Computer Science-B 	sem 5: 	major: ['Economics']: 	W145A Political Science-Credit 	sem 6: 	major: ['Business Administration']: 	100 Business Admin-Undergrad-A 	61C Computer Science-No Credit 	107 Business Admin-Undergrad-B 	103 Business Admin-Undergrad-B 	102A Business Admin-Undergrad-A 
+label: 	['106 Business Admin-Undergrad', '133 Business Admin-Undergrad', '102B Business Admin-Undergrad', '136F Business Admin-Undergrad', '137 Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '140 Economics', '1 Economics', '113 Mathematics', 'C3 Economics', '1B Mathematics', 'C171 Economics', '55 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1 Psychology-Credit 	11 Physical Education-Credit 	3AC Sociology-A 	16A Mathematics-A 	32 Molecular & Cell Biology-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	29 Music-A 	16B Mathematics-B 	R1A College Writing Programs-A 	11 Physical Education-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	30 Italian Studies-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	11 Physical Education-Credit 	C20 Earth & Planetary Science-Credit 	90 Native American Studies-Credit 	R5B Anthropology-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-C 	11 Physical Education-Credit 	139 Music-A 	1 Economics-B 	sem 5: 	major: ['Letters & Sci Undeclared']: 	N150 Psychology-A 	sem 6: 	major: ['Business Administration']: 	198 Statistics-Credit 	11 Physical Education-Credit 	198 Business Admin-Undergrad-Credit 	100 Business Admin-Undergrad-B 	102A Business Admin-Undergrad-A 	103 Business Admin-Undergrad-B 
+label: 	['C167 Sociology', '116 Public Health', '179 Political Science', '11 Physical Education', '14 Public Health']
+predict: 	['2 Statistics', '100A Economics', '140 Economics', 'C3 Economics', 'C171 Economics', '131 Economics', '16A Mathematics', '133 Statistics', '120B Business Admin-Undergrad', 'W21 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1B English-B 	10 Nutritional Science & Tox-A 	10 Astronomy-Credit 	16A Mathematics-A 	2 Psychology-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-A 	2 Physical Education-Credit 	173 Celtic Studies-A 	132AC Asian American Studies-A 	10 Business Admin-Undergrad-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-A 	1 Economics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	100A Economics-A 	12A Philosophy-A 	20A Music-A 	61A Computer Science-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	110 Sociology-Credit 	C175 Economics-B 	101B Business Admin-Undergrad-A 	1 Sociology-Credit 	sem 5: 	major: ['Economics']: 	102A Business Admin-Undergrad-A 	106 Business Admin-Undergrad-A 	sem 6: 	major: ['Economics', 'Business Administration']: 	C110 Economics-Credit 	104 Business Admin-Undergrad-A 	102B Business Admin-Undergrad-B 	103 Business Admin-Undergrad-B 
+label: 	['120AB Business Admin-Undergrad', '107 Business Admin-Undergrad', '100 Business Admin-Undergrad', '120AA Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', '1B Mathematics', '55 Mathematics', 'C171 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Nutritional Science']: 	1A Chemistry-B 	1AL Chemistry-A 	100AX Korean-A 	16A Mathematics-B 	10 Nutritional Science & Tox-A 	sem 1: 	major: ['Nutritional Science']: 	3A Chemistry-B 	3AL Chemistry-A 	3 Physical Education-Credit 	1B Biology-B 	R1A Chicano Studies-A 	98 Nutritional Science & Tox-Credit 	sem 2: 	major: ['Nutritional Science']: 	W21 Statistics-B 	R1B African American Studies-A 	16B Mathematics-A 	sem 3: 	major: ['Nutritional Science']: 	32 Molecular & Cell Biology-B 	1 Psychology-A 	10 Business Admin-Undergrad-A 	32L Molecular & Cell Biology-A 	3B Chemistry-B 	sem 4: 	major: ['Nutritional Science']: 	1 Economics-B 	8A Physics-B 	1A Biology-C 	1AL Biology-B 	sem 5: 	major: ['Nutritional Science']: 	122AC Ethnic Studies-Credit 	104 Nutritional Science & Tox-A 	sem 6: 	major: ['Business Administration']: 	102A Business Admin-Undergrad-A 	101A Business Admin-Undergrad-B 	187 Korean-A 	100 Business Admin-Undergrad-A 	180 Business Admin-Undergrad-A 
+label: 	['101B Business Admin-Undergrad', '115 Nutritional Science & Tox', '120AA Business Admin-Undergrad', '103 Business Admin-Undergrad', '107 Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '140 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', '1B Mathematics', '55 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	N2 College Writing Programs-Credit 	39D African American Studies-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	2 Statistics-B 	1 Psychology-B 	98 Music-Credit 	R1A College Writing Programs-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3 Earth & Planetary Science-A 	8 Art Practice-A 	61 Molecular & Cell Biology-C 	R5B Italian Studies-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	C19 Psychology-B 	1 College Writing Programs-Credit 	3AC Sociology-A 	98 Mathematics-Credit 	5 Linguistics-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-No Credit 	98 Psychology-Credit 	1 Anthropology-B 	1B Japanese-A 	sem 5: 	major: ['Letters & Sci Undeclared']: 	10 Japanese-A 
+label: 	['130 Psychology', '101 Psychology', '133 Psychology', '160 Psychology']
+predict: 	['10 Business Admin-Undergrad', '100A Economics', '16B Mathematics', '1 Economics', '140 Economics', 'C3 Economics', 'C171 Economics', '182 Economics', '131 Economics', '16A Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Arabic-A 	120C Letters & Science-B 	98 Rhetoric-Credit 	16A Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1B Arabic-A 	1 Economics-B 	16B Mathematics-C 	2AC Anthropology-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	R1B Native American Studies-A 	W21 Statistics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	20A Arabic-A 	98 Computer Science-Credit 	146A Near Eastern Studies-A 	10 Business Admin-Undergrad-A 	10 Theater Dance & Perf Stds-B 	sem 4: 	major: ['Letters & Sci Undeclared']: 	20B Arabic-Credit 	C10 Astronomy-A 	40 Plant Biology-A 	R1A Rhetoric-A 	sem 5: 	major: ['Business Administration']: 	107 Business Admin-Undergrad-B 	2 Physical Education-Credit 	101A Business Admin-Undergrad-B 	179 Business Admin-Undergrad-A 	106 Business Admin-Undergrad-B 	102A Business Admin-Undergrad-A 
+label: 	['102B Business Admin-Undergrad', '103 Business Admin-Undergrad', '100 Business Admin-Undergrad', '167 Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '140 Economics', '54 Mathematics', 'C3 Economics', '1B Mathematics', '55 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	R1B History-A 	101A Portuguese-A 	98 African American Studies-Credit 	16B Mathematics-A 	101B Portuguese-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	W111 African American Studies-Credit 	W21 Statistics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	150 Latin American Studies-A 	102A Business Admin-Undergrad-B 	146 History-Credit 	197 Social Welfare-Credit 	1 Economics-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	107 Business Admin-Undergrad-A 	179 Business Admin-Undergrad-A 	2 Physical Education-Credit 	115 Anthropology-A 	165 Env Sci, Policy, & Mgmt-B 	190G Industrial Eng & Ops Rsch-Credit 	sem 4: 	major: ['Letters & Sci Undeclared']: 	101B Business Admin-Undergrad-C 	20 Earth & Planetary Science-A 	sem 5: 	major: ['Business Administration']: 	6 Env Sci, Policy, & Mgmt-A 	1 Physical Education-Credit 	190C Industrial Eng & Ops Rsch-A 	90 Env Sci, Policy, & Mgmt-A 	155 Env Sci, Policy, & Mgmt-A 	169 Env Sci, Policy, & Mgmt-A 	103 Business Admin-Undergrad-B 	119 Business Admin-Undergrad-B 
+label: 	['102 Portuguese', '131 Business Admin-Undergrad', '104 Business Admin-Undergrad', '100 Business Admin-Undergrad', '1 Physical Education', 'C167 Env Sci, Policy, & Mgmt']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1 Economics-B 	R2A Asian American Studies-A 	16A Mathematics-B 	10 Nutritional Science & Tox-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R5B German-A 	16B Mathematics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-C 	2A Hindi-Urdu-A 	10 Business Admin-Undergrad-B 	18 Near Eastern Studies-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	10 Peace & Conflict Studies-B 	100A Economics-Credit 	2B Hindi-Urdu-A 	45 International & Area Stds-B 	sem 4: 	major: ['Letters & Sci Undeclared']: 	N124B History-B 	sem 5: 	major: ['Political Economy']: 	100 Political Economy-C 	150 International & Area Stds-B 	103A Hindi-Urdu-A 	166 Sociology-C 
+label: 	['105 Letters & Science', '103B Hindi-Urdu', '101 Political Economy', 'C100 Development Studies']
+predict: 	['1 Economics', 'C3 Economics', 'C171 Economics', '131 Economics', '16A Mathematics', '120B Business Admin-Undergrad', '133 Statistics', 'W21 Statistics', '102B Business Admin-Undergrad', '102A Business Admin-Undergrad']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	96 Mathematics-No Credit 	20 Chicano Studies-B 	98 Mathematics-No Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Latin American Studies-B 	98 Education-Credit 	98 Mathematics-Credit 	32 Mathematics-C 	sem 2: 	major: ['Letters & Sci Undeclared']: 	16A Mathematics-D 	1 Psychology-B 	50AC Gender & Womens Studies-B 	R1A College Writing Programs-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	1A Chemistry-No Credit 	1 Political Science-B 	C19 Psychology-B 	98 Env Sci, Policy, & Mgmt-Credit 	sem 4: 	major: ['Letters & Sci Undeclared']: 	3AC Sociology-A 	98 Integrative Biology-Credit 	1 Anthropology-B 	150 Latin American Studies-B 	sem 5: 	major: ['Psychology']: 	140 Psychology-B 	C20 Earth & Planetary Science-B 	116 Public Health-Credit 	98 Public Health-Credit 	101 Psychology-A 
+label: 	['161 Chicano Studies', '135 Spanish', '160 Psychology', '150 Psychology']
+predict: 	['10 Business Admin-Undergrad', '100A Economics', '1 Economics', '140 Economics', '113 Mathematics', 'C3 Economics', 'C171 Economics', '131 Economics', '133 Statistics', '134 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Computer Science-Credit 	1 Economics-A 	R4B College Writing Programs-A 	11 Nutritional Science & Tox-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	61A Computer Science-Credit 	W21 Statistics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	54 Mathematics-B 	C70Y Letters & Science-Credit 	10 Business Admin-Undergrad-B 	141 Asian American Studies-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	61B Computer Science-No Credit 	120 Engineering-A 	100B Economics-A 	20A Music-A 	sem 4: 	major: ['Economics']: 	N110 Economics-A 	100A Economics-A 	sem 5: 	major: ['Economics', 'Business Administration']: 	140 Economics-B 	198 Engineering-Credit 	103 Business Admin-Undergrad-A 	100 Business Admin-Undergrad-A 	102A Business Admin-Undergrad-A 
+label: 	['104 Business Admin-Undergrad', '131 Business Admin-Undergrad', '106 Business Admin-Undergrad', '107 Business Admin-Undergrad', '191 Industrial Eng & Ops Rsch']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '16B Mathematics', '1 Economics', '113 Mathematics', 'C3 Economics', '1B Mathematics', '55 Mathematics', '133 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	24 Political Economy-Credit 	1 Economics-A 	2A Scandinavian-A 	53 Mathematics-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-A 	160 History-B 	10 Business Admin-Undergrad-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	102A Business Admin-Undergrad-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	100B Economics-A 	8A Physics-A 	100AC History-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	8B Physics-B 	100A Economics-A 	R1B English-A 	sem 5: 	major: ['Business Administration']: 	104 Business Admin-Undergrad-A 	118 Business Admin-Undergrad-A 	103 Business Admin-Undergrad-A 	54 Mathematics-Credit 
+label: 	['107 Business Admin-Undergrad', '102B Business Admin-Undergrad', '100 Business Admin-Undergrad', '122 Business Admin-Undergrad']
+predict: 	['2 Statistics', '53 Mathematics', '16B Mathematics', '140 Economics', '1 Economics', '113 Mathematics', '1B Mathematics', 'C3 Economics', '55 Mathematics', '133 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	24 Physics-Credit 	40 Geography-B 	R1A English-B 	1B Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	2AC Anthropology-A 	10 Nutritional Science & Tox-A 	50AC Env Sci, Policy, & Mgmt-A 	1 Economics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	R5B Slavic Languages & Lit-A 	10 Latin American Studies-A 	98 Business Admin-Undergrad-Credit 	C20 Earth & Planetary Science-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	96 Business Admin-Undergrad-Credit 	29 Music-A 	20 Statistics-B 	5B African American Studies-Credit 	sem 4: 	major: ['Letters & Sci Undeclared']: 	16 Spanish-Credit 	N3 Spanish-A 	sem 5: 	major: ['Business Administration']: 	106 Business Admin-Undergrad-A 	179 Political Science-Credit 	103 Business Admin-Undergrad-B 	110 Demography-A 	102A Business Admin-Undergrad-B 
+label: 	['195A Business Admin-Undergrad', '101B Business Admin-Undergrad', '160 Business Admin-Undergrad', '117 Sociology', '100 Business Admin-Undergrad']
+predict: 	['2 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '16B Mathematics', '140 Economics', 'C3 Economics', '54 Mathematics', '1B Mathematics', '55 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-C 	3AC Sociology-B 	10 Astronomy-B 	11 Physical Education-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R1A College Writing Programs-A 	16B Mathematics-B 	116 Public Health-Credit 	11 Physical Education-No Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	R4B College Writing Programs-A 	32 Physical Education-Credit 	11 Physical Education-Credit 	98 College Writing Programs-Credit 	1 Economics-C 	10 Media Studies-Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	131A Statistics-Credit 	100B Economics-C 	98 College Writing Programs-Credit 	148 Music-A 	11 Physical Education-Credit 	sem 4: 	major: ['Letters & Sci Undeclared']: 	16A Mathematics-A 	sem 5: 	major: ['Letters & Sci Undeclared']: 	10A College Writing Programs-A 	134B Music-B 	11 Physical Education-Credit 	10 Business Admin-Undergrad-B 	100A Economics-B 
+label: 	['198 Mathematics', '106 Business Admin-Undergrad', '148 Music', '104 Business Admin-Undergrad', 'C172 Business Admin-Undergrad']
+predict: 	['2 Statistics', '140 Economics', '113 Mathematics', 'C3 Economics', 'C171 Economics', '131 Economics', '110 Mathematics', '133 Statistics', '120B Business Admin-Undergrad', 'W21 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	16A Mathematics-A 	3 German-A 	98 Mathematics-Credit 	C70V Letters & Science-Credit 	R5A German-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-A 	116 Public Health-Credit 	98 Public Health-Credit 	10 Business Admin-Undergrad-A 	98 Public Policy-Credit 	4 German-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	R5B Slavic Languages & Lit-A 	1 Economics-A 	162A History-A 	40 Env Sci, Policy, & Mgmt-A 	198 Engineering-Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	100A Economics-A 	103 Business Admin-Undergrad-B 	198 Public Policy-Credit 	101 Public Policy-A 	W21 Statistics-A 	sem 4: 	major: ['Economics']: 	W135 Political Science-Credit 	sem 5: 	major: ['Business Administration']: 	150 Political Science-A 	102A Business Admin-Undergrad-A 	131 Business Admin-Undergrad-A 
+label: 	['100 Business Admin-Undergrad', '101B Business Admin-Undergrad', 'C103 Public Policy', '104 Business Admin-Undergrad', '120AA Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '113 Mathematics', '140 Economics', 'C3 Economics', '54 Mathematics', '1B Mathematics', '55 Mathematics', '133 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	16A Mathematics-B 	44 Env Sci, Policy, & Mgmt-B 	R5A South & SE Asian Studies-B 	3AC Anthropology-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-C 	98 Nutritional Science & Tox-Credit 	29 Music-A 	13 Plant Biology-A 	10 Business Admin-Undergrad-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	C62 Molecular & Cell Biology-B 	179 Political Science-Credit 	1 Psychology-B 	10 Plant Biology-B 	1 Economics-F 	sem 3: 	major: ['Letters & Sci Undeclared']: 	40 Italian Studies-A 	190G Industrial Eng & Ops Rsch-A 	110 Native American Studies-A 	149 Native American Studies-A 	1 Economics-B 	3 Earth & Planetary Science-Credit 	sem 4: 	major: ['Letters & Sci Undeclared']: 	W111 African American Studies-A 	W12 Astronomy-A 	sem 5: 	major: ['Letters & Sci Undeclared']: 	R5B Anthropology-A 	198 Business Admin-Undergrad-Credit 	C167 Sociology-A 	W1X Filipino-A 
+label: 	['101B Business Admin-Undergrad', 'W21 Statistics', '103 Business Admin-Undergrad', '198 Business Admin-Undergrad']
+predict: 	['2 Statistics', '100A Economics', 'C3 Economics', 'C171 Economics', '131 Economics', '16A Mathematics', '120B Business Admin-Undergrad', '133 Statistics', 'W21 Statistics', '102B Business Admin-Undergrad']
+correct: 	['W21 Statistics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-A 	10 Nutritional Science & Tox-B 	27AC African American Studies-A 	61AS Computer Science-Credit 	98 Computer Science-No Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R1A Native American Studies-A 	121 Sociology-A 	98 Statistics-Credit 	116 Public Health-Credit 	1 Economics-B 	16B Mathematics-B 	98 Computer Science-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	51 Linguistics-B 	133C Music-A 	R5B Anthropology-A 	10 Business Admin-Undergrad-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	185 Industrial Eng & Ops Rsch-A 	192N Business Admin-Undergrad-A 	100B Economics-B 	sem 5: 	major: ['Business Administration']: 	27 Music-A 	102A Business Admin-Undergrad-B 	104 Business Admin-Undergrad-B 	101A Business Admin-Undergrad-A 
+label: 	['100 Business Admin-Undergrad', '106 Business Admin-Undergrad', '103 Business Admin-Undergrad', '150 Psychology', '190T Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '140 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', '1B Mathematics', '55 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['CNR Undeclared']: 	15 Env Sci, Policy, & Mgmt-A 	98 Env Sci, Policy, & Mgmt-Credit 	10 Peace & Conflict Studies-A 	41AC Ethnic Studies-A 	sem 1: 	major: ['CNR Undeclared']: 	1A Chemistry-B 	24 English-Credit 	11 Nutritional Science & Tox-A 	10 Nutritional Science & Tox-A 	16A Mathematics-B 	1AL Chemistry-A 	sem 2: 	major: ['CNR Undeclared']: 	1B Biology-A 	3A Chemistry-B 	3AL Chemistry-A 	R1B Comparative Literature-B 	sem 3: 	major: ['CNR Undeclared']: 	165 Env Sci, Policy, & Mgmt-Credit 	3B Chemistry-C 	98 Nutritional Science & Tox-Credit 	1A Biology-B 	1AL Biology-C 	sem 4: 	major: ['CNR Undeclared']: 	32L Molecular & Cell Biology-A 	104 Nutritional Science & Tox-A 	32 Molecular & Cell Biology-A 	sem 5: 	major: ['Nut Sci-Physio & Metabol']: 	198 Env Sci, Policy, & Mgmt-Credit 	103 Nutritional Science & Tox-B 	166 Nutritional Science & Tox-A 	102 Molecular & Cell Biology-B 	3BL Chemistry-A 
+label: 	['1 Economics', '135 Nutritional Science & Tox']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '140 Economics', '1 Economics', '113 Mathematics', '54 Mathematics']
+correct: 	['1 Economics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	16A Mathematics-A 	24 Spanish-Credit 	2 Psychology-A 	1 Economics-A 	C10 Astronomy-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-A 	10 Business Admin-Undergrad-B 	29 Music-A 	21 Statistics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	R5B Slavic Languages & Lit-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	53 Mathematics-C 	100B Economics-A 	116 Public Health-Credit 	100AC Gender & Womens Studies-A 	98 Public Health-Credit 	40 Env Sci, Policy, & Mgmt-B 	sem 4: 	major: ['Letters & Sci Undeclared']: 	2 Political Science-Credit 	54 Mathematics-B 	134 Statistics-Credit 	100A Economics-B 	sem 5: 	major: ['Business Administration']: 	102A Business Admin-Undergrad-A 	103 Business Admin-Undergrad-A 	120 South & SE Asian Studies-A 	191K Mechanical Engineering-B 	110 Sociology-A 
+label: 	['124 Asian American Studies', '100 Business Admin-Undergrad', '102B Business Admin-Undergrad', '137 Business Admin-Undergrad', '133 Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '140 Economics', '1 Economics', '113 Mathematics', 'C3 Economics', '1B Mathematics', '55 Mathematics', '133 Statistics', 'C171 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Engineering Undeclared']: 	7A Physics-C 	24 Bioengineering-Credit 	98 Public Health-Credit 	92 Engineering-Credit 	92 Civil & Environmental Eng-Credit 	1B Mathematics-A 	sem 1: 	major: ['Engineering Undeclared']: 	7 Engineering-C 	98 Nutritional Science & Tox-Credit 	7B Physics-D 	53 Mathematics-C 	sem 2: 	major: ['Engineering Undeclared']: 	R1B Comparative Literature-A 	1AL Biology-B 	1A Punjabi-A 	2 Statistics-B 	1A Biology-C 	sem 3: 	major: ['Letters & Sci Undeclared']: 	1B Biology-B 	1B Punjabi-A 	3AC Sociology-A 	1 Anthropology-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	7B Physics-B 	20A Music-A 	sem 5: 	major: ['Psychology']: 	C120 Psychology-B 	1A Chemistry-B 	1AL Chemistry-A 	100A Punjabi-A 	101 Psychology-A 
+label: 	['126 Near Eastern Studies', '1B Chemistry', '160 Psychology', '130 Psychology', '10 Nutritional Science & Tox']
+predict: 	['10 Business Admin-Undergrad', '20 Statistics', '100A Economics', '16B Mathematics', '140 Economics', '1 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	61A Computer Science-B 	40 Env Sci, Policy, & Mgmt-B 	R5A South Asian-B 	54 Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1 Economics-A 	61B Computer Science-B 	R1B English-B 	116 Public Health-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	53 Mathematics-C 	10 Business Admin-Undergrad-B 	61C Computer Science-B 	10 Geography-Credit 	sem 4: 	major: ['Letters & Sci Undeclared']: 	121 Economics-B 	100B Economics-B 	192 Industrial Eng & Ops Rsch-A 	70 Computer Science-B 	7B History-Credit 	sem 5: 	major: ['L&S Computer Science', 'Business Administration']: 	101A Business Admin-Undergrad-A 	100 Business Admin-Undergrad-B 	188 Computer Science-B 	170 Computer Science-B 	102A Business Admin-Undergrad-B 
+label: 	['189 Computer Science', '186 Computer Science', '103 Business Admin-Undergrad', '104 Business Admin-Undergrad', '107 Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '100A Economics', '16B Mathematics', '113 Mathematics', '140 Economics', 'C3 Economics', '54 Mathematics', '1B Mathematics', '134 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1 Psychology-A 	16A Mathematics-A 	10 Asian Studies-B 	24 Env Sci, Policy, & Mgmt-Credit 	98 Plant Biology-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-B 	10 Nutritional Science & Tox-A 	1 Economics-A 	3 Earth & Planetary Science-A 	R1B History of Art-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-A 	W21 Statistics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	25A Film-Credit 	10 Business Admin-Undergrad-A 	20A Asian American Studies-A 	196 Business Admin-Undergrad-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	98 Business Admin-Undergrad-Credit 	100A Economics-A 	146 Asian American Studies-A 	50AC Env Sci, Policy, & Mgmt-A 	sem 5: 	major: ['Letters & Sci Undeclared']: 	103 Business Admin-Undergrad-A 	sem 6: 	major: ['Business Administration']: 	C167 Sociology-A 	167 Business Admin-Undergrad-B 	180 Business Admin-Undergrad-A 	102A Business Admin-Undergrad-B 
+label: 	['100 Business Admin-Undergrad', '196 Business Admin-Undergrad', '101B Business Admin-Undergrad', '102B Business Admin-Undergrad', '198 Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics', '1B Mathematics', '54 Mathematics', 'C171 Economics', '131 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	10 Letters & Science-Credit 	5 Political Science-B 	10 Nutritional Science & Tox-A 	3AC Sociology-A 	12 Physical Education-Credit 	98 Molecular & Cell Biology-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	12 Physical Education-Credit 	1AL Chemistry-A 	32 Mathematics-A 	R5A Italian Studies-A 	1A Chemistry-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	98 Psychology-Credit 	1 Economics-B 	R1B Comparative Literature-B 	12 Physical Education-Credit 	98 Public Health-Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	98 Mathematics-Credit 	116 Public Health-Credit 	29 Music-A 	12 Physical Education-Credit 	16A Mathematics-A 	10 Business Admin-Undergrad-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-A 	sem 5: 	major: ['Letters & Sci Undeclared']: 	12 Physical Education-Credit 	40C Letters & Science-A 	16B Mathematics-A 	100B Economics-B 
+label: 	['170 Business Admin-Undergrad', '12 Physical Education', '198 Psychology', '100A Economics', '195A Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '140 Economics', '113 Mathematics', '54 Mathematics', '1B Mathematics', 'C3 Economics', '55 Mathematics']
+correct: 	['100A Economics']
+
+sem 0: 	major: ['Industrial Eng & Ops Rsch']: 	53 Mathematics-A 	1 Economics-Credit 	98 Civil & Environmental Eng-Credit 	24 Industrial Eng & Ops Rsch-Credit 	7B Physics-B 	2 Physical Education-Credit 	sem 1: 	major: ['Industrial Eng & Ops Rsch']: 	98 Electrical Engineering-Credit 	54 Mathematics-A 	98 Engineering-Credit 	101A Economics-A 	24 Integrative Biology-B 	7 Engineering-A 	9C Computer Science-Credit 	3 Physical Education-Credit 	sem 2: 	major: ['Industrial Eng & Ops Rsch']: 	R5B Anthropology-A 	131 Business Admin-Undergrad-A 	103 Business Admin-Undergrad-A 	sem 3: 	major: ['Industrial Eng & Ops Rsch']: 	28 Engineering-A 	172 Industrial Eng & Ops Rsch-A 	3 Physical Education-Credit 	102A Business Admin-Undergrad-A 	R5A German-B 	C85 Mechanical Engineering-B 	sem 4: 	major: ['Industrial Eng & Ops Rsch']: 	61B Computer Science-A 	165 Industrial Eng & Ops Rsch-B 	102B Business Admin-Undergrad-B 	192 Industrial Eng & Ops Rsch-A 	161 Industrial Eng & Ops Rsch-B 	40 Electrical Engineering-A 	sem 5: 	major: ['Industrial Eng & Ops Rsch']: 	3 Physical Education-Credit 	128 Engineering-B 	162 Industrial Eng & Ops Rsch-A 	115 Industrial Eng & Ops Rsch-A 	20 Electrical Engineering-A 	160 Industrial Eng & Ops Rsch-B 
+label: 	['153 Industrial Eng & Ops Rsch', '98 Theater Dance & Perf Stds', '131 Industrial Eng & Ops Rsch', '135 Mechanical Engineering', '170 Industrial Eng & Ops Rsch']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '1 Economics', '100A Economics', '16B Mathematics', '113 Mathematics', '140 Economics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1 Economics-A 	4A History-Credit 	C52 South & SE Asian Studies-A 	10 Astronomy-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	160 History-Credit 	16B Mathematics-A 	13 Plant Biology-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	R5B Italian Studies-A 	53 Mathematics-A 	100B Economics-A 	98 Statistics-Credit 	sem 4: 	major: ['Letters & Sci Undeclared']: 	133 Statistics-A 	100A Economics-A 	138 Economics-Credit 	26AC Music-A 	sem 5: 	major: ['Business Administration']: 	100 Business Admin-Undergrad-A 	134 Statistics-A 	54 Mathematics-A 	198 Statistics-Credit 	103 Business Admin-Undergrad-A 	102A Business Admin-Undergrad-A 
+label: 	['135 Statistics', '104 Business Admin-Undergrad', '131 Business Admin-Undergrad', '102B Business Admin-Undergrad', '183 Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '113 Mathematics', '1 Economics', '140 Economics', 'C3 Economics', '1B Mathematics', '55 Mathematics', '131 Economics', '120B Business Admin-Undergrad']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Legal Studies-Credit 	20 Statistics-B 	100XA Chinese-A 	R2B Asian American Studies-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	13 Plant Biology-A 	10 Business Admin-Undergrad-A 	2 Political Science-A 	100XB Chinese-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1 Economics-A 	16A Mathematics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-A 	102 Chinese-Credit 	C70V Letters & Science-A 	18 Near Eastern Studies-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	61A Computer Science-Credit 	166AC Psychology-A 	155 Business Admin-Undergrad-A 	100B Economics-B 	198 Computer Science-Credit 	sem 5: 	major: ['Business Administration']: 	102A Business Admin-Undergrad-B 	103 Business Admin-Undergrad-C 	101A Business Admin-Undergrad-A 	198 Computer Science-Credit 	196 Business Admin-Undergrad-Credit 
+label: 	['106 Business Admin-Undergrad', '100 Business Admin-Undergrad', '190T Business Admin-Undergrad', 'C162 Psychology']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '140 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', '1B Mathematics', '55 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	100XA Chinese-A 	10 Astronomy-Credit 	53 Mathematics-B 	7A Chinese-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	54 Mathematics-A 	100XB Chinese-A 	98 Public Policy-Credit 	98 Statistics-Credit 	10 Business Admin-Undergrad-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	10 Plant Biology-Credit 	102 Chinese-A 	C26 Near Eastern Studies-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	190 Legal Studies-A 	122AC Ethnic Studies-A 	149 Native American Studies-A 	101A Business Admin-Undergrad-A 	sem 5: 	major: ['Business Administration']: 	104 Business Admin-Undergrad-A 	102A Business Admin-Undergrad-A 	198 Business Admin-Undergrad-Credit 	103 Business Admin-Undergrad-A 	198 Environmental Design-Credit 
+label: 	['137 Business Admin-Undergrad', '101B Business Admin-Undergrad', '100 Business Admin-Undergrad', '133 Statistics', '133 Business Admin-Undergrad', '134 Statistics']
+predict: 	['2 Statistics', '53 Mathematics', '20 Statistics', '100A Economics', '140 Economics', '16B Mathematics', '1 Economics', '113 Mathematics', 'C3 Economics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	50 Molecular & Cell Biology-B 	16B Mathematics-C 	3AC Anthropology-A 	116 Public Health-Credit 	C10 Astronomy-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Nutritional Science & Tox-B 	1B Biology-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	100 Linguistics-B 	1 Physical Education-Credit 	1 Spanish-B 	1AL Chemistry-A 	181 Public Health-A 	1A Chemistry-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	47 Linguistics-A 	120 Linguistics-B 	100B Filipino-A 	2 Physical Education-C 	150E Public Health-A 	198 Computer Science-Credit 	sem 4: 	major: ['Letters & Sci Undeclared']: 	150D Public Health-A 	112 Social Welfare-Credit 	sem 5: 	major: ['L&S Public Health']: 	2 Physical Education-Credit 	32 Molecular & Cell Biology-Credit 	170 Linguistics-A 	110 Linguistics-B 	142 Public Health-B 
+label: 	['1 Physical Education', '44 Music', '196 Public Health', '150A Public Health', '115 Linguistics']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '140 Economics', '1 Economics', '113 Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1B English-A 	20 Geography-A 	16A Mathematics-A 	1 Psychology-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3AC Anthropology-A 	16B Mathematics-B 	140 Gender & Womens Studies-A 	10 Business Admin-Undergrad-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	196 International & Area Stds-Credit 	W187 Interdisciplinary Studies-Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	196 Business Admin-Undergrad-A 	20 Statistics-A 	1 Economics-A 	189 Philosophy-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	101B Business Admin-Undergrad-A 	190 Public Policy-A 	101 Political Economy-B 	C10 Physics-Credit 	sem 5: 	major: ['Business Administration']: 	159B History-No Credit 	101A Business Admin-Undergrad-B 	102A Business Admin-Undergrad-B 	C82 Integrative Biology-No Credit 
+label: 	['107 Business Admin-Undergrad', '103 Business Admin-Undergrad', '100 Business Admin-Undergrad', '138 Economics', '102B Business Admin-Undergrad']
+predict: 	['2 Statistics', '53 Mathematics', '100A Economics', '140 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', '1B Mathematics', 'C171 Economics', '55 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1A English-A 	1A Mathematics-B 	1 Letters & Science-Credit 	1 Psychology-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-A 	10 Business Admin-Undergrad-A 	R1B Film-A 	C70U Letters & Science-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	110 City & Regional Planning-A 	98 Business Admin-Undergrad-Credit 	94 Peace & Conflict Studies-Credit 	1 Economics-A 	50AC Env Sci, Policy, & Mgmt-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	106 Scandinavian-A 	20 Statistics-B 	100A Economics-A 	98 Integrative Biology-Credit 	sem 4: 	major: ['Letters & Sci Undeclared']: 	10 Nutritional Science & Tox-Credit 	sem 5: 	major: ['Business Administration']: 	198 Interdisciplinary Studies-Credit 	98 Statistics-Credit 	102A Business Admin-Undergrad-B 	C5 Business Admin-Undergrad-Credit 	100 Business Admin-Undergrad-A 	107 Business Admin-Undergrad-B 
+label: 	['102B Business Admin-Undergrad', '198 Business Admin-Undergrad', '196 Business Admin-Undergrad', '103 Business Admin-Undergrad', 'C101 Natural Resources', '179 Political Science']
+predict: 	['2 Statistics', '53 Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', 'C171 Economics', '1B Mathematics', '55 Mathematics', '110 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-B 	R1B English-A 	1 Psychology-B 	10AC Ethnic Studies-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-B 	50 Film-A 	10 Nutritional Science & Tox-Credit 	98 Business Admin-Undergrad-Credit 	97 Education-Credit 	10 Business Admin-Undergrad-A 	98 Public Policy-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	1 Economics-B 	10 Media Studies-A 	1 French-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	5 Linguistics-A 	198 College Writing Programs-Credit 	1BX Korean-A 	100B Economics-B 	sem 5: 	major: ['Business Administration']: 	107 Business Admin-Undergrad-B 	198 Business Admin-Undergrad-Credit 	101A Business Admin-Undergrad-A 	10A College Writing Programs-A 	102A Business Admin-Undergrad-B 
+label: 	['198 Psychology', '194 Business Admin-Undergrad', '190T Business Admin-Undergrad', '100 Business Admin-Undergrad', '104 Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', '55 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['CNR Undeclared']: 	98 Env Sci, Policy, & Mgmt-Credit 	98 Cognitive Science-Credit 	10 Nutritional Science & Tox-A 	3AC Anthropology-A 	16A Mathematics-A 	sem 1: 	major: ['CNR Undeclared']: 	R1A Comparative Literature-B 	1A Chemistry-C 	2 Physical Education-Credit 	1 Psychology-B 	1AL Chemistry-A 	16B Mathematics-C 	sem 2: 	major: ['CNR Undeclared']: 	1A Biology-C 	1AL Biology-No Credit 	55 Molecular & Cell Biology-Credit 	20A Asian American Studies-B 	32 Molecular & Cell Biology-B 	32L Molecular & Cell Biology-A 	sem 3: 	major: ['CNR Undeclared']: 	3A Chemistry-C 	104 Nutritional Science & Tox-A 	1AL Biology-Credit 	1 Economics-A 	3AL Chemistry-A 	sem 4: 	major: ['CNR Undeclared']: 	3B Chemistry-B 	128 Integrative Biology-A 	3BL Chemistry-A 	sem 5: 	major: ['Nutritional Sci-Dietetics']: 	192 Nutritional Science & Tox-A 	103 Nutritional Science & Tox-B 	108B Nutritional Science & Tox-A 	198 Public Health-Credit 	108A Nutritional Science & Tox-B 	102 Molecular & Cell Biology-C 
+label: 	['150 Psychology', '198 Public Health', '116 Public Health', '135 Nutritional Science & Tox']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '100A Economics', '140 Economics', '113 Mathematics', '1B Mathematics', 'C3 Economics', '54 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	6 Philosophy-B 	100A Interdisciplinary Studies-B 	C13 Astronomy-B 	138 History-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-C 	2 Economics-A 	1 Anthropology-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	20 Middle Eastern Studies-A 	100A Economics-B 	C152 Native American Studies-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-B 	16B Mathematics-C 	45 International & Area Stds-B 	178 Native American Studies-A 	sem 4: 	major: ['Business Administration']: 	100 Business Admin-Undergrad-B 	182 Economics-Credit 	102A Business Admin-Undergrad-B 	103 Business Admin-Undergrad-B 
+label: 	['192T Business Admin-Undergrad', '107 Business Admin-Undergrad', '106 Business Admin-Undergrad', '102B Business Admin-Undergrad', '101B Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '140 Economics', '1 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', '1B Mathematics', '55 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1 Economics-B 	125 Engineering-Credit 	1B Mathematics-A 	45 Engineering-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	W53 Mathematics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	54 Mathematics-B 	98 Business Admin-Undergrad-Credit 	120AC History-A 	28 Engineering-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	C85 Mechanical Engineering-Credit 	160 Industrial Eng & Ops Rsch-B 	198 Statistics-Credit 	171 Industrial Eng & Ops Rsch-A 	134 Statistics-B 	198 Nutritional Science & Tox-Credit 	sem 4: 	major: ['Business Administration']: 	198 Nutritional Science & Tox-Credit 	162 Industrial Eng & Ops Rsch-A 	102A Business Admin-Undergrad-B 	100 Business Admin-Undergrad-B 	107 Business Admin-Undergrad-A 
+label: 	['141 Business Admin-Undergrad', '104 Business Admin-Undergrad', '102B Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '1 Economics', '140 Economics', '113 Mathematics', 'C3 Economics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	3 Earth & Planetary Science-A 	1 Economics-A 	20A Asian American Studies-A 	R1B History of Art-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	8 Art Practice-B 	W21 Statistics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-B 	155 Env Sci, Policy, & Mgmt-Credit 	20C Asian American Studies-A 	10 Theater Dance & Perf Stds-No Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	190 Legal Studies-A 	149 Native American Studies-A 	40 Italian Studies-A 	190G Industrial Eng & Ops Rsch-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	W111 African American Studies-A 	sem 5: 	major: ['Business Administration']: 	180 Business Admin-Undergrad-A 	C167 Sociology-A 	102A Business Admin-Undergrad-B 	101A Business Admin-Undergrad-B 
+label: 	['101B Business Admin-Undergrad', '132AC Asian American Studies', '107 Business Admin-Undergrad', '100 Business Admin-Undergrad', '102B Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '1 Economics', '140 Economics', '113 Mathematics', 'C3 Economics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Engineering-Credit 	61A Computer Science-B 	10AC Ethnic Studies-A 	1A Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	61B Computer Science-B 	11 Nutritional Science & Tox-Credit 	R1A Comparative Literature-B 	1B Mathematics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	61C Computer Science-B 	1 Physical Education-Credit 	C165 Religious Studies-Credit 	54 Mathematics-B 	98 Statistics-Credit 	94 Peace & Conflict Studies-Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	70 Computer Science-B 	C61 Psychology-No Credit 	1 Cognitive Science-B 	3 Physical Education-Credit 	97 Computer Science-No Credit 	98 Business Admin-Undergrad-Credit 	sem 4: 	major: ['L&S Computer Science']: 	40 Electrical Engineering-C 	198 Psychology-Credit 	195P Business Admin-Undergrad-A 	4 Physical Education-Credit 	170 Computer Science-C 	C5 Letters & Science-A 
+label: 	['198 Mathematics', '1 Physical Education', '188 Computer Science', '103 Business Admin-Undergrad', '162 Computer Science']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '100A Economics', '16B Mathematics', '140 Economics', '1 Economics', '113 Mathematics', 'C3 Economics', 'C171 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-A 	98 English-Credit 	16B Mathematics-A 	10 Nutritional Science & Tox-A 	24 Integrative Biology-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	C10 Astronomy-A 	1 Economics-A 	1 Psychology-A 	97 Education-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	100A Economics-A 	61A Computer Science-A 	10 Theater Dance & Perf Stds-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	100B Economics-A 	29 Music-A 	103 Business Admin-Undergrad-A 	sem 4: 	major: ['Business Administration']: 	131 Business Admin-Undergrad-A 	107 Business Admin-Undergrad-A 	20A Asian American Studies-Credit 	140 Economics-A 	102A Business Admin-Undergrad-A 
+label: 	['198 Business Admin-Undergrad', '133 Business Admin-Undergrad', '151 Economics', '104 Business Admin-Undergrad', '100 Business Admin-Undergrad', '120AA Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '113 Mathematics', '16B Mathematics', '54 Mathematics', 'C3 Economics', '1B Mathematics', '55 Mathematics', '134 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	27 Music-A 	16A Mathematics-A 	3 Physical Education-A 	20 Statistics-A 	98 English-Credit 	10 Nutritional Science & Tox-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-A 	1 Psychology-A 	21AC Ethnic Studies-A 	R1B Comparative Literature-A 	81B UGIS-UG Interdisc Studies-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	90A Religious Studies-A 	128 Music-A 	10 Business Admin-Undergrad-A 	1 Economics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	139 Music-A 	15 Env Sci, Policy, & Mgmt-A 	100A Economics-A 	1 Anthropology-Credit 	sem 4: 	major: ['Business Administration']: 	103 Business Admin-Undergrad-A 	102A Business Admin-Undergrad-A 	106 Business Admin-Undergrad-B 	C20 Earth & Planetary Science-Credit 	107 Business Admin-Undergrad-B 
+label: 	['104 Business Admin-Undergrad', '150 Sociology', '100 Business Admin-Undergrad', '120AA Business Admin-Undergrad', '102B Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '113 Mathematics', '140 Economics', '54 Mathematics', 'C3 Economics', '1B Mathematics', '55 Mathematics', '134 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1B Film-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	C13 Astronomy-Credit 	R1A English-B 	53 Mathematics-C 	sem 2: 	major: ['Letters & Sci Undeclared']: 	C10 Astronomy-A 	10 Business Admin-Undergrad-C 	4 Political Science-B 	25AC College Writing Programs-A 	4 Physical Education-Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-B 	sem 4: 	major: ['Letters & Sci Undeclared']: 	40C Letters & Science-Credit 	C120 Buddhist Studies-A 	198 Engineering-Credit 	106 Business Admin-Undergrad-C 	1 Economics-B 	198 Business Admin-Undergrad-Credit 
+label: 	['100A Economics', '40 Plant Biology', '170 Business Admin-Undergrad', '4 Physical Education', '95 Industrial Eng & Ops Rsch', '1 Psychology']
+predict: 	['100A Economics', '16B Mathematics', 'C3 Economics', 'C171 Economics', '131 Economics', '16A Mathematics', '133 Statistics', '120B Business Admin-Undergrad', '102B Business Admin-Undergrad', '1A Mathematics']
+correct: 	['100A Economics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	25 Spanish-A 	10 Business Admin-Undergrad-A 	159AC Geography-Credit 	1A Mathematics-A 	4 Physical Education-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1 Economics-A 	10B Classics-Credit 	1B Mathematics-A 	7B History-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	100A Economics-A 	20A Music-A 	20 Statistics-A 	8A Physics-Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	101B Business Admin-Undergrad-A 	10 Computer Science-Credit 	10 Nutritional Science & Tox-A 	121 Economics-A 	107 Business Admin-Undergrad-B 	sem 4: 	major: ['Economics', 'Business Administration']: 	100 Business Admin-Undergrad-A 	105 Economics-A 	102A Business Admin-Undergrad-A 	104 Business Admin-Undergrad-A 	179 Political Science-Credit 
+label: 	['103 Business Admin-Undergrad', '151 Economics', '120AA Business Admin-Undergrad', '140 Economics']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '16B Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', '55 Mathematics', '133 Statistics']
+correct: 	['140 Economics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	24 Philosophy-Credit 	53 Mathematics-A 	1 Economics-B 	98 City & Regional Planning-Credit 	R1B Comparative Literature-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	54 Mathematics-A 	24 Chemistry-Credit 	W21 Statistics-A 	C10 Astronomy-A 	101A Economics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	128AC Asian American Studies-A 	98 Statistics-Credit 	10 Business Admin-Undergrad-A 	103 Business Admin-Undergrad-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	C61 Molecular & Cell Biology-Credit 	137 Business Admin-Undergrad-B 	55 Mathematics-B 	61A Computer Science-A 	98 Computer Science-Credit 	sem 4: 	major: ['Business Administration']: 	102A Business Admin-Undergrad-A 	100 Business Admin-Undergrad-A 	107 Business Admin-Undergrad-B 	131 Business Admin-Undergrad-A 	195T Business Admin-Undergrad-A 	134 Statistics-B 
+label: 	['101B Business Admin-Undergrad', '133 Business Admin-Undergrad', '133 Statistics', '160 History', '155 Statistics', '102B Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '16B Mathematics', '1 Economics', '140 Economics', 'C3 Economics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	12A Philosophy-A 	10 Nutritional Science & Tox-A 	16A Mathematics-A 	70AC Geography-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R1B English-A 	10 Business Admin-Undergrad-A 	16B Mathematics-A 	C10 Physics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	52 Education-A 	1 Economics-A 	10A College Writing Programs-A 	10 Astronomy-Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	5B African American Studies-Credit 	20 Statistics-A 	96 Business Admin-Undergrad-Credit 	100B Economics-B 	sem 4: 	major: ['Business Administration']: 	106 Business Admin-Undergrad-A 	102A Business Admin-Undergrad-A 	103 Business Admin-Undergrad-B 	110 Demography-Credit 
+label: 	['195A Business Admin-Undergrad', '100 Business Admin-Undergrad', '170 Business Admin-Undergrad', '107 Business Admin-Undergrad', '160 Business Admin-Undergrad']
+predict: 	['2 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '140 Economics', 'C3 Economics', '54 Mathematics', '1B Mathematics', '55 Mathematics', '134 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	C70V Letters & Science-A 	16A Mathematics-A 	10A Classics-B 	3AC Anthropology-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	10 Nutritional Science & Tox-Credit 	10B Classics-Credit 	1 Economics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	98 Business Admin-Undergrad-Credit 	3 Spanish-A 	C82 Geography-A 	C20 Earth & Planetary Science-A 	50AC Env Sci, Policy, & Mgmt-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	100B Economics-C 	198 Psychology-Credit 	20 Statistics-C 	170D Classics-A 	sem 5: 	major: ['Business Administration']: 	106 Business Admin-Undergrad-A 	102A Business Admin-Undergrad-B 	198 Psychology-Credit 	103 Business Admin-Undergrad-C 	155 Business Admin-Undergrad-A 
+label: 	['198 Psychology', '170 Business Admin-Undergrad', '100 Business Admin-Undergrad', '107 Business Admin-Undergrad', '195A Business Admin-Undergrad', '160 Business Admin-Undergrad']
+predict: 	['2 Statistics', '100A Economics', '140 Economics', 'C3 Economics', 'C171 Economics', '131 Economics', '110 Mathematics', '133 Statistics', '16A Mathematics', '120B Business Admin-Undergrad']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	10AC Ethnic Studies-A 	R1A Chicano Studies-A 	98 Mathematics-Credit 	98 Chicano Studies-Credit 	1A Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 Chicano Studies-Credit 	1B Mathematics-A 	10 Business Admin-Undergrad-A 	R1B African American Studies-A 	98 Education-Credit 	C70W Letters & Science-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-C 	10 Nutritional Science & Tox-A 	53 Mathematics-B 	160AC Anthropology-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	116 Public Health-Credit 	98 Ethnic Studies-Credit 	54 Mathematics-A 	1 Economics-B 	98 Public Health-Credit 	sem 4: 	major: ['Business Administration']: 	101A Business Admin-Undergrad-B 	104 Mathematics-Credit 	104 Business Admin-Undergrad-B 	107 Business Admin-Undergrad-B 	2 Physical Education-Credit 	102A Business Admin-Undergrad-A 
+label: 	['1 Physical Education', '101B Business Admin-Undergrad', '102B Business Admin-Undergrad', '106 Business Admin-Undergrad', '144 Gender & Womens Studies', '100 Business Admin-Undergrad']
+predict: 	['2 Statistics', '100A Economics', '16B Mathematics', '113 Mathematics', '140 Economics', 'C3 Economics', '55 Mathematics', '134 Statistics', '133 Statistics', 'C171 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Computer Science-Credit 	98 Theater Dance & Perf Stds-Credit 	C180T Letters & Science-A 	16B Mathematics-A 	3 Linguistics-A 	10 Nutritional Science & Tox-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-A 	98 Theater Dance & Perf Stds-Credit 	130 Geography-Credit 	151 Economics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	2 Env Sci, Policy, & Mgmt-Credit 	155 Economics-A 	100A Economics-A 	157 Economics-B 	10 Business Admin-Undergrad-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	103 Business Admin-Undergrad-B 	C175 Economics-A 	101B Business Admin-Undergrad-A 	127AC History-Credit 	sem 4: 	major: ['Economics', 'Business Administration']: 	102A Business Admin-Undergrad-A 	2 Philosophy-Credit 	100 Business Admin-Undergrad-A 	106 Business Admin-Undergrad-A 	140 Economics-B 
+label: 	['120AA Business Admin-Undergrad', '102B Business Admin-Undergrad', '104 Business Admin-Undergrad', '107 Business Admin-Undergrad']
+predict: 	['2 Statistics', '53 Mathematics', '113 Mathematics', '16B Mathematics', '1 Economics', '54 Mathematics', 'C3 Economics', '1B Mathematics', '55 Mathematics', '134 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	C20 Earth & Planetary Science-A 	10 Nutritional Science & Tox-A 	R1B Comparative Literature-A 	1B Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	26AC Music-A 	10 Business Admin-Undergrad-A 	1 Psychology-A 	20A Asian American Studies-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	116 Public Health-Credit 	142 Geography-A 	C26 Near Eastern Studies-A 	179 Political Science-Credit 	1 Economics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	1 Anthropology-Credit 	98 Business Admin-Undergrad-Credit 	100B Economics-A 	20 Statistics-A 	sem 4: 	major: ['Business Administration']: 	94 Peace & Conflict Studies-Credit 	107 Business Admin-Undergrad-B 	102A Business Admin-Undergrad-A 	103 Business Admin-Undergrad-A 	198 Business Admin-Undergrad-Credit 
+label: 	['100 Business Admin-Undergrad', '61A Computer Science', '96 Business Admin-Undergrad', '102B Business Admin-Undergrad', '131 Business Admin-Undergrad']
+predict: 	['2 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', '1B Mathematics', '55 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Nutritional Science']: 	10 Gender & Womens Studies-B 	16A Mathematics-A 	61A Computer Science-B 	3 Linguistics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	61 Molecular & Cell Biology-A 	182AC Education-A 	70 Computer Science-B 	98 Statistics-Credit 	10 Business Admin-Undergrad-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1 Economics-A 	W187 Interdisciplinary Studies-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-A 	1 Cognitive Science-A 	145 Native American Studies-A 	27 Music-A 	sem 4: 	major: ['Cognitive Science']: 	3 Astronomy-Credit 	100 Linguistics-B 	20 Statistics-B 	R1B Comparative Literature-B 
+label: 	['164 Psychology', '131 Cognitive Science', '107 Business Admin-Undergrad', '101A Business Admin-Undergrad', '102A Business Admin-Undergrad']
+predict: 	['2 Statistics', '53 Mathematics', '21 Statistics', '100A Economics', '113 Mathematics', '140 Economics', 'C3 Economics', '54 Mathematics', '1B Mathematics', '182 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1B English-A 	4 Spanish-Credit 	C12 Earth & Planetary Science-B 	16B Mathematics-A 	98 African American Studies-Credit 	20 Statistics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	116 Public Health-Credit 	174AC Anthropology-A 	25 Spanish-B 	42 Env Sci, Policy, & Mgmt-Credit 	98 Public Health-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W187 Interdisciplinary Studies-A 	121 Spanish-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	100 Spanish-A 	197 African American Studies-Credit 	196 Business Admin-Undergrad-A 	1 Economics-B 	C55 Geography-A 	198 Business Admin-Undergrad-Credit 	C5 Business Admin-Undergrad-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	102A Business Admin-Undergrad-A 	29 Music-A 	192 Industrial Eng & Ops Rsch-A 	190 Legal Studies-A 	149 Native American Studies-A 	190G Industrial Eng & Ops Rsch-A 	101A Business Admin-Undergrad-A 	sem 5: 	major: ['Business Administration']: 	107 Business Admin-Undergrad-B 	190 Education-A 	102B Business Admin-Undergrad-A 	103 Business Admin-Undergrad-A 	198 Engineering-Credit 	192N Business Admin-Undergrad-A 
+label: 	['190T Business Admin-Undergrad', '100 Business Admin-Undergrad', '106 Business Admin-Undergrad', '101B Business Admin-Undergrad', '146 Asian American Studies', 'W140A Education']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	32 Mathematics-B 	97 Education-Credit 	98 Mathematics-Credit 	90A Religious Studies-A 	10 Geography-A 	40 Env Sci, Policy, & Mgmt-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1 Physical Education-Credit 	2 French-B 	24 Development Studies-Credit 	10 Business Admin-Undergrad-B 	98 Mathematics-Credit 	16A Mathematics-D 	98 Public Policy-No Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	98 Public Health-Credit 	2 Physical Education-Credit 	4A African American Studies-A 	16B Mathematics-C 	115 Global Poverty & Practice-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	105 Global Poverty & Practice-A 	16A Mathematics-B 	3 French-Credit 	20 Statistics-C 	sem 4: 	major: ['Business Administration']: 	196 Global Poverty & Practice-A 	146A Political Science-A 	100 Business Admin-Undergrad-B 	27AC African American Studies-A 	101A Business Admin-Undergrad-C 	102A Business Admin-Undergrad-C 
+label: 	['192T Business Admin-Undergrad', '104 Business Admin-Undergrad', '101B Business Admin-Undergrad', '1 Political Science', '107 Business Admin-Undergrad', '2 Physical Education']
+predict: 	['C171 Economics', '131 Economics', '120B Business Admin-Undergrad', '133 Statistics', '102B Business Admin-Undergrad', 'W21 Statistics', '196 Business Admin-Undergrad', '121 Business Admin-Undergrad', '115 Economics', '121A Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	16A Mathematics-A 	98 Business Admin-Undergrad-Credit 	C62 Molecular & Cell Biology-A 	3AC Anthropology-A 	179 Political Science-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-A 	10 Business Admin-Undergrad-B 	R1B Rhetoric-A 	C10 Astronomy-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	5 Political Science-Credit 	1 Economics-A 	7A History-A 	116 Public Health-Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-B 	11 History of Art-A 	10 Computer Science-B 	98 Business Admin-Undergrad-Credit 	sem 4: 	major: ['Business Administration']: 	198 Ethnic Studies-Credit 	101A Business Admin-Undergrad-A 	102A Business Admin-Undergrad-A 	107 Business Admin-Undergrad-B 	104 Business Admin-Undergrad-B 
+label: 	['179 Political Science', '101B Business Admin-Undergrad', '103 Business Admin-Undergrad', '102B Business Admin-Undergrad', '198 Business Admin-Undergrad', '100 Business Admin-Undergrad']
+predict: 	['2 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '140 Economics', '54 Mathematics', 'C3 Economics', '1B Mathematics', '55 Mathematics', '134 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Ethnic Studies-Credit 	98 Public Policy-Credit 	26AC Music-A 	10 Business Admin-Undergrad-A 	16B Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	98 Statistics-Credit 	197 Education-Credit 	98 Public Health-Credit 	1 Economics-A 	196 Business Admin-Undergrad-A 	6 Env Sci, Policy, & Mgmt-A 	116 Public Health-Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	100A Economics-B 	C10 Astronomy-Credit 	197 Education-Credit 	103 Business Admin-Undergrad-B 	198 Engineering-Credit 	sem 4: 	major: ['Business Administration']: 	107 Business Admin-Undergrad-B 	18 Near Eastern Studies-Credit 	102A Business Admin-Undergrad-A 	131 Business Admin-Undergrad-A 
+label: 	['100 Business Admin-Undergrad', '120AA Business Admin-Undergrad', '101B Business Admin-Undergrad', 'C175 Economics', '104 Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '16B Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	20 Gender & Womens Studies-A 	20A Asian American Studies-A 	44 Env Sci, Policy, & Mgmt-A 	1A Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	181 Anthropology-A 	1B Mathematics-A 	31 Geography-A 	1 Economics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	52AC Theater Dance & Perf Stds-A 	101A Economics-A 	53 Mathematics-A 	80 Earth & Planetary Science-Credit 	10 Business Admin-Undergrad-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-A 	192N Business Admin-Undergrad-A 	107 Business Admin-Undergrad-A 	54 Mathematics-Credit 	101B Economics-A 	sem 4: 	major: ['Economics']: 	182 Economics-A 	102A Business Admin-Undergrad-A 	103 Business Admin-Undergrad-A 	100 Business Admin-Undergrad-A 
+label: 	['104 Business Admin-Undergrad', '151 Economics', '121 Business Admin-Undergrad', '140 Economics']
+predict: 	['2 Statistics', '100A Economics', '113 Mathematics', '16B Mathematics', '140 Economics', 'C3 Economics', '55 Mathematics', '133 Statistics', '134 Statistics', '120B Business Admin-Undergrad']
+correct: 	['140 Economics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1B Comparative Literature-B 	1A Chemistry-Credit 	1AL Chemistry-A 	98 Env Sci, Policy, & Mgmt-Credit 	50AC Env Sci, Policy, & Mgmt-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	2 Political Science-B 	1A Mathematics-A 	192N Business Admin-Undergrad-B 	42 Env Sci, Policy, & Mgmt-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-B 	1 Economics-B 	1A Korean-A 	117 Sociology-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	101B Business Admin-Undergrad-B 	C175 Demography-Credit 	1B Korean-A 	W21 Statistics-A 	sem 4: 	major: ['Business Administration']: 	1 Physical Education-Credit 	195P Business Admin-Undergrad-B 	102A Business Admin-Undergrad-B 	190C Industrial Eng & Ops Rsch-A 	C10 Astronomy-B 	101A Business Admin-Undergrad-A 	98 Engineering-Credit 
+label: 	['104 Business Admin-Undergrad', '190T Business Admin-Undergrad', '103 Business Admin-Undergrad', '2 Spanish', '100 Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '140 Economics', '16B Mathematics', '54 Mathematics', 'C3 Economics', '55 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	16A Mathematics-A 	186AC Education-A 	98 Mathematics-Credit 	40 Geography-A 	179 Political Science-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	16B Mathematics-B 	1 Anthropology-Credit 	R1A Chicano Studies-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	179 Political Science-Credit 	20 Statistics-C 	1 Economics-B 	41AC Ethnic Studies-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	45 International & Area Stds-B 	R1B French-A 	116 Public Health-Credit 	50 Film-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	115 Economics-B 	100B Economics-A 	150 Latin American Studies-A 	179 Political Science-Credit 
+label: 	['100A Economics', '192T Business Admin-Undergrad', '170 Business Admin-Undergrad', '103 Business Admin-Undergrad']
+predict: 	['2 Statistics', '53 Mathematics', '100A Economics', '140 Economics', '113 Mathematics', '1B Mathematics', 'C3 Economics', '54 Mathematics', '55 Mathematics', 'C171 Economics']
+correct: 	['100A Economics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	16A Mathematics-A 	10 Gender & Womens Studies-A 	2AC Anthropology-A 	R1B English-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	16B Mathematics-B 	10 Nutritional Science & Tox-B 	C70V Letters & Science-A 	60 Env Sci, Policy, & Mgmt-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	141 Asian American Studies-A 	45 International & Area Stds-B 	1 Economics-C 	140 Music-A 	sem 4: 	major: ['Letters & Sci Undeclared']: 	171 Industrial Eng & Ops Rsch-A 	100A Economics-B 	1 French-A 	192T Business Admin-Undergrad-B 	sem 5: 	major: ['Business Administration']: 	106 Business Admin-Undergrad-A 	100 Business Admin-Undergrad-A 	102A Business Admin-Undergrad-B 	103 Business Admin-Undergrad-B 	175 Business Admin-Undergrad-A 
+label: 	['104 Business Admin-Undergrad', '107 Business Admin-Undergrad', '101B Business Admin-Undergrad', '165 Business Admin-Undergrad', '191P Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', '1B Mathematics', '55 Mathematics', '134 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Nutritional Science']: 	10 Nutritional Science & Tox-A 	24 Nutritional Science & Tox-Credit 	1A Chemistry-B 	1AL Chemistry-A 	70AC Geography-B 	3AC Anthropology-A 	sem 1: 	major: ['Nutritional Science']: 	3AL Chemistry-A 	2 Statistics-B 	3A Chemistry-B 	R1B History of Art-B 	sem 2: 	major: ['Nutritional Science']: 	32 Molecular & Cell Biology-A 	98 History of Art-Credit 	32L Molecular & Cell Biology-A 	3BL Chemistry-A 	1 Economics-B 	3B Chemistry-B 	sem 3: 	major: ['Nutritional Science']: 	1AL Biology-B 	C148 Env Sci, Policy, & Mgmt-A 	11 Nutritional Science & Tox-A 	1A Biology-B 	C101 Letters & Science-Credit 	sem 4: 	major: ['Nutritional Sci-Dietetics']: 	102 Molecular & Cell Biology-A 	192 Nutritional Science & Tox-A 	180C Molecular & Cell Biology-Credit 	110 Nutritional Science & Tox-A 	103 Nutritional Science & Tox-A 
+label: 	['135 Nutritional Science & Tox', '104 Nutritional Science & Tox', '121 Nutritional Science & Tox']
+predict: 	['10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '16B Mathematics', '140 Economics', '54 Mathematics', '1B Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	11 Philosophy-A 	98 African American Studies-Credit 	C31 Molecular & Cell Biology-A 	1B Mathematics-A 	2 Economics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	5 Linguistics-A 	10 Business Admin-Undergrad-A 	98 Public Health-Credit 	10 Astronomy-Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	98 Interdisciplinary Studies-Credit 	61A Computer Science-B 	100A Economics-B 	25B Philosophy-Credit 	sem 4: 	major: ['Business Administration']: 	198 Computer Science-Credit 	190T Business Admin-Undergrad-A 	107 Business Admin-Undergrad-A 	102A Business Admin-Undergrad-A 	61B Computer Science-A 	104 Business Admin-Undergrad-A 
+label: 	['70 Computer Science', '106 Business Admin-Undergrad', '191P Business Admin-Undergrad', '61C Computer Science', '100 Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '16B Mathematics', '113 Mathematics', '140 Economics', '1 Economics', 'C3 Economics', '54 Mathematics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Education-Credit 	16A Mathematics-B 	C5 Letters & Science-Credit 	20 Geography-A 	1 Economics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	98 Business Admin-Undergrad-Credit 	R5A Italian Studies-A 	16B Mathematics-C 	97 Social Welfare-Credit 	139 Gender & Womens Studies-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1 Psychology-A 	R5B Anthropology-A 	100B Economics-B 	98 Business Admin-Undergrad-Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	3AC Sociology-A 	98 Public Health-Credit 	116 Public Health-Credit 	1 Anthropology-B 	20 Statistics-C 	sem 4: 	major: ['Letters & Sci Undeclared']: 	131A Statistics-C 	C62 Molecular & Cell Biology-B 	3AC Anthropology-B 	100A Economics-B 
+label: 	['1B South Asian', '70 Italian Studies', 'C116 Psychology', '3 Earth & Planetary Science', '150 Psychology']
+predict: 	['2 Statistics', '53 Mathematics', '140 Economics', '1 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', '1B Mathematics', 'C171 Economics', '55 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Music']: 	61A Computer Science-B 	R1B Comparative Literature-A 	49C Music-A 	20A Asian American Studies-A 	54 Mathematics-A 	150C Music-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-A 	1 Economics-A 	90E Molecular & Cell Biology-Credit 	150C Music-A 	22 Letters & Science-A 	61B Computer Science-B 	70 Computer Science-A 	sem 2: 	major: ['L&S Computer Science']: 	98BC Physics-Credit 	C13 Integrative Biology-Credit 	20 Electrical Engineering-A 	61C Computer Science-B 	10 Business Admin-Undergrad-A 	sem 3: 	major: ['L&S Computer Science']: 	170 Computer Science-A 	160B Letters & Science-Credit 	188 Computer Science-A 	150 Psychology-A 	sem 4: 	major: ['L&S Computer Science', 'Business Administration']: 	160 Computer Science-Credit 	196 Business Admin-Undergrad-A 	104 Business Admin-Undergrad-A 	168 Computer Science-A 	103 Business Admin-Undergrad-A 
+label: 	['100 Business Admin-Undergrad', '101A Business Admin-Undergrad', '106 Business Admin-Undergrad', '102A Business Admin-Undergrad', '161 Computer Science', '189 Computer Science']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '113 Mathematics', '140 Economics', '1B Mathematics', 'C3 Economics', '54 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	24 Computer Science-A 	R1B Rhetoric-A 	61A Computer Science-No Credit 	10AC American Studies-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	C10 Astronomy-Credit 	32 Physical Education-B 	1A Mathematics-A 	97 Education-Credit 	1 Economics-C 	sem 2: 	major: ['Letters & Sci Undeclared']: 	39AC Business Admin-Undergrad-B 	10 Media Studies-B 	10 Business Admin-Undergrad-B 	160AC Anthropology-B 	sem 3: 	major: ['Media Studies']: 	1 Political Science-A 	198 Business Admin-Undergrad-Credit 	101 Media Studies-B 	165 Business Admin-Undergrad-B 	sem 4: 	major: ['Media Studies', 'Business Administration']: 	107 Business Admin-Undergrad-B 	102 Media Studies-A 	101A Business Admin-Undergrad-B 	102A Business Admin-Undergrad-C 
+label: 	['102B Business Admin-Undergrad', '101B Business Admin-Undergrad', 'C103 Media Studies', '100 Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics', '1B Mathematics', '54 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1A Rhetoric-B 	16A Mathematics-B 	24 Political Economy-Credit 	10 Business Admin-Undergrad-B 	C5 Letters & Science-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-C 	10 Computer Science-A 	24 Development Studies-Credit 	1 Economics-A 	98 Political Science-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	115 Global Poverty & Practice-B 	20 Statistics-A 	100A Economics-A 	R1B History of Art-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	C103 Public Policy-A 	185 Industrial Eng & Ops Rsch-A 	183 Geography-A 	100B Economics-B 	sem 4: 	major: ['Economics']: 	102A Business Admin-Undergrad-C 	140 Economics-B 	152 Business Admin-Undergrad-A 	182 Economics-B 
+label: 	['154 Economics', '100 Business Admin-Undergrad', '100 Art Practice', '198 Business Admin-Undergrad', '103 Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '113 Mathematics', 'C3 Economics', '54 Mathematics', '1B Mathematics', '55 Mathematics', '134 Statistics', '133 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Electrical Eng & Comp Sci']: 	54 Mathematics-A 	61A Computer Science-A 	40 Electrical Engineering-B 	7A Physics-A 	sem 1: 	major: ['Electrical Eng & Comp Sci']: 	61B Computer Science-A 	7B Physics-A 	70 Computer Science-A 	R1B Comparative Literature-A 	53 Mathematics-A 	sem 2: 	major: ['Electrical Eng & Comp Sci']: 	126 Electrical Engineering-B 	20 Electrical Engineering-A 	170 Computer Science-A 	98BC Sociology-Credit 	61C Computer Science-A 	sem 3: 	major: ['Electrical Eng & Comp Sci']: 	105 Electrical Engineering-B 	166AC Psychology-Credit 	188 Computer Science-B 	C128 Electrical Engineering-B 	120 Electrical Engineering-B 	sem 4: 	major: ['Electrical Eng & Comp Sci']: 	189 Computer Science-B 	162 Computer Science-B 	160 Psychology-Credit 	195 Computer Science-Credit 	168 Computer Science-B 	161 Computer Science-A 
+label: 	['110 Mathematics', '123 Electrical Engineering', '25A Music', '186 Computer Science']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '1 Economics', '100A Economics', '16B Mathematics', '140 Economics', '113 Mathematics', '1B Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Nutritional Science']: 	R2B Asian American Studies-A 	1AL Chemistry-A 	1A Mathematics-A 	1A Chemistry-C 	35AC Integrative Biology-B 	sem 1: 	major: ['Nutritional Science']: 	98 Music-Credit 	3A Chemistry-B 	16B Mathematics-A 	11 Nutritional Science & Tox-A 	3AL Chemistry-A 	sem 2: 	major: ['Nutritional Science']: 	3BL Chemistry-A 	3 Psychology-Credit 	3B Chemistry-B 	sem 3: 	major: ['Nutritional Science']: 	10 Nutritional Science & Tox-A 	98 Philosophy-Credit 	32 Molecular & Cell Biology-A 	1 Economics-B 	32L Molecular & Cell Biology-A 
+label: 	['C8 Statistics', '1AL Biology', '88 Letters & Science', '1A Biology', '1 Psychology']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '140 Economics', '54 Mathematics', 'C3 Economics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	C70V Letters & Science-Credit 	16A Mathematics-A 	1 Political Science-A 	R4B College Writing Programs-A 	4 Physical Education-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 Business Admin-Undergrad-Credit 	1 Physical Education-Credit 	C109 German-Credit 	98 Psychology-Credit 	16B Mathematics-B 	10 Business Admin-Undergrad-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	32 Physical Education-A 	1 Economics-B 	50AC Env Sci, Policy, & Mgmt-A 	C32 Geography-B 
+label: 	['2 Political Science', '20A Asian American Studies', '101B Business Admin-Undergrad', '121 Sociology']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '140 Economics', '54 Mathematics', '1B Mathematics', 'C3 Economics', '55 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1 Italian Studies-A 	121 Sociology-A 	50AC Env Sci, Policy, & Mgmt-A 	16B Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1 Economics-B 	178 Native American Studies-A 	98 Psychology-Credit 	25A Film-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	126 Near Eastern Studies-A 	10 Business Admin-Undergrad-B 	20B Native American Studies-A 	50 Slavic Languages & Lit-Credit 
+label: 	['20A Native American Studies', '102A Business Admin-Undergrad', '107 Business Admin-Undergrad', '101A Business Admin-Undergrad', '100 Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '21 Statistics', '100A Economics', '16B Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Psychology-No Credit 	16B Mathematics-B 	62 History of Art-Credit 	10 Nutritional Science & Tox-B 	1 Economics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-B 	195B Education-A 	10 Media Studies-A 	97 Education-Credit 	191 Political Science-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-B 	190 Education-B 	160 Film-A 	100A Economics-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	103 Business Admin-Undergrad-A 	107 Business Admin-Undergrad-A 
+label: 	['106 Business Admin-Undergrad', '107 International & Area Stds', '102A Business Admin-Undergrad', '177 Business Admin-Undergrad', '100 Business Admin-Undergrad']
+predict: 	['2 Statistics', '53 Mathematics', '21 Statistics', '16B Mathematics', '140 Economics', '1 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R1B Theater Dance & Perf Stds-A 	16A Mathematics-A 	10 Business Admin-Undergrad-A 	7A Korean-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3 Earth & Planetary Science-Credit 	40 Plant Biology-Credit 	50AC Env Sci, Policy, & Mgmt-Credit 	16B Mathematics-A 	94 Peace & Conflict Studies-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	98 Engineering-Credit 	120C Letters & Science-A 	1 Economics-B 	190A Industrial Eng & Ops Rsch-A 	C165 Religious Studies-A 
+label: 	['101B Business Admin-Undergrad', '131 Psychology', '103 Business Admin-Undergrad', 'C172 Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '100A Economics', '140 Economics', '113 Mathematics', 'C3 Economics', '1B Mathematics', '54 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	16A Mathematics-A 	10 Nutritional Science & Tox-A 	R5B Italian Studies-B 	2AC Anthropology-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1B Biology-Credit 	C104 Religious Studies-A 	10 Business Admin-Undergrad-B 	16B Mathematics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	113 Near Eastern Studies-A 	133 Statistics-A 	1 Economics-B 	102A Business Admin-Undergrad-B 
+label: 	['20 Geography', '100A Economics', 'C8 Statistics']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '140 Economics', 'C3 Economics', '54 Mathematics', '1B Mathematics', '55 Mathematics']
+correct: 	['100A Economics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	61A Computer Science-C 	24 Bioengineering-Credit 	2 Psychology-B 	1A Mathematics-C 	10 Nutritional Science & Tox-B 	24 Linguistics-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-D 	61B Computer Science-C 	61 Molecular & Cell Biology-B 	3AC Anthropology-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1 Cognitive Science-B 	100 Linguistics-Credit 	61C Computer Science-C 	sem 3: 	major: ['Cognitive Science']: 	98 Psychology-Credit 	C105 Linguistics-A 	130 Geography-C 	3AC Sociology-B 	sem 4: 	major: ['Cognitive Science']: 	110 Psychology-C 	101 Psychology-A 	C100 Cognitive Science-B 	70 Computer Science-C 
+label: 	['160 Psychology', '170 Industrial Eng & Ops Rsch', '117 Psychology', '3 Philosophy']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '16B Mathematics', '1 Economics', 'C3 Economics', 'C171 Economics', '131 Economics', '16A Mathematics', '120B Business Admin-Undergrad', '133 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-D 	2 Philosophy-Credit 	10 Nutritional Science & Tox-B 	1 Economics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3AC Anthropology-A 	C64 Molecular & Cell Biology-B 	10 Astronomy-B 	98 Statistics-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1 Anthropology-B 	C116 Psychology-B 	2 Statistics-A 	50 Molecular & Cell Biology-A 	sem 3: 	major: ['Psychology']: 	130 Psychology-B 	C127 Psychology-Credit 	160 Psychology-B 	198 Business Admin-Undergrad-Credit 	101 Psychology-A 	1 Physical Education-A 
+label: 	['150 Psychology', '140 Psychology', '16B Mathematics', '106 Business Admin-Undergrad']
+predict: 	['10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '113 Mathematics', '140 Economics', '1 Economics', 'C3 Economics', '54 Mathematics']
+correct: 	['16B Mathematics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	16A Mathematics-A 	C70V Letters & Science-A 	179 Political Science-Credit 	94 Peace & Conflict Studies-Credit 	10 Nutritional Science & Tox-A 	R5A German-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1 Economics-B 	16B Mathematics-A 	179 Political Science-Credit 	R4B College Writing Programs-A 	24 Earth & Planetary Science-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	98 Public Health-Credit 	C30T Letters & Science-Credit 	116 Public Health-Credit 	1Y Chinese-A 	94 Peace & Conflict Studies-Credit 	10 Business Admin-Undergrad-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	10Y Chinese-A 	29 Music-A 	100A Economics-A 	98 Italian Studies-Credit 	20 Statistics-A 	sem 4: 	major: ['Business Administration']: 	107 Business Admin-Undergrad-A 	128AC Asian American Studies-A 	W1 Psychology-Credit 	102A Business Admin-Undergrad-A 	100 Business Admin-Undergrad-A 
+label: 	['1 Physical Education', '103 Business Admin-Undergrad', '120AA Business Admin-Undergrad', '101B Business Admin-Undergrad']
+predict: 	['2 Statistics', '53 Mathematics', '113 Mathematics', '140 Economics', '54 Mathematics', 'C3 Economics', '1B Mathematics', '55 Mathematics', '134 Statistics', '133 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R5A South Asian-B 	98 Education-Credit 	1A Mathematics-B 	98 Mathematics-Credit 	10 Computer Science-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1B Mathematics-B 	97 Education-Credit 	1 Economics-A 	97 Computer Science-Credit 	10 Business Admin-Undergrad-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	N82 Earth & Planetary Science-B 	R5B South Asian-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	100B Economics-B 	10 Nutritional Science & Tox-A 	7A History-Credit 	98 Engineering-Credit 	21 Statistics-B 
+label: 	['C8 Computer Science', '143 Music', '88 Statistics', '198 Business Admin-Undergrad', '1B Hindi-Urdu', '100A Economics']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '140 Economics', '113 Mathematics', '54 Mathematics', 'C3 Economics', '55 Mathematics']
+correct: 	['100A Economics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	3AC Anthropology-B 	11 Physical Education-No Credit 	98 Education-Credit 	11 Nutritional Science & Tox-A 	5B African American Studies-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	8 Art Practice-A 	117 Sociology-A 	10 American Studies-C 	94 Peace & Conflict Studies-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	94 Peace & Conflict Studies-Credit 	110 Sociology-B 	166 Sociology-B 	C162 Psychology-A 	C159 Env Sci, Policy, & Mgmt-Credit 	sem 3: 	major: ['Letters & Sci Undeclared']: 	158A Music-Credit 	98 African American Studies-Credit 	R1B English-A 	C70V Letters & Science-B 
+label: 	['155 Business Admin-Undergrad', 'C167 Sociology', '29 Music', '198 Statistics']
+predict: 	['10 Business Admin-Undergrad', 'C171 Economics', '131 Economics', '133 Statistics', '120B Business Admin-Undergrad', 'W21 Statistics', '102B Business Admin-Undergrad', '102A Business Admin-Undergrad', '196 Business Admin-Undergrad', '121 Business Admin-Undergrad']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	20B Asian American Studies-A 	16B Mathematics-B 	97 Education-Credit 	1 Economics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	27 Music-No Credit 	R2B Asian American Studies-B 	10 Business Admin-Undergrad-B 	10 Plant Biology-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	190G Industrial Eng & Ops Rsch-A 	W21 Statistics-A 	150 Asian American Studies-B 	190 Legal Studies-B 	149 Native American Studies-A 	sem 3: 	major: ['Business Administration']: 	102A Business Admin-Undergrad-B 	C26 Near Eastern Studies-A 	107 Business Admin-Undergrad-B 	198 Business Admin-Undergrad-Credit 
+label: 	['103 Business Admin-Undergrad', '102B Business Admin-Undergrad', '120AC Native American Studies', '100 Business Admin-Undergrad', '121 Asian American Studies']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '140 Economics', '113 Mathematics', '1 Economics', 'C3 Economics', '54 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-B 	16A Mathematics-B 	10 Nutritional Science & Tox-A 	20A Asian American Studies-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	40 Plant Biology-B 	116 Public Health-Credit 	1 Economics-C 	3 Earth & Planetary Science-Credit 	7B Korean-A 	26AC Music-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-B 	W21 Statistics-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	7A Korean-A 	100A Economics-C 	C10 Development Studies-B 
+label: 	['C175 Economics', '101B Business Admin-Undergrad', '110 Sociology']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '140 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', 'C171 Economics', '55 Mathematics', '131 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Electrical Eng & Comp Sci']: 	1 Physical Education-B 	R1B Comparative Literature-B 	7A Physics-C 	1B Mathematics-A 	61A Computer Science-B 	sem 1: 	major: ['Electrical Eng & Comp Sci']: 	53 Mathematics-B 	1 Latin-Credit 	61B Computer Science-B 	7B Physics-B 	sem 2: 	major: ['Electrical Eng & Comp Sci']: 	191K Mechanical Engineering-A 	sem 3: 	major: ['Electrical Eng & Comp Sci']: 	16A Electrical Engineering-B 	70 Computer Science-B 	54 Mathematics-B 	61C Computer Science-B 
+label: 	['198 History of Art', '120 Electrical Engineering', '16B Electrical Engineering', '188 Computer Science']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '100A Economics', '1 Economics', '16B Mathematics', '113 Mathematics', '140 Economics', '1B Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	39B Education-A 	39D African American Studies-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	16A Mathematics-A 	98 African American Studies-Credit 	44 Env Sci, Policy, & Mgmt-A 	1 Sociology-A 	98 Public Policy-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	26AC Music-A 	16B Mathematics-B 	98 Ethnic Studies-Credit 	10 Business Admin-Undergrad-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	C20 Earth & Planetary Science-Credit 	10 Geography-A 	1 Economics-B 	98 Ethnic Studies-Credit 
+label: 	['5B African American Studies', '34 Classics', '20 Statistics']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '140 Economics', '1B Mathematics', 'C3 Economics', '54 Mathematics', '55 Mathematics']
+correct: 	['20 Statistics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	13 Plant Biology-A 	1 Psychology-Credit 	60AC Comparative Literature-A 	1 Economics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-A 	10 Business Admin-Undergrad-B 	169 Env Sci, Policy, & Mgmt-Credit 	16B Mathematics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	100A Economics-B 	C10 Astronomy-Credit 	100H Interdisciplinary Studies-A 	7B Japanese-A 	sem 3: 	major: ['Business Administration']: 	102A Business Admin-Undergrad-B 	107 Business Admin-Undergrad-A 	35 History of Art-Credit 	106 Business Admin-Undergrad-B 
+label: 	['100 Business Admin-Undergrad', '144 Gender & Womens Studies', '102B Business Admin-Undergrad', '160 Business Admin-Undergrad', '101B Business Admin-Undergrad']
+predict: 	['2 Statistics', '53 Mathematics', '113 Mathematics', '1 Economics', '140 Economics', 'C3 Economics', '54 Mathematics', '1B Mathematics', '55 Mathematics', '133 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	97 Education-Credit 	1 Anthropology-C 	61 Molecular & Cell Biology-C 	1 French-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	W1 Psychology-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	140 Psychology-B 	R1B Theater Dance & Perf Stds-A 	5 Linguistics-A 	190 Education-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	114A Education-B 	98 Psychology-Credit 	50 Molecular & Cell Biology-B 	97 Education-Credit 	15 Env Sci, Policy, & Mgmt-Credit 
+label: 	['160 Psychology', '116 Public Health', '130 Psychology', '101 Psychology']
+predict: 	['10 Business Admin-Undergrad', '100A Economics', '16B Mathematics', '1 Economics', '140 Economics', 'C3 Economics', 'C171 Economics', '182 Economics', '131 Economics', '16A Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	8A Physics-A 	10 Nutritional Science & Tox-A 	16A Mathematics-A 	1 Economics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-A 	198 Business Admin-Undergrad-Credit 	100A Economics-A 	10 Business Admin-Undergrad-A 	8B Physics-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	R1B Chicano Studies-A 	1A Chemistry-B 	140 Economics-Credit 	184 Business Admin-Undergrad-A 	1AL Chemistry-B 	sem 4: 	major: ['Business Administration']: 	106 Business Admin-Undergrad-A 	10 Plant Biology-Credit 	102A Business Admin-Undergrad-A 	104 Business Admin-Undergrad-B 	100 Business Admin-Undergrad-B 
+label: 	['102B Business Admin-Undergrad', '120AA Business Admin-Undergrad', '103 Business Admin-Undergrad', '101B Business Admin-Undergrad', '182AC Education']
+predict: 	['2 Statistics', '53 Mathematics', '113 Mathematics', '1 Economics', '54 Mathematics', 'C3 Economics', '1B Mathematics', '55 Mathematics', '133 Statistics', '134 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	29 Music-A 	16B Mathematics-A 	14 Public Health-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1 Psychology-A 	10 Geography-A 	C30T Letters & Science-A 	1 Economics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	100B Economics-B 	40 Italian Studies-A 	20 Statistics-A 	198 Psychology-Credit 	sem 3: 	major: ['Business Administration']: 	103 Business Admin-Undergrad-A 	107 Business Admin-Undergrad-A 	110 Demography-Credit 	102A Business Admin-Undergrad-A 	179 Political Science-Credit 
+label: 	['195A Business Admin-Undergrad', '110 Sociology', '196 Business Admin-Undergrad', '106 Business Admin-Undergrad', '100 Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '100A Economics', '113 Mathematics', '16B Mathematics', '140 Economics', 'C3 Economics', '54 Mathematics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	24 French-Credit 	98 Business Admin-Undergrad-Credit 	1 Economics-B 	50 Film-A 	C70V Letters & Science-A 	16B Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-B 	178 History-A 	10 Nutritional Science & Tox-A 	10 Business Admin-Undergrad-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	101B Business Admin-Undergrad-B 	98 Film-Credit 	10 Computer Science-A 	3 Spanish-B 	140 Film-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	101A Business Admin-Undergrad-A 
+label: 	['108 Film', '102A Business Admin-Undergrad', '100 Business Admin-Undergrad', '107 Business Admin-Undergrad', '40 Italian Studies']
+predict: 	['2 Statistics', '53 Mathematics', '21 Statistics', '100A Economics', '16B Mathematics', '1 Economics', '140 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	16A Mathematics-A 	10 Nutritional Science & Tox-A 	C10 Physics-A 	98 Sociology-Credit 	3AC Sociology-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	50AC Env Sci, Policy, & Mgmt-A 	R1B Near Eastern Studies-A 	24 Journalism-A 	16B Mathematics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1 Economics-A 	100M History-Credit 	C26 Near Eastern Studies-A 	52AC Theater Dance & Perf Stds-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-A 	198 Engineering-Credit 	102A Business Admin-Undergrad-A 	190 Public Policy-A 	109G Political Science-A 	sem 4: 	major: ['Business Administration']: 	107 Business Admin-Undergrad-A 	100 Business Admin-Undergrad-A 	102B Business Admin-Undergrad-A 	103 Business Admin-Undergrad-A 	198 Business Admin-Undergrad-Credit 
+label: 	['C103 Public Policy', '196 Business Admin-Undergrad', '154 Business Admin-Undergrad', '101B Business Admin-Undergrad', '104 Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '140 Economics', 'C3 Economics', '54 Mathematics', '1B Mathematics', '55 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	24 Nutritional Science & Tox-Credit 	R1A Rhetoric-A 	16A Mathematics-A 	1 Letters & Science-Credit 	5 Political Science-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	16B Mathematics-A 	13 Plant Biology-A 	97 Education-Credit 	R1B Comparative Literature-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	50AC Env Sci, Policy, & Mgmt-Credit 	C70T Letters & Science-A 	98 Statistics-Credit 	1 Economics-A 	10 Plant Biology-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	98 Engineering-Credit 	C172 Business Admin-Undergrad-A 	W21 Statistics-A 	100A Economics-A 	192N Business Admin-Undergrad-A 	sem 4: 	major: ['Business Administration']: 	110 City & Regional Planning-Credit 	107 Business Admin-Undergrad-A 	102A Business Admin-Undergrad-A 	198 Astronomy-Credit 	103 Business Admin-Undergrad-A 
+label: 	['101B Business Admin-Undergrad', '102B Business Admin-Undergrad', '100 Business Admin-Undergrad', '61A Computer Science', '155 Business Admin-Undergrad', '196 Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', '1B Mathematics', '55 Mathematics', '134 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	116 Public Health-Credit 	10 Nutritional Science & Tox-A 	1 Economics-A 	W21 Statistics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	134A Music-A 	16B Mathematics-A 	C70V Letters & Science-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	49C Music-B 	100B Economics-B 	C61 Molecular & Cell Biology-Credit 	128 Music-A 	sem 3: 	major: ['Business Administration']: 	102A Business Admin-Undergrad-A 	134B Music-A 	107 Business Admin-Undergrad-B 	198 Business Admin-Undergrad-Credit 	101A Business Admin-Undergrad-A 
+label: 	['100 Business Admin-Undergrad', '29 Music', '192T Business Admin-Undergrad', '103 Business Admin-Undergrad', '104 Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '140 Economics', '1 Economics', 'C3 Economics', '54 Mathematics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Mathematics-Credit 	98 Integrative Biology-Credit 	98 Public Policy-Credit 	1 Economics-A 	10 Nutritional Science & Tox-A 	1A Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 Business Admin-Undergrad-Credit 	20 Statistics-A 	10 Business Admin-Undergrad-A 	C10 Physics-A 	116 Public Health-Credit 	24 Vision Science-Credit 	1B Mathematics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	100A Economics-A 	53 Mathematics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	161 Env Sci, Policy, & Mgmt-Credit 	10 Plant Biology-Credit 	W1 Psychology-Credit 	C165 Religious Studies-Credit 
+label: 	['101B Business Admin-Undergrad', '192 Industrial Eng & Ops Rsch', 'C172 Business Admin-Undergrad', '107 Business Admin-Undergrad', '198 Business Admin-Undergrad', '131 Economics']
+predict: 	['2 Statistics', '1 Economics', '16B Mathematics', '113 Mathematics', '140 Economics', 'C3 Economics', '54 Mathematics', '55 Mathematics', 'C171 Economics', '131 Economics']
+correct: 	['131 Economics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Education-Credit 	16B Mathematics-A 	5 Political Science-B 	40 Env Sci, Policy, & Mgmt-A 	C5 Letters & Science-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	40AC Education-A 	61A Computer Science-A 	98 Computer Science-Credit 	10 Business Admin-Undergrad-B 	39J South & SE Asian Studies-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	20 Earth & Planetary Science-A 	W21 Statistics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	1 Economics-A 	39AC Business Admin-Undergrad-A 	C120 East Asian Languages-A 	98 Computer Science-Credit 	120 South & SE Asian Studies-A 
+label: 	['198 Computer Science', '170 Business Admin-Undergrad', '100A Economics', '198 Public Health']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '113 Mathematics', '140 Economics', '54 Mathematics', 'C3 Economics', '1B Mathematics']
+correct: 	['100A Economics']
+
+sem 0: 	major: ['Nutritional Science']: 	24 Integrative Biology-Credit 	R2A Asian American Studies-A 	10 Nutritional Science & Tox-A 	1AL Chemistry-A 	1 Physical Education-Credit 	1A Chemistry-A 	98 Integrative Biology-Credit 	sem 1: 	major: ['Nutritional Science']: 	3A Chemistry-A 	3AC Sociology-A 	2 Statistics-A 	98 Molecular & Cell Biology-Credit 	R5B South & SE Asian Studies-A 	16B Mathematics-A 	98BC Env Sci, Policy, & Mgmt-Credit 	3AL Chemistry-A 	sem 2: 	major: ['Nutritional Science']: 	3B Chemistry-A 	3BL Chemistry-A 	sem 3: 	major: ['Nutritional Science']: 	1 Psychology-A 	98 Nutritional Science & Tox-Credit 	198 Env Sci, Policy, & Mgmt-Credit 	1A Biology-A 	8A Physics-A 	32L Molecular & Cell Biology-A 	1AL Biology-A 	32 Molecular & Cell Biology-A 
+label: 	['8B Physics', '16A Mathematics', '1 Economics', '102 Molecular & Cell Biology']
+predict: 	['10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '113 Mathematics', '100A Economics', '140 Economics', '1 Economics', '54 Mathematics', 'C3 Economics', '1B Mathematics']
+correct: 	['1 Economics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	3AC Sociology-A 	97 Social Welfare-Credit 	16B Mathematics-A 	10A Chinese-A 	R1A Comparative Literature-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	C128 East Asian Languages-A 	54 Mathematics-A 	10B Chinese-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W53 Mathematics-B 	102A Business Admin-Undergrad-A 	7A Chinese-A 	sem 3: 	major: ['Applied Mathematics']: 	198 Public Health-Credit 	102B Business Admin-Undergrad-A 	134 Statistics-B 	1 Economics-A 	55 Mathematics-A 
+label: 	['10 Nutritional Science & Tox', '101A Economics', '110 Mathematics', 'R5B German']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '113 Mathematics', '140 Economics', '1B Mathematics', 'C3 Economics', '133 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-A 	10 Nutritional Science & Tox-A 	C10 Astronomy-Credit 	10 Business Admin-Undergrad-A 	24 Rhetoric-Credit 	98 Public Policy-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	C5 Letters & Science-Credit 	1 Economics-A 	27 Music-Credit 	R1B French-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	28 Classics-No Credit 	96 Business Admin-Undergrad-Credit 	100A Economics-C 	20 Statistics-C 	sem 3: 	major: ['Business Administration']: 	107 Business Admin-Undergrad-B 	102A Business Admin-Undergrad-B 	198 Business Admin-Undergrad-Credit 	106 Business Admin-Undergrad-A 	100B Economics-C 
+label: 	['100 Business Admin-Undergrad', '103 Business Admin-Undergrad', '102B Business Admin-Undergrad', '197 Education', '169 Business Admin-Undergrad']
+predict: 	['10 Business Admin-Undergrad', '16B Mathematics', '140 Economics', 'C3 Economics', 'C171 Economics', '131 Economics', '16A Mathematics', '120B Business Admin-Undergrad', '133 Statistics', 'W21 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	32 Molecular & Cell Biology-A 	1X Chinese-A 	140AC Education-A 	97 Education-Credit 	3AC Sociology-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	C70U Letters & Science-Credit 	10X Chinese-A 	5 Physical Education-Credit 	16A Mathematics-A 	98 Music-Credit 	2 Economics-A 	sem 2: 	major: ['L&S Social Welfare']: 	105 Chinese-A 	sem 3: 	major: ['L&S Social Welfare']: 	3 Physical Education-Credit 	190 Education-A 	16B Mathematics-A 	10 Business Admin-Undergrad-A 	C148 International & Area Stds-A 	121 Sociology-A 
+label: 	['20 Statistics', '146 Asian American Studies', '4 Physical Education', '107 Business Admin-Undergrad', '110 Social Welfare', '97 Education']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '140 Economics', '1 Economics', 'C3 Economics', '54 Mathematics', '1B Mathematics']
+correct: 	['20 Statistics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R5A German-A 	16A Mathematics-A 	C12 Astronomy-A 	10 Nutritional Science & Tox-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	29 Music-A 	16B Mathematics-A 	98 Music-Credit 	20 Statistics-A 	R5B Scandinavian-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	50AC Env Sci, Policy, & Mgmt-Credit 	1 Economics-B 	164A Peace & Conflict Studies-A 	10 Business Admin-Undergrad-A 	98 Psychology-Credit 	sem 3: 	major: ['Business Administration']: 	107 Business Admin-Undergrad-B 	102A Business Admin-Undergrad-A 	101A Business Admin-Undergrad-A 	110 City & Regional Planning-Credit 
+label: 	['103 Business Admin-Undergrad', '184 Business Admin-Undergrad', '100 Business Admin-Undergrad', '102B Business Admin-Undergrad', '150 International & Area Stds']
+predict: 	['2 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '140 Economics', '54 Mathematics', 'C3 Economics', '1B Mathematics', '55 Mathematics', '134 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-B 	10 History-A 	C10 Physics-A 	R1B Comparative Literature-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	3 French-Credit 	94 Peace & Conflict Studies-Credit 	16B Mathematics-B 	11 Philosophy-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	198 Business Admin-Undergrad-Credit 	10 Business Admin-Undergrad-A 	158 Native American Studies-A 	1 Economics-B 
+label: 	['32 Integrative Biology', '127AC History', '100A Economics', '100B Economics']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '140 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', '1B Mathematics', '55 Mathematics']
+correct: 	['100A Economics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	10 Computer Science-A 	16B Mathematics-B 	10 Business Admin-Undergrad-A 	24 Materials Science & Eng-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	94 Peace & Conflict Studies-Credit 	61A Computer Science-Credit 	1 Economics-B 	1 German-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	109G Political Science-Credit 	2 German-A 	107 Business Admin-Undergrad-A 	W21 Statistics-A 	sem 3: 	major: ['Letters & Sci Undeclared']: 	106 Business Admin-Undergrad-A 	101B Business Admin-Undergrad-C 
+label: 	['198 Business Admin-Undergrad', '101A Business Admin-Undergrad', '100 Business Admin-Undergrad', '119 Business Admin-Undergrad', '103 Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '21 Statistics', '100A Economics', '16B Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	27 Music-A 	2AC Anthropology-A 	16B Mathematics-A 	10 Nutritional Science & Tox-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	R5B German-A 	1B Vietnamese-A 	98 Sociology-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	12 Landscape Arch & Env Plan-Credit 	100A Vietnamese-A 	1 Economics-B 	sem 3: 	major: ['Letters & Sci Undeclared']: 	C10 Astronomy-Credit 	W21 Statistics-B 	100B Vietnamese-B 
+label: 	['198 Business Admin-Undergrad', '101B Business Admin-Undergrad', '107 Business Admin-Undergrad', '100 Business Admin-Undergrad', '102A Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '21 Statistics', '100A Economics', '16B Mathematics', '140 Economics', '113 Mathematics', '1B Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R2A Asian American Studies-A 	1B Mathematics-A 	98 Nutritional Science & Tox-Credit 	170A Architecture-Credit 	C70T Letters & Science-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	100A Economics-A 	53 Mathematics-Credit 	98 Statistics-Credit 	10 Nutritional Science & Tox-Credit 	20 Statistics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1 Economics-A 	sem 3: 	major: ['Economics']: 	1 French-A 	198 Business Admin-Undergrad-Credit 	10 Business Admin-Undergrad-C 	134 Statistics-C 	54 Mathematics-B 
+label: 	['100B Economics', '2 French', 'R1B French', '53 Mathematics']
+predict: 	['2 Statistics', '16B Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics', '1B Mathematics', 'C171 Economics', '131 Economics', '55 Mathematics', '133 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1 Psychology-A 	R2A Asian American Studies-A 	10 Nutritional Science & Tox-A 	16A Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-B 	16B Mathematics-A 	R5B South & SE Asian Studies-A 	98 Public Policy-Credit 	C10 Astronomy-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	94 Peace & Conflict Studies-Credit 	98 Public Health-Credit 	161 Env Sci, Policy, & Mgmt-Credit 	116 Public Health-Credit 	18 Near Eastern Studies-Credit 
+label: 	['W21 Statistics', '195 Industrial Eng & Ops Rsch', '1 Economics', '107 Business Admin-Undergrad', '190A Industrial Eng & Ops Rsch']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '1 Economics', '113 Mathematics', '140 Economics', '1B Mathematics', '54 Mathematics', 'C3 Economics']
+correct: 	['1 Economics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	52AC Theater Dance & Perf Stds-A 	2 Physical Education-Credit 	16A Mathematics-A 	R1B English-A 	10 Nutritional Science & Tox-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	72 Native American Studies-A 	20B Asian American Studies-Credit 	16B Mathematics-A 	10 Business Admin-Undergrad-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1 Economics-B 	98 Computer Science-Credit 	155 Env Sci, Policy, & Mgmt-A 	80 Earth & Planetary Science-A 	50AC Env Sci, Policy, & Mgmt-A 
+label: 	['90 Design Innovation', 'C8 Statistics', '198 Energy and Resources', '20 Statistics', '2 Psychology', '96 Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '140 Economics', '54 Mathematics', 'C3 Economics', '1B Mathematics', '55 Mathematics']
+correct: 	['20 Statistics']
+
+sem 0: 	major: ['Nutritional Science']: 	R1B Celtic Studies-C 	1A Chemistry-B 	1A Japanese-A 	1AL Chemistry-A 	10 Nutritional Science & Tox-B 	sem 1: 	major: ['Nutritional Science']: 	1B Japanese-B 	98 Env Sci, Policy, & Mgmt-Credit 	2 Statistics-B 	3A Chemistry-B 	3AL Chemistry-A 	sem 2: 	major: ['Nutritional Science']: 	3B Chemistry-B 	32L Molecular & Cell Biology-A 	32 Molecular & Cell Biology-A 	10A Japanese-B 	3BL Chemistry-A 
+label: 	['10B Japanese', '198BC Env Sci, Policy, & Mgmt', '3AC Sociology', 'C3 Economics', '1AL Biology', '1A Biology']
+predict: 	['10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '16B Mathematics', '1 Economics', '140 Economics', '54 Mathematics', 'C3 Economics']
+correct: 	['C3 Economics']
+
+sem 0: 	major: ['Business Administration']: 	106 Business Admin-Undergrad-C 	101A Business Admin-Undergrad-C 	107 Business Admin-Undergrad-B 	160AC Env Sci, Policy, & Mgmt-C 	sem 1: 	major: ['Business Administration']: 	102A Business Admin-Undergrad-B 	194 Business Admin-Undergrad-Credit 	121 Letters & Science-Credit 	100 Business Admin-Undergrad-B 	103 Business Admin-Undergrad-C 	sem 2: 	major: ['Business Administration']: 	128AC Asian American Studies-A 
+label: 	['122 Business Admin-Undergrad', '103 Business Admin-Undergrad', '120AA Business Admin-Undergrad', '132AC Asian American Studies']
+predict: 	['183 Business Admin-Undergrad', '191 Economics', '118 Mathematics', '160 Business Admin-Undergrad', '131 Business Admin-Undergrad', '155 Business Admin-Undergrad', '96 Business Admin-Undergrad', '157 Business Admin-Undergrad', '152 Business Admin-Undergrad', '127 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Political Science-Credit 	20 Statistics-B 	26AC Music-A 	10 Nutritional Science & Tox-A 	16B Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	98 Psychology-Credit 	1 Economics-B 	50 Earth & Planetary Science-Credit 	25A Philosophy-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	145 Legal Studies-A 	105 Legal Studies-Credit 	190 Legal Studies-A 	100B Economics-A 	sem 3: 	major: ['Business Administration']: 	100 Business Admin-Undergrad-B 	103 Business Admin-Undergrad-B 	101A Business Admin-Undergrad-B 	175 Business Admin-Undergrad-B 	102A Business Admin-Undergrad-B 
+label: 	['102B Business Admin-Undergrad', 'C172 Business Admin-Undergrad', '107 Business Admin-Undergrad', '104 Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '16B Mathematics', '140 Economics', '54 Mathematics', 'C3 Economics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	C100 Energy and Resources-Credit 	C55 Geography-A 	18 Near Eastern Studies-A 	16B Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	50AC Geography-A 	20A Music-A 	R5B German-A 	96 Business Admin-Undergrad-Credit 	10 Business Admin-Undergrad-A 	1 Military Affairs-A 	42 Env Sci, Policy, & Mgmt-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	198 Business Admin-Undergrad-Credit 	194 Business Admin-Undergrad-Credit 	10 Plant Biology-Credit 	161 Env Sci, Policy, & Mgmt-Credit 	195P Business Admin-Undergrad-A 
+label: 	['101B Business Admin-Undergrad', '107 Business Admin-Undergrad', '195 Industrial Eng & Ops Rsch', 'W21 Statistics', '103 Business Admin-Undergrad', '190A Industrial Eng & Ops Rsch']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '1 Economics', '140 Economics', '113 Mathematics', 'C3 Economics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-A 	5 Political Science-A 	6 Env Sci, Policy, & Mgmt-A 	10 Business Admin-Undergrad-A 	1 Political Science-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 Public Policy-Credit 	122A Political Science-A 	100AC Gender & Womens Studies-A 	W21 Statistics-A 	145A Political Science-A 	3 Astronomy-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	3 Political Science-A 	138E Political Science-A 	100A Economics-A 	102A Business Admin-Undergrad-A 
+label: 	['101B Business Admin-Undergrad', '124A Political Science', '124C Political Science', '192T Business Admin-Undergrad', '191 Political Science']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '113 Mathematics', '16B Mathematics', '1 Economics', '140 Economics', '54 Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-A 	29 Music-A 	C70V Letters & Science-Credit 	C11 Env Sci, Policy, & Mgmt-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	6 Env Sci, Policy, & Mgmt-A 	1 Economics-A 	119 Peace & Conflict Studies-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	98 Public Health-Credit 	116 Public Health-Credit 	165 Env Sci, Policy, & Mgmt-B 	100 Environ Econ & Policy-B 	W21 Statistics-A 	sem 3: 	major: ['Business Administration']: 	107 Business Admin-Undergrad-B 	103 Business Admin-Undergrad-A 	196 Business Admin-Undergrad-A 	102A Business Admin-Undergrad-A 
+label: 	['102B Business Admin-Undergrad', '196 Business Admin-Undergrad', '101B Business Admin-Undergrad', '100 Business Admin-Undergrad', '155 Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '16B Mathematics', '140 Economics', '54 Mathematics', 'C3 Economics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Nutritional Science']: 	3AC Sociology-A 	1A Chemistry-B 	97 Social Welfare-Credit 	94 Peace & Conflict Studies-Credit 	10 Nutritional Science & Tox-A 	1AL Chemistry-A 	sem 1: 	major: ['Nutritional Science']: 	2 Statistics-A 	3A Chemistry-B 	3AL Chemistry-A 	98 Mathematics-Credit 	C10 Astronomy-A 	sem 2: 	major: ['Nutritional Science']: 	3B Chemistry-B 	3BL Chemistry-A 	W1 Psychology-Credit 	32L Molecular & Cell Biology-A 	100XA Chinese-A 	32 Molecular & Cell Biology-A 
+label: 	['100XB Chinese', '197 Ethnic Studies', 'C3 Economics', '1AL Biology', '1A Biology', 'R1B Linguistics']
+predict: 	['10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '16B Mathematics', '1 Economics', '140 Economics', '54 Mathematics', 'C3 Economics']
+correct: 	['C3 Economics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Political Science-Credit 	3AC Anthropology-B 	C10 Physics-Credit 	11 Physical Education-Credit 	10 Nutritional Science & Tox-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	25B Philosophy-B 	R1A English-B 	27 English-A 	116 Public Health-Credit 	11 Physical Education-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	C10 Development Studies-B 	16A Mathematics-C 	C30T Letters & Science-Credit 	10 Business Admin-Undergrad-C 
+label: 	['R1B English', '148 Music', '10A College Writing Programs', '6B History', '98BC Philosophy']
+predict: 	['C171 Economics', '131 Economics', '120B Business Admin-Undergrad', '110 Mathematics', '133 Statistics', '102B Business Admin-Undergrad', 'W21 Statistics', '102A Business Admin-Undergrad', '121 Business Admin-Undergrad', '196 Business Admin-Undergrad']
+correct: 	[]
+
+sem 0: 	major: ['Nutritional Science']: 	R2B Asian American Studies-A 	98 African American Studies-Credit 	1A Chemistry-C 	1AL Chemistry-A 	10 Nutritional Science & Tox-B 	sem 1: 	major: ['Nutritional Science']: 	3A Chemistry-B 	1 Psychology-B 	179 Political Science-Credit 	26AC Music-A 	3AL Chemistry-A 	sem 2: 	major: ['Nutritional Science']: 	32L Molecular & Cell Biology-A 	32 Molecular & Cell Biology-C 	3B Chemistry-B 	3BL Chemistry-A 	1 Economics-B 
+label: 	['131AC Education', '2 Physical Education', '1A Biology', 'W140A Education', '1AL Biology', '2 Statistics']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '113 Mathematics', '140 Economics', '54 Mathematics', '1B Mathematics']
+correct: 	['2 Statistics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	80B UGIS-UG Interdisc Studies-Credit 	C3 Economics-B 	10 Nutritional Science & Tox-A 	16B Mathematics-A 	175AC Social Welfare-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	C70U Letters & Science-B 	1 Political Science-A 	39 Theater Dance & Perf Stds-A 	98 Ethnic Studies-Credit 	7B History-A 	98 Public Policy-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	110 Sociology-A 	20 Statistics-B 	10 Media Studies-A 
+label: 	['100A Economics', '2 Psychology', '198 Business Admin-Undergrad', '101 Media Studies', 'C104C Media Studies', '95 Industrial Eng & Ops Rsch']
+predict: 	['2 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '16B Mathematics', '140 Economics', '1 Economics', 'C3 Economics', '54 Mathematics', '1B Mathematics']
+correct: 	['100A Economics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	40 Env Sci, Policy, & Mgmt-A 	24 Civil & Environmental Eng-Credit 	1A Telugu-A 	98 Mathematics-Credit 	97 Social Welfare-Credit 	10 Business Admin-Undergrad-A 	16A Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-A 	98 Public Policy-Credit 	116 Public Health-Credit 	98 Public Health-Credit 	C166 Religious Studies-A 	16B Mathematics-A 	1B Telugu-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	102A Business Admin-Undergrad-A 	128AC Asian American Studies-A 	1 Economics-A 	80 Earth & Planetary Science-A 
+label: 	['98 Public Policy', 'C103 Public Policy', '101B Business Admin-Undergrad', '192T Business Admin-Undergrad', 'C175 Economics']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '140 Economics', '54 Mathematics', 'C3 Economics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	10 Optometry-Credit 	C10 Astronomy-A 	29 Music-A 	98BC Sociology-Credit 	16B Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	6 Env Sci, Policy, & Mgmt-A 	98 Public Health-Credit 	1 Economics-A 	116 Public Health-Credit 	10 Business Admin-Undergrad-A 
+label: 	['98BC Env Sci, Policy, & Mgmt', '100A Economics', '126 Public Health', '102A Business Admin-Undergrad', '96 Business Admin-Undergrad']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '16B Mathematics', '140 Economics', '54 Mathematics', 'C3 Economics', '1B Mathematics']
+correct: 	['100A Economics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	21 Statistics-C 	C12 Astronomy-Credit 	7A History-B 	16B Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	16A Mathematics-A 	96 Business Admin-Undergrad-Credit 	5 Sociology-Credit 	24 Rhetoric-A 	10 Business Admin-Undergrad-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	R2A Asian American Studies-A 	C5 Letters & Science-B 	27 Music-A 	1 Economics-B 	198 Statistics-Credit 
+label: 	['100B Economics', '6B History', '1 Psychology', '198 Asian American Studies', 'R2B Asian American Studies']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '113 Mathematics', '140 Economics', 'C3 Economics', '54 Mathematics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['CNR Undeclared']: 	16A Mathematics-A 	5 Political Science-A 	50AC Env Sci, Policy, & Mgmt-A 	10 Nutritional Science & Tox-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	4B History-A 	98BC Physics-Credit 	8A Physics-B 	1 Economics-B 	16B Mathematics-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-A 
+label: 	['27 Music', '100B Economics', '10 Business Admin-Undergrad', '198 Business Admin-Undergrad', '105 Economics']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '21 Statistics', '100A Economics', '140 Economics', '113 Mathematics', '1B Mathematics', 'C3 Economics']
+correct: 	['10 Business Admin-Undergrad']
+
+sem 0: 	major: ['Environ Econ & Policy']: 	2 History-B 	16A Mathematics-A 	C5 Letters & Science-A 	1 Economics-B 	sem 1: 	major: ['Environ Econ & Policy']: 	C10 Astronomy-Credit 	10 Nutritional Science & Tox-A 	16B Mathematics-A 	20 Geography-A 	sem 2: 	major: ['Environ Econ & Policy']: 	R1A College Writing Programs-A 	10 Business Admin-Undergrad-A 	20 Statistics-A 
+label: 	['R4B College Writing Programs', '100A Economics', '4 Political Science', '3AC Anthropology']
+predict: 	['2 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '1 Economics', '140 Economics', 'C3 Economics', '54 Mathematics', '1B Mathematics', '55 Mathematics']
+correct: 	['100A Economics']
+
+sem 0: 	major: ['Sustainable Environ Dsgn']: 	12 Landscape Arch & Env Plan-A 	1 Environmental Design-A 	16A Mathematics-A 	98 Education-Credit 	98 Mathematics-Credit 	sem 1: 	major: ['Sustainable Environ Dsgn']: 	116 Public Health-Credit 	4A Environmental Design-A 	24 Architecture-Credit 	183 Education-A 	1 Landscape Arch & Env Plan-A 	1 Physical Education-B 	sem 2: 	major: ['Sustainable Environ Dsgn']: 	10 Media Studies-A 	131B History-A 	185X Visual Studies-A 	1 Economics-A 
+label: 	['190 Design Innovation', 'C175 Economics', '160 Media Studies', '1 Political Science', '101 Media Studies']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '113 Mathematics', '140 Economics', 'C3 Economics', '54 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R5A South Asian-A 	C62 Molecular & Cell Biology-A 	1 Economics-A 	16A Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	R5B South Asian-A 	C70U Letters & Science-A 	16B Mathematics-A 	98 Education-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	115 Global Poverty & Practice-A 	C140 South Asian-A 	98 Engineering-Credit 	20 Statistics-B 	190 Religious Studies-A 
+label: 	['100A Economics', '7B History', '105 Global Poverty & Practice']
+predict: 	['2 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '1 Economics', '140 Economics', '54 Mathematics', 'C3 Economics', '1B Mathematics', '55 Mathematics']
+correct: 	['100A Economics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	C19 Psychology-B 	7A History-Credit 	1A Chemistry-No Credit 	16A Mathematics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 Italian Studies-Credit 	10Y Chinese-A 	10 Business Admin-Undergrad-B 	16B Mathematics-C 	1B Filipino-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-C 	1 Economics-C 	100A Filipino-A 	C10 Physics-B 
+label: 	['29 Music', '100 Environ Econ & Policy', '198 Astronomy']
+predict: 	['C171 Economics', '131 Economics', '120B Business Admin-Undergrad', '133 Statistics', '102A Business Admin-Undergrad', '102B Business Admin-Undergrad', '196 Business Admin-Undergrad', '121 Business Admin-Undergrad', '115 Economics', '121A Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Nutritional Science']: 	1A Chemistry-C 	10 Nutritional Science & Tox-B 	1AL Chemistry-A 	3AC Anthropology-A 	80A UGIS-UG Interdisc Studies-Credit 	sem 1: 	major: ['Nutritional Science']: 	1 Economics-C 	R1A Theater Dance & Perf Stds-A 	3AL Chemistry-B 	3A Chemistry-B 	sem 2: 	major: ['Nutritional Science']: 	32L Molecular & Cell Biology-A 	R1B History of Art-B 	3B Chemistry-C 	3BL Chemistry-A 	32 Molecular & Cell Biology-B 
+label: 	['1A Biology', '11 Nutritional Science & Tox', '104 Nutritional Science & Tox', '1AL Biology', '130 Education', '102A Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '100A Economics', '16B Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', 'C171 Economics', '55 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	12 Physical Education-Credit 	94 Peace & Conflict Studies-Credit 	52 Education-A 	16A Mathematics-B 	10 Geography-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	16B Mathematics-B 	12 Physical Education-Credit 	R1A College Writing Programs-A 	29 Music-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	198 Business Admin-Undergrad-Credit 	12 Physical Education-Credit 	R1B English-A 	21 Statistics-B 	32 Physical Education-A 
+label: 	['15 Env Sci, Policy, & Mgmt', '12 Physical Education', '45 International & Area Stds', '3AC Sociology']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '140 Economics', '1 Economics', '54 Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	98 Psychology-Credit 	1 Economics-A 	1B Mathematics-B 	24 German-Credit 	sem 1: 	major: ['French']: 	10 Business Admin-Undergrad-A 	120B French-A 	14 French-A 	100A Economics-A 	1 Italian Studies-A 	sem 2: 	major: ['French']: 	35 French-A 	C160 Scandinavian-A 	2 Italian Studies-A 	20 Statistics-A 	118A French-A 
+label: 	['102A Business Admin-Undergrad', '3 Italian Studies', '107 Business Admin-Undergrad', '100 Business Admin-Undergrad', '120A French', '112A French']
+predict: 	['2 Statistics', '53 Mathematics', '21 Statistics', '113 Mathematics', '16B Mathematics', '1 Economics', '140 Economics', '54 Mathematics', 'C3 Economics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Nutritional Science']: 	1AL Chemistry-A 	10 Nutritional Science & Tox-A 	98 Architecture-Credit 	1A Chemistry-C 	R2A Asian American Studies-A 	sem 1: 	major: ['Nutritional Science']: 	R5B South & SE Asian Studies-A 	3A Chemistry-C 	3AL Chemistry-A 	98 Nutritional Science & Tox-Credit 	16A Mathematics-B 	sem 2: 	major: ['Nutritional Science']: 	3AC Sociology-A 	3BL Chemistry-A 	3B Chemistry-C 	32L Molecular & Cell Biology-A 	32 Molecular & Cell Biology-B 
+label: 	['1A Biology', '2 Statistics', 'C1 Environ Econ & Policy', '1AL Biology']
+predict: 	['10 Business Admin-Undergrad', '1 Economics', '140 Economics', '113 Mathematics', 'C3 Economics', 'C171 Economics', '131 Economics', '110 Mathematics', '133 Statistics', '102A Business Admin-Undergrad']
+correct: 	[]
+
+sem 0: 	major: ['Chemical Biology']: 	53 Mathematics-B 	35AC Integrative Biology-A 	4A Chemistry-B 	167AC Psychology-A 	96 Chemistry-Credit 	sem 1: 	major: ['Chemical Biology']: 	4B Chemistry-B 	7A Physics-B 	54 Mathematics-B 	24 Linguistics-Credit 	C101 Natural Resources-Credit 	sem 2: 	major: ['Chemical Biology']: 	C25 German-Credit 	103 Chemistry-B 	112A Chemistry-B 	45 Engineering-A 
+label: 	['1A Biology', '112B Chemistry', '1AL Biology', '120A Chemistry']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '16B Mathematics', '1 Economics', '140 Economics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	16A Mathematics-A 	98 African American Studies-Credit 	100A Malay/Indonesian-A 	C62 Molecular & Cell Biology-B 	1 Political Science-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 African American Studies-Credit 	C70U Letters & Science-Credit 	2 Political Science-Credit 	10 Business Admin-Undergrad-A 	16B Mathematics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	20 Statistics-B 	27 Music-B 	198 Business Admin-Undergrad-Credit 	100A Economics-B 	50AC Env Sci, Policy, & Mgmt-Credit 
+label: 	['102A Business Admin-Undergrad', '100B Malay/Indonesian', '101 Public Policy', 'C160V Letters & Science', '190A Industrial Eng & Ops Rsch']
+predict: 	['2 Statistics', '53 Mathematics', '113 Mathematics', '140 Economics', '1 Economics', 'C3 Economics', '54 Mathematics', '1B Mathematics', '55 Mathematics', '134 Statistics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1 Political Science-A 	15 Env Sci, Policy, & Mgmt-Credit 	C20 Earth & Planetary Science-A 	16B Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Business Admin-Undergrad-A 	R1A Native American Studies-A 	C10 Physics-Credit 	98 Sociology-Credit 	W21 Statistics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1 Economics-A 	20 College Writing Programs-A 	80 Earth & Planetary Science-A 	17A Classics-Credit 
+label: 	['25AC College Writing Programs', '1 Psychology', 'R1B French', '100A Economics']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '113 Mathematics', '140 Economics', '1B Mathematics', 'C3 Economics', '54 Mathematics']
+correct: 	['100A Economics']
+
+sem 0: 	major: ['Sociology']: 	111AC Sociology-A 	5 Sociology-A 	101 Sociology-A 	sem 1: 	major: ['Sociology']: 	163 Sociology-A 	171 Asian American Studies-A 	198BC Sociology-Credit 	102 Sociology-B 	sem 2: 	major: ['Sociology']: 	1 French-Credit 	43A French-Credit 	sem 3: 	major: ['Sociology']: 	198 Education-Credit 	120 Sociology-B 	121 Sociology-A 	C115 Sociology-B 
+label: 	['190 Sociology', 'C167 Sociology', '130AC Sociology', '198 Cognitive Science']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '100A Economics', '16B Mathematics', '1 Economics', '140 Economics', '113 Mathematics', 'C3 Economics', 'C171 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Nutritional Science']: 	1AL Chemistry-A 	10 Nutritional Science & Tox-A 	98 Molecular & Cell Biology-Credit 	98 Architecture-Credit 	11A Persian-A 	3 Physical Education-Credit 	1A Chemistry-B 	sem 1: 	major: ['Nutritional Science']: 	C101 Letters & Science-Credit 	165 Near Eastern Studies-A 	16A Mathematics-A 	3AL Chemistry-A 	3A Chemistry-B 	24 Psychology-Credit 	sem 2: 	major: ['Nutritional Science']: 	3B Chemistry-C 	20A Persian-A 	R1A Near Eastern Studies-A 	3BL Chemistry-A 	32 Molecular & Cell Biology-B 	32L Molecular & Cell Biology-A 
+label: 	['R5B German', '2 Statistics', '3AC Sociology', '1AL Biology', '1A Biology']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '113 Mathematics', '140 Economics', '1 Economics', '54 Mathematics']
+correct: 	['2 Statistics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1AL Chemistry-A 	16B Mathematics-C 	1A Chemistry-B 	98 Business Admin-Undergrad-Credit 	10 Geography-Credit 	1 Psychology-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R2A Asian American Studies-A 	10 Business Admin-Undergrad-B 	143 Music-A 	10 Computer Science-B 	97 Asian American Studies-Credit 	sem 2: 	major: ['Letters & Sci Undeclared']: 	1 Economics-B 	109 East Asian Languages-A 	20 Statistics-C 	C5 Letters & Science-Credit 
+label: 	['100A Economics', '11 Nutritional Science & Tox', 'R5B Italian Studies', '124 Asian American Studies', '98 Sociology']
+predict: 	['2 Statistics', '100A Economics', '16B Mathematics', '140 Economics', 'C3 Economics', 'C171 Economics', '131 Economics', '16A Mathematics', '110 Mathematics', '120B Business Admin-Undergrad']
+correct: 	['100A Economics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	C10 Astronomy-A 	98BC Sociology-Credit 	61A Computer Science-B 	94 Peace & Conflict Studies-Credit 	1 Economics-B 	sem 1: 	major: ['Letters & Sci Undeclared']: 	W21 Statistics-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	162A Near Eastern Studies-A 	82 UGIS-UG Interdisc Studies-A 	54 Mathematics-A 	10 Business Admin-Undergrad-A 	101A Business Admin-Undergrad-A 	98 Statistics-Credit 
+label: 	['100B Economics', '10 Nutritional Science & Tox', '70 Computer Science']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '16B Mathematics', '1 Economics', '140 Economics', 'C3 Economics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	16A Mathematics-A 	98 Physical Education-Credit 	R1A English-A 	100A Punjabi-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	2 Economics-A 	100B Punjabi-A 	16B Mathematics-A 	R5B South Asian-B 	sem 2: 	major: ['Letters & Sci Undeclared']: 	10 Plant Biology-Credit 	10 Business Admin-Undergrad-B 	C165 Religious Studies-Credit 	C50 Buddhist Studies-Credit 
+label: 	['101B Business Admin-Undergrad', 'W21 Statistics', '40 Plant Biology', '132AC Asian American Studies']
+predict: 	['2 Statistics', '20 Statistics', '100A Economics', '1 Economics', '140 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics', 'C171 Economics', '55 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	7A History-Credit 	98 International & Area Stds-Credit 	198 Legal Studies-Credit 	16A Mathematics-A 	1 Economics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	R1A Native American Studies-A 	10 Computer Science-Credit 	16B Mathematics-B 	C70V Letters & Science-Credit 	10 Business Admin-Undergrad-A 	sem 2: 	major: ['Letters & Sci Undeclared']: 	103A Hindi-Urdu-A 	R5B Italian Studies-B 	145 Legal Studies-C 	100A Economics-B 	10 Peace & Conflict Studies-No Credit 
+label: 	['98 Astronomy', '104B Hindi-Urdu', '100B Economics', '152 Economics', 'W21 Statistics', '138 Economics']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '1 Economics', '113 Mathematics', '140 Economics', '1B Mathematics', 'C3 Economics', '54 Mathematics', '55 Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Business Administration']: 	196 Business Admin-Undergrad-A 	sem 1: 	major: ['Business Administration']: 	118 Env Sci, Policy, & Mgmt-A 	101A Business Admin-Undergrad-B 	196 Business Admin-Undergrad-B 	102A Business Admin-Undergrad-C 
+label: 	['194 Business Admin-Undergrad', '107 Business Admin-Undergrad', '100 Business Admin-Undergrad', '102D Env Sci, Policy, & Mgmt', '101B Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '100A Economics', '16B Mathematics', '1 Economics', '140 Economics', '113 Mathematics', 'C3 Economics', 'C171 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	101 Psychology-A 	166AC Psychology-B 	C162 Psychology-A 	198 Education-Credit 	198 Psychology-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	N150 Psychology-A 	N122 Psychology-Credit 	sem 2: 	major: ['Psychology']: 	197 Social Welfare-Credit 	160 Psychology-B 	130 Psychology-B 	134 Psychology-B 	197 Psychology-Credit 
+label: 	['135 Psychology', '140 Psychology', '197 Social Welfare', '197 Psychology', '131 Psychology']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '100A Economics', '16B Mathematics', '1 Economics', '140 Economics', '113 Mathematics', 'C3 Economics', 'C171 Economics', '131 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	7B History-A 	16A Mathematics-A 	98 College Writing Programs-Credit 	60 Theater Dance & Perf Stds-A 	1 Political Science-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	1 Economics-B 	1A Japanese-A 	10 Business Admin-Undergrad-A 	16B Mathematics-B 
+label: 	['26 Theater Dance & Perf Stds', '20 Statistics', '100D History', '11 Nutritional Science & Tox']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '140 Economics', '1B Mathematics', '54 Mathematics', 'C3 Economics', '55 Mathematics']
+correct: 	['20 Statistics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	171 Geography-A 	R1B Comparative Literature-A 	2 Economics-A 	16B Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	110 Sociology-A 	C30T Letters & Science-A 	C140V Letters & Science-Credit 	10 Business Admin-Undergrad-A 
+label: 	['98 College Writing Programs', '20 Statistics', '100B Economics', '11 History of Art']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '1 Economics', '113 Mathematics', '140 Economics', 'C3 Economics', '1B Mathematics']
+correct: 	['20 Statistics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	R5B Slavic Languages & Lit-B 	198 Business Admin-Undergrad-Credit 	1 Economics-B 	98 Economics-Credit 	1B Mathematics-A 	98 Business Admin-Undergrad-Credit 	sem 1: 	major: ['Letters & Sci Undeclared']: 	10 Media Studies-Credit 	131B History-Credit 	10 Business Admin-Undergrad-B 	C10 Development Studies-A 	191C Business Admin-Undergrad-B 
+label: 	['W21 Statistics', '160B Letters & Science', '198 Computer Science', '25 Letters & Science', '100B Economics']
+predict: 	['2 Statistics', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '1 Economics', '113 Mathematics', '140 Economics', '1B Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	158 Slavic Languages & Lit-B 	1B Mathematics-C 	96 Business Admin-Undergrad-A 	R4B College Writing Programs-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	98 Social Welfare-Credit 	179 Political Science-Credit 	10 Business Admin-Undergrad-B 	R5A Slavic Languages & Lit-C 	1 Economics-B 
+label: 	['20 Statistics', '98 Sociology', '11 Nutritional Science & Tox', '132AC Legal Studies']
+predict: 	['2 Statistics', '20 Statistics', '100A Economics', '16B Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics', '1B Mathematics', '54 Mathematics', 'C171 Economics']
+correct: 	['20 Statistics']
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	3 Spanish-Credit 	7B History-Credit 	1 Economics-A 	16B Mathematics-A 	sem 1: 	major: ['Letters & Sci Undeclared']: 	C62 Molecular & Cell Biology-A 	10 Business Admin-Undergrad-B 	80 Earth & Planetary Science-A 	20 Statistics-A 
+label: 	['100A Economics', '98 History', '103 Business Admin-Undergrad', '110 South Asian']
+predict: 	['2 Statistics', '53 Mathematics', '100A Economics', '113 Mathematics', '16B Mathematics', '1 Economics', '140 Economics', '54 Mathematics', 'C3 Economics', '1B Mathematics']
+correct: 	['100A Economics']
+
+sem 0: 	major: ['Business Administration']: 	101A Business Admin-Undergrad-B 	195P Business Admin-Undergrad-A 	131B History-Credit 	103 Business Admin-Undergrad-C 
+label: 	['100 Business Admin-Undergrad', '101B Business Admin-Undergrad', '106 Business Admin-Undergrad', '107 Business Admin-Undergrad']
+predict: 	['10 Business Admin-Undergrad', '20 Statistics', '100A Economics', '1 Economics', '16B Mathematics', '113 Mathematics', '140 Economics', 'C3 Economics', 'C171 Economics', '131 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Business Administration']: 	W53 Mathematics-B 	sem 1: 	major: ['Business Administration']: 	100A Malay/Indonesian-A 	102A Business Admin-Undergrad-A 	100 Business Admin-Undergrad-B 	104 Business Admin-Undergrad-A 	101A Business Admin-Undergrad-A 
+label: 	['115 Business Admin-Undergrad', '100B Malay/Indonesian', '103 Business Admin-Undergrad', '102B Business Admin-Undergrad', '101B Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '100A Economics', '1 Economics', '16B Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Nutritional Sci-Dietetics']: 	198 Nutritional Science & Tox-Credit 	198BC Ethnic Studies-Credit 	102 Molecular & Cell Biology-C 	192 Nutritional Science & Tox-A 	27AC African American Studies-Credit 	103 Nutritional Science & Tox-B 
+label: 	['140 Psychology', '135 Nutritional Science & Tox', '104 Nutritional Science & Tox']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '20 Statistics', '100A Economics', '1 Economics', '16B Mathematics', '113 Mathematics', '140 Economics', '1B Mathematics']
+correct: 	[]
+
+sem 0: 	major: ['Business Administration']: 	179 Business Admin-Undergrad-B 	102A Business Admin-Undergrad-B 	101AC American Studies-A 	100 Business Admin-Undergrad-B 	107 Business Admin-Undergrad-B 
+label: 	['102B Business Admin-Undergrad', '106 Business Admin-Undergrad', '191P Business Admin-Undergrad', '198 Peace & Conflict Studies', '152 Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '20 Statistics', '100A Economics', '16B Mathematics', '1 Economics', '140 Economics', '113 Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Psychology']: 	133 Psychology-A 	198 Psychology-Credit 	160 Psychology-A 	134 Psychology-A 
+label: 	['C160V Letters & Science', '10 Psychology', 'C8 Statistics', '140 Psychology']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '20 Statistics', '100A Economics', '1 Economics', '16B Mathematics', '113 Mathematics', '140 Economics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Business Administration']: 	158 Native American Studies-A 	198BC History-Credit 	100 Business Admin-Undergrad-B 	107 Business Admin-Undergrad-B 	102A Business Admin-Undergrad-A 
+label: 	['186 Korean', '106 Business Admin-Undergrad', '103 Business Admin-Undergrad', '101B Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '20 Statistics', '100A Economics', '1 Economics', '16B Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	179 Political Science-Credit 	16A Mathematics-A 	1 Italian Studies-A 	10A Classics-A 
+label: 	['R1A Rhetoric', '10B Classics', 'W21 Statistics', '16B Mathematics']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '20 Statistics', '100A Economics', '16B Mathematics', '1 Economics', '113 Mathematics', '140 Economics', 'C3 Economics']
+correct: 	['16B Mathematics']
+
+sem 0: 	major: ['Business Administration']: 	101A Business Admin-Undergrad-B 	102A Business Admin-Undergrad-A 	128AC Asian American Studies-A 	109 Theater Dance & Perf Stds-A 
+label: 	['100 Business Admin-Undergrad', '110B Theater Dance & Perf Stds', '103 Business Admin-Undergrad', '155 Business Admin-Undergrad', '102B Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '20 Statistics', '100A Economics', '1 Economics', '16B Mathematics', '113 Mathematics', '140 Economics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Business Administration']: 	128AC Asian American Studies-A 	107 Business Admin-Undergrad-B 	155 Business Admin-Undergrad-A 	102A Business Admin-Undergrad-B 
+label: 	['100 Business Admin-Undergrad', '101B Business Admin-Undergrad', '195A Business Admin-Undergrad', '198 Business Admin-Undergrad', '103 Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '20 Statistics', '100A Economics', '1 Economics', '16B Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Business Administration']: 	100 Business Admin-Undergrad-B 	191I Business Admin-Undergrad-B 	106 Business Admin-Undergrad-A 	101A Business Admin-Undergrad-B 	198 Business Admin-Undergrad-Credit 
+label: 	['197 Social Welfare', '100AC Gender & Womens Studies', '102A Business Admin-Undergrad', '101B Business Admin-Undergrad', '160 Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '20 Statistics', '100A Economics', '16B Mathematics', '1 Economics', '140 Economics', '113 Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Business Administration']: 	101A Business Admin-Undergrad-B 	198 Business Admin-Undergrad-Credit 	102A Business Admin-Undergrad-B 	128AC Asian American Studies-A 	107 Business Admin-Undergrad-B 	4 Physical Education-Credit 
+label: 	['4 Physical Education', '103 Business Admin-Undergrad', 'C101 Letters & Science', '101B Business Admin-Undergrad', '100 Business Admin-Undergrad', '165 Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '20 Statistics', '100A Economics', '1 Economics', '16B Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Business Administration']: 	196 Business Admin-Undergrad-B 	198 Business Admin-Undergrad-Credit 	179 Political Science-Credit 	100 Business Admin-Undergrad-B 	102A Business Admin-Undergrad-B 
+label: 	['192N Business Admin-Undergrad', '103 Business Admin-Undergrad', '160 History', '198 Education', '101B Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '20 Statistics', '100A Economics', '16B Mathematics', '1 Economics', '140 Economics', '113 Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Business Administration']: 	107 Business Admin-Undergrad-B 	101A Business Admin-Undergrad-B 	102A Business Admin-Undergrad-A 	160AC Anthropology-A 
+label: 	['100 Business Admin-Undergrad', '135 Nutritional Science & Tox', '101B Business Admin-Undergrad', 'C101 Letters & Science', '198 Business Admin-Undergrad', '106 Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '20 Statistics', '100A Economics', '1 Economics', '16B Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Psychology']: 	110 Psychology-Credit 	167AC Psychology-A 	133 Psychology-A 	198 Education-Credit 	131 Psychology-A 
+label: 	['130 Psychology', '160 Psychology', '198BC Sociology', '10 Psychology']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '20 Statistics', '100A Economics', '1 Economics', '16B Mathematics', '113 Mathematics', '140 Economics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Business Administration']: 	102A Business Admin-Undergrad-B 	198 Business Admin-Undergrad-Credit 	160AC Anthropology-A 	104 Business Admin-Undergrad-A 	101A Business Admin-Undergrad-A 
+label: 	['100 Business Admin-Undergrad', 'C139D History', '101B Business Admin-Undergrad', '102B Business Admin-Undergrad', '107 Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '20 Statistics', '100A Economics', '1 Economics', '16B Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Business Administration']: 	191I Business Admin-Undergrad-A 	198 Education-Credit 	100AC History-Credit 	101A Business Admin-Undergrad-B 	102A Business Admin-Undergrad-A 
+label: 	['100 Business Admin-Undergrad', '120AA Business Admin-Undergrad', '191P Business Admin-Undergrad', '107 Business Admin-Undergrad', '198 History of Art', '103 Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '20 Statistics', '100A Economics', '1 Economics', '16B Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	169 Env Sci, Policy, & Mgmt-A 	198 Education-Credit 	100 Environ Econ & Policy-A 	20 Statistics-B 	sem 1: 	major: ['Environ Econ & Policy']: 	191 Industrial Eng & Ops Rsch-B 	157AC Engineering-A 	191P Business Admin-Undergrad-A 	143 Environ Econ & Policy-A 
+label: 	['C183 Environ Econ & Policy', 'C101 Environ Econ & Policy', '130 Landscape Arch & Env Plan', '242 Architecture', '101A Portuguese', '95 Industrial Eng & Ops Rsch']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '20 Statistics', '100A Economics', '16B Mathematics', '1 Economics', '140 Economics', '113 Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Sociology']: 	101 American Studies-B 	12 Physical Education-Credit 	C180T Letters & Science-B 	198 Business Admin-Undergrad-Credit 	198 Education-Credit 	sem 1: 	major: ['Sociology']: 	111AC Sociology-B 	155 Business Admin-Undergrad-B 	110 Sociology-A 	198 Molecular & Cell Biology-Credit 	10 American Studies-B 	198 Nutritional Science & Tox-Credit 	102 American Studies-B 
+label: 	['198 Business Admin-Undergrad', '191 American Studies', 'C172 American Studies', '198 Nutritional Science & Tox', '117 Sociology']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '53 Mathematics', '100A Economics', '16B Mathematics', '1 Economics', '140 Economics', '113 Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Letters & Sci Undeclared']: 	1A Mathematics-D 	98 Industrial Eng & Ops Rsch-Credit 	10 Business Admin-Undergrad-A 	7A History-Credit 	1A Chemistry-Credit 
+label: 	['179 Political Science', '2 Economics', '40 Plant Biology', '20A Asian American Studies', '16B Mathematics']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '20 Statistics', '100A Economics', '16B Mathematics', '1 Economics', '140 Economics', '113 Mathematics', 'C3 Economics', '54 Mathematics']
+correct: 	['16B Mathematics']
+
+sem 0: 	major: ['Business Administration']: 	108 Film-A 	102A Business Admin-Undergrad-B 	101A Business Admin-Undergrad-B 	106 Business Admin-Undergrad-B 
+label: 	['191P Business Admin-Undergrad', '165 Business Admin-Undergrad', '100 Business Admin-Undergrad', '101B Business Admin-Undergrad', '107 Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '20 Statistics', '100A Economics', '1 Economics', '16B Mathematics', '113 Mathematics', '140 Economics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Business Administration']: 	102A Business Admin-Undergrad-B 	101A Business Admin-Undergrad-A 	100 Business Admin-Undergrad-A 	160AC Env Sci, Policy, & Mgmt-Credit 	194 Business Admin-Undergrad-Credit 
+label: 	['C159 Env Sci, Policy, & Mgmt', '103 Business Admin-Undergrad', '107 Business Admin-Undergrad', '1 Physical Education', '198 Env Sci, Policy, & Mgmt']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '20 Statistics', '100A Economics', '1 Economics', '16B Mathematics', '140 Economics', '113 Mathematics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Business Administration']: 	110AC Architecture-Credit 	101A Business Admin-Undergrad-A 	102A Business Admin-Undergrad-A 	103 Business Admin-Undergrad-A 
+label: 	['100 Business Admin-Undergrad', '104 Business Admin-Undergrad', '131 Business Admin-Undergrad', '102B Business Admin-Undergrad', '107 Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '20 Statistics', '100A Economics', '1 Economics', '16B Mathematics', '113 Mathematics', '140 Economics', 'C3 Economics']
+correct: 	[]
+
+sem 0: 	major: ['Business Administration']: 	103 Business Admin-Undergrad-B 	102A Business Admin-Undergrad-B 	107 Business Admin-Undergrad-A 	101A Business Admin-Undergrad-A 	100 Business Admin-Undergrad-A 
+label: 	['137 Business Admin-Undergrad', '106 Business Admin-Undergrad', '197 Social Welfare', '131 Business Admin-Undergrad', '101B Business Admin-Undergrad']
+predict: 	['2 Statistics', '10 Business Admin-Undergrad', '53 Mathematics', '20 Statistics', '100A Economics', '1 Economics', '16B Mathematics', '113 Mathematics', '140 Economics', 'C3 Economics']
+correct: 	[]
+
+positive hit rate	0.22151898734177214
