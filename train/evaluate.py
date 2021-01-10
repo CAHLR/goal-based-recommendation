@@ -31,7 +31,7 @@ def evaluate_loss(model, loader, vali_data, batchsize, dim_input_course, dim_inp
         # only compute the loss for testing period
         loss = model.vali_loss(y_pred, seq_len, padded_label).cuda()
         summ.append(loss.item())
-        break
+        
     average_loss = np.average(summ)
     return average_loss
 

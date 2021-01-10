@@ -4,6 +4,7 @@ from torch.autograd import Variable
 import myLSTM as LSTM
 import pickle
 import numpy as np
+import pandas as pd
 import torch.utils.data as Data
 from data_process import get_data_from_condense_seq, process_data
 from evaluate import evaluate_loss
@@ -36,7 +37,7 @@ def train(model, optimizer, loader, train_data, epoch):
             clip_grad_norm(model.parameters(), clip_gradient)
         optimizer.step()
         summ.append(loss.item())
-        break
+        
     average_loss = np.mean(summ)
     return average_loss
 
@@ -106,7 +107,7 @@ if __name__ == '__main__':
 
     # model name
     model_name = model_type + str(nb_lstm_layers) + '_' + str(nb_lstm_units) + 'lr' + str(learning_rate) + 'drp' + str(drop_out) + 'wd' + str(weight_decay) + 'clp' + str(clip_gradient) + '.pkl'
-    pack_loss = model_type + str(nb_lstm_layers) + '_' + str(nb_lstm_units) + 'lr' + str(learning_rate) + 'drp' + str(drop_out) + 'wd' + str(weight_decay) + 'clp' + str(clip_gradient) + '.pkl'
+    pack_loss = model_type + str(nb_lstm_layers) + '_' + str(nb_lstm_units) + 'lr' + str(learning_rate) + 'drp' + str(drop_out) + 'wd' + str(weight_decay) + 'clp' + str(clip_gradient) + '.csv'
 
     evaluated_semester = args.evaluated_semester
 
