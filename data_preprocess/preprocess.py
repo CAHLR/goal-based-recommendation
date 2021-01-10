@@ -185,20 +185,20 @@ if __name__ == '__main__':
 
     # filter students
     print('preprocessing students...')
-    #get_stu(enrollment_data)
+    get_stu(enrollment_data)
 
     # generate courses
     print('preprocessing courses...')
-    #get_course(enrollment_data)
+    get_course(enrollment_data)
 
     # add major
     print('preprocessing majors...')
     data = add_major_to_data(enrollment_data, major_data)
-    #get_major(data)
+    get_major(data)
 
     # generate semester id and grade id
-    #set_semester_dic(enrollment_data)
-    #grade_dic()
+    set_semester_dic(enrollment_data)
+    grade_dic()
 
     print('generating preprocessed data for training...')
     get_condense_grade_major(data)
