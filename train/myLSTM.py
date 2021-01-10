@@ -6,10 +6,10 @@ from torch.nn import functional as F
 import numpy as np
 
 
-class LSTM_cat_cat(nn.Module):
+class GradePrediction(nn.Module):
 
     def __init__(self, type, dim_input_course, dim_input_grade, dim_input_major, nb_lstm_layers, nb_lstm_units, batch_size, drp_rate):
-        super(LSTM_cat_cat, self).__init__()
+        super(GradePrediction, self).__init__()
         self.type = type
         self.dim_input_grade_major = dim_input_grade + dim_input_major
         self.dim_input_course= dim_input_course 
@@ -76,7 +76,7 @@ class LSTM_cat_cat(nn.Module):
         return output
 
     # masked loss, softmax on course
-    def loss(self, output, label, weight1, weight2):
+    def loss(self, output, label):
         # first mask the padded items in the output vector
         trans_label = torch.sum(label, dim=2)
         trans_label = trans_label.view(-1)
@@ -104,7 +104,7 @@ class LSTM_cat_cat(nn.Module):
 
         mask_output1 = mask_output1[l1]
         mask_label1 = torch.nonzero(mask_label1)[:, 1].contiguous().view(-1)
-        cross_entropy1 = nn.CrossEntropyLoss(weight=0.5/weight1)
+        cross_entropy1 = nn.CrossEntropyLoss()
         loss1 = cross_entropy1(mask_output1, mask_label1)
 
         mask_label2 = mask_label[:, 2:]
@@ -113,68 +113,13 @@ class LSTM_cat_cat(nn.Module):
         l2 = torch.nonzero(l2).view(-1)
         mask_output2 = mask_output2[l2]
         mask_label2 = torch.nonzero(mask_label2)[:, 1].contiguous().view(-1)
-        cross_entropy2 = nn.CrossEntropyLoss(weight=0.5/weight2)
-        loss2 = cross_entropy2(mask_output2, mask_label2)
-
-        return loss1+loss2
-
-        # masked loss, softmax on course
-    def weighted_loss_by_minibatch(self, output, label):
-
-        # first mask the padded items in the output vector
-        trans_label = torch.sum(label, dim=2)
-        trans_label = trans_label.view(-1)
-        real_label = torch.nonzero(trans_label)
-        real_label = real_label.view(-1)
-        trans_output = output.view(-1, self.dim_output)
-        mask_output = trans_output[real_label]
-
-        # second mask the unenrolled courses in output vector
-        trans_label1 = label.view(-1, self.dim_output)
-        trans_label1 = trans_label1[real_label]
-        trans_label1 = trans_label1.view(-1, 7)
-        real_label1 = torch.sum(trans_label1, dim=1)
-        real_label1 = torch.nonzero(real_label1)
-        real_label1 = real_label1.view(-1)
-        mask_output = mask_output.view(-1, 7)
-        mask_output = mask_output[real_label1]
-        mask_label = trans_label1[real_label1]
-
-        # identify whether ABCDF or Credit/No credit
-        mask_label1 = mask_label[:, :5]
-        mask_output1 = mask_output[:, :5]
-        l1 = torch.sum(mask_label1, dim=1)
-        l1 = torch.nonzero(l1).view(-1)
-        # calculate weight for ABCDF classes
-        count = torch.sum(mask_label1[l1], dim=0)
-        count = count / torch.sum(count)
-        count = 0.2 / count
-        print(count)
-
-        mask_output1 = mask_output1[l1]
-        mask_label1 = torch.nonzero(mask_label1)[:, 1].contiguous().view(-1)
-        cross_entropy1 = nn.CrossEntropyLoss(weight=count)
-        loss1 = cross_entropy1(mask_output1, mask_label1)
-
-        mask_label2 = mask_label[:, 5:]
-        mask_output2 = mask_output[:, 5:]
-        l2 = torch.sum(mask_label2, dim=1)
-        l2 = torch.nonzero(l2).view(-1)
-        # calculate weight for credit/uncredit classes
-        count = torch.sum(mask_label2[l2], dim=0)
-        count = count / torch.sum(count)
-        count = 0.5 / count
-        print(count)
-
-        mask_output2 = mask_output2[l2]
-        mask_label2 = torch.nonzero(mask_label2)[:, 1].contiguous().view(-1)
-        cross_entropy2 = nn.CrossEntropyLoss(weight=count)
+        cross_entropy2 = nn.CrossEntropyLoss()
         loss2 = cross_entropy2(mask_output2, mask_label2)
 
         return loss1+loss2
 
     # only calculate the loss in the last semester of each sequence
-    def vali_loss(self, output, out_len, label, weight1, weight2):
+    def vali_loss(self, output, out_len, label):
 
         # first get the last semester of each sequence
         output_last = output[range(output.shape[0]), out_len - 1]
@@ -197,7 +142,7 @@ class LSTM_cat_cat(nn.Module):
 
         real_output1 = real_output1[l1]
         real_label1 = np.nonzero(real_label1)[:, 1].contiguous().view(-1)
-        cross_entropy1 = nn.CrossEntropyLoss(weight=0.5/weight1)
+        cross_entropy1 = nn.CrossEntropyLoss()
         loss1 = cross_entropy1(real_output1, real_label1)
 
         real_label2 = real_label[:, 2:]
@@ -207,59 +152,12 @@ class LSTM_cat_cat(nn.Module):
 
         real_output2 = real_output2[l2]
         real_label2 = np.nonzero(real_label2)[:, 1].contiguous().view(-1)
-        cross_entropy2 = nn.CrossEntropyLoss(weight=0.5/weight2)
+        cross_entropy2 = nn.CrossEntropyLoss()
         loss2 = cross_entropy2(real_output2, real_label2)
 
         return loss1+loss2
 
- # only calculate the loss in the last semester of each sequence
-    def vali_weighted_loss_by_minibatch(self, output, out_len, label):
 
-        # first get the last semester of each sequence
-        output_last = output[range(output.shape[0]), out_len - 1]
-        label_last = label[range(label.shape[0]), out_len - 1]
-
-        # second mask the unenrolled courses in output vector
-        tran_label = label_last.contiguous().view(-1, 7)
-        tran_label1 = torch.sum(tran_label, dim=1)
-        masked_label = torch.nonzero(tran_label1).view(-1)
-        real_label = tran_label[masked_label]
-
-        tran_output = output_last.contiguous().view(-1, 7)
-        real_output = tran_output[masked_label]
-
-        # identify whether ABCDF or Credit/No credit
-        real_label1 = real_label[:, :5]
-        real_output1 = real_output[:, :5]
-        l1 = torch.sum(real_label1, dim=1)
-        l1 = torch.nonzero(l1).view(-1)
-        # calculate weight for ABCDF classes
-        count = torch.sum(real_label1[l1], dim=0)
-        count = count / torch.sum(count)
-        count = 0.2 / count
-        print(count)
-
-        real_output1 = real_output1[l1]
-        real_label1 = np.nonzero(real_label1)[:, 1].contiguous().view(-1)
-        cross_entropy1 = nn.CrossEntropyLoss(weight=count)
-        loss1 = cross_entropy1(real_output1, real_label1)
-
-        real_label2 = real_label[:, 5:]
-        real_output2 = real_output[:, 5:]
-        l2 = torch.sum(real_label2, dim=1)
-        l2 = torch.nonzero(l2).view(-1)
-        # calculate weight for credit/uncredit classes
-        count = torch.sum(real_label2[l2], dim=0)
-        count = count / torch.sum(count)
-        count = 0.5 / count
-        print(count)
-
-        real_output2 = real_output2[l2]
-        real_label2 = np.nonzero(real_label2)[:, 1].contiguous().view(-1)
-        cross_entropy2 = nn.CrossEntropyLoss(weight=count)
-        loss2 = cross_entropy2(real_output2, real_label2)
-
-        return loss1+loss2
 
 
 
