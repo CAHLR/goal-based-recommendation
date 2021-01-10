@@ -12,7 +12,7 @@ from metrics import accuracy, sensitivity
 
 
 # for validation loss in early stopping
-def evaluate_loss(model, loader, vali_data, batchsize, dim_input_course, dim_input_grade, dim_input_major, weight1, weight2):
+def evaluate_loss(model, loader, vali_data, batchsize, dim_input_course, dim_input_grade, dim_input_major):
 
     model.eval()
     summ = []
@@ -29,40 +29,11 @@ def evaluate_loss(model, loader, vali_data, batchsize, dim_input_course, dim_inp
         # compute output
         y_pred = model(padded_input, seq_len).cuda()
         # only compute the loss for testing period
-        loss = model.vali_loss(y_pred, seq_len, padded_label, weight1, weight2).cuda()
-        summ.append(loss.data[0])
+        loss = model.vali_loss(y_pred, seq_len, padded_label).cuda()
+        summ.append(loss.item())
+        break
     average_loss = np.average(summ)
     return average_loss
-
-
-# for validation accuracy in early stopping
-def evaluate_accuracy(model, loader, vali_data, batchsize, dim_input_course, dim_input_grade, dim_input_major):
-
-    model.eval()
-    summ1 = 0  # ABCDF
-    summ2 = 0  # credit/uncredit
-    len1 = len2 = 0
-    for step, (batch_x, batch_y) in enumerate(loader):  # batch_x: index of batch data
-        processed_data = process_data(batch_x.numpy(), vali_data, batchsize, dim_input_course, dim_input_grade, dim_input_major)
-        padded_input = Variable(torch.Tensor(processed_data[0]), requires_grad=False).cuda()
-        seq_len = processed_data[1]
-        padded_label = Variable(torch.Tensor(processed_data[2]), requires_grad=False).cuda()
-
-        # clear hidden states
-        model.hidden = model.init_hidden()
-
-        # compute output
-        y_pred = model(padded_input, seq_len).cuda()
-
-        # only compute the accuracy for testing period
-        accura = accuracy(y_pred, seq_len, padded_label)
-        len1 += accura[3]
-        len2 += accura[4]
-        summ1 += (accura[0] * accura[3])
-        summ2 += (accura[1] * accura[4])
-
-    average_accuracy = (summ1 + summ2) / (len1 + len2)
-    return average_accuracy
 
 
 # for validation
@@ -99,7 +70,7 @@ def evaluate_metrics(model, loader, vali_data, batchsize, dim_input_course, dim_
         summ1 += (accura[0] * accura[3])
         summ2 += (accura[1] * accura[4])
 
-        print('>=B or not', accura[0], 'credit/uncredit', accura[1], 'total', accura[2])
+        print('>=cutoff or not', accura[0], 'credit/uncredit', accura[1], 'total', accura[2])
 
         # compute tp, fp, fn, tn
         sen = sensitivity(y_pred, seq_len, padded_label)
@@ -114,7 +85,7 @@ def evaluate_metrics(model, loader, vali_data, batchsize, dim_input_course, dim_
     average_metric2 = summ2 / len2
     average_metric = (summ1 + summ2) / (len1 + len2)
 
-    print("num of >=B or <B: ", len1, "num of credit/uncredit: ", len2)
+    print("num of >=cutoff or <cutoff: ", len1, "num of credit/uncredit: ", len2)
     print("On average: ", average_metric1, average_metric2, average_metric)
 
     tpr = tp / true
