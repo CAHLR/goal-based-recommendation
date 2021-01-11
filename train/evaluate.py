@@ -41,7 +41,7 @@ def evaluate_loss(model, loader, vali_data, batchsize, dim_input_course, dim_inp
 def evaluate_metrics(model, loader, vali_data, batchsize, dim_input_course, dim_input_grade, dim_input_major):
 
     model.eval()
-    summ1 = 0  # >=B or <B
+    summ1 = 0  # letter grades
     summ2 = 0  # credit/uncredit
 
     len1 = len2 = 0
@@ -81,7 +81,7 @@ def evaluate_metrics(model, loader, vali_data, batchsize, dim_input_course, dim_
         false += sen[3]
         predict_true += sen[4]
         predict_false += sen[5]
-        
+
     average_metric1 = summ1 / len1
     average_metric2 = summ2 / len2
     average_metric = (summ1 + summ2) / (len1 + len2)
