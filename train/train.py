@@ -37,7 +37,7 @@ def train(model, optimizer, loader, train_data, epoch):
             clip_grad_norm(model.parameters(), clip_gradient)
         optimizer.step()
         summ.append(loss.item())
-        
+
     average_loss = np.mean(summ)
     return average_loss
 
@@ -95,14 +95,14 @@ if __name__ == '__main__':
     # load hyper parameters
     args = parse_args()
     print(args)
+
     model_type = args.model_type  # RNN, GRU
     drop_out = args.drop_out  # If no dropout, set to 0
     weight_decay = args.weight_decay  # If no weight_decay, set to 0
     clip_gradient = args.clip_gradient  # If no clip_gradient, set to 0
     nb_lstm_units = args.nb_lstm_units
     nb_lstm_layers = args.nb_lstm_layers
-
-    batchsize = args.batchsize
+    batchsize = args.batch_size
     learning_rate = args.learning_rate
 
     # model name

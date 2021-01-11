@@ -3,6 +3,8 @@ import pickle
 import numpy as np
 from utils import *
 
+args = parse_args()
+
 
 def empty(check):
     if check[0] == {}:
@@ -10,9 +12,7 @@ def empty(check):
     else:
         return 1
 
-
 def get_data_from_condense_seq(t):
-    args = parse_args()
     f = open(args.input_path, 'rb')
     data = pickle.load(f)['stu_sem_major_grade_condense']
     # data is a nested list, each row is a list: [{'major': major_id, 'grade': [course_id, grade_id]},{...},...{...}], each {} is for a semester.
@@ -50,6 +50,17 @@ def get_data_from_condense_seq(t):
 # padding
 # input: each row: [{'major': major_id, 'grade': [course_id, grade_id]},{...},...{...}], each {} is for a semester. output: dim(batchsize, max_semester_number, dim_grade+dim_course+dim_major)
 def process_data(index, data, batchsize, dim_input_course, dim_input_grade, dim_input_major):
+
+    # cutoff to determine good and poor performance, it should usually be A or B
+    cutoff = args.grade_cutoff
+    if cutoff == 'A':
+        cutoff_num = 1
+    elif cutoff == 'B':
+        cutoff_num = 2
+    else:
+        print('Choose A or B as cutoff to determine good performance!')
+        exit()
+
     batch = data[index]
     num_sem = np.zeros(batchsize, int)
     for i in range(batchsize):
@@ -69,7 +80,7 @@ def process_data(index, data, batchsize, dim_input_course, dim_input_grade, dim_
             if k != {}:
                 pro_major[stu_flag, sem_flag, k['major']] = 1
                 for s in k['course_grade']:
-                    if s[1] <= 2:
+                    if s[1] <= cutoff_num:
                         pro_grade[stu_flag, sem_flag, s[0] * 4] = 1
                     elif s[1] <= 5:
                         pro_grade[stu_flag, sem_flag, s[0] * 4 + 1] = 1

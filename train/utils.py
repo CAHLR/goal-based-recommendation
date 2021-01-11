@@ -16,7 +16,7 @@ def parse_args():
     parser.add_argument('--model_path', type=str, default='models/',
                         help='path to the generated model and loss records')
 
-    parser.add_argument('--grade_cutoff', type=str, default='B',
+    parser.add_argument('--grade_cutoff', type=str, default='A',
                         help='grade cutoff to separate grades into two categories')
 
     parser.add_argument('--model_type', type=str, default='LSTM',
@@ -37,7 +37,7 @@ def parse_args():
     parser.add_argument('--nb_lstm_layers', type=float, default=1,
                         help='number of hidden layers')
 
-    parser.add_argument('--batchsize', type=float, default=32,
+    parser.add_argument('--batch_size', type=float, default=32,
                         help='batch size')
 
     parser.add_argument('--learning_rate', type=float, default=0.001,
@@ -46,5 +46,8 @@ def parse_args():
     parser.add_argument('--evaluated_semester', type=float, default=15,
                         help='the order position of the semester for validation/evaluation, which depends on the input data.'
                              'In this data, 15 refers to 2019 Fall as the semester for validation, 18 refers to 2020 Fall for evaluation')
+
+    parser.add_argument('--evaluated_model_path', type=str, default='models/LSTM1_50lr0.001drp0wd0clp0.pkl',
+                        help='the path to the model saved from training for evaluation')
 
     return parser.parse_args()
