@@ -45,7 +45,7 @@ Note that a student may have multiple majors in a semester, which are listed in 
 **-- command:**
 
 * Set up global parameters in _data\_preprocess/utils.py_
-* *python data_preprocess/preprocess.py*
+* `python data_preprocess/preprocess.py`
 	
 
 
@@ -63,16 +63,22 @@ The format of <img src="https://latex.codecogs.com/gif.latex?t_{ik}" title="t_{i
  
 **-- command**
 
-*  Set up global parameters and hyperparameters for training in _train/utils.py_
-*  training: *python train.py* 
-*  Set up _evaluated\_model\_path_ and _evaluated\_semester_ in _train/utils.py_, which corresponds to the model and semester you aim to evaluate. 
-*  evaluation: *python evaluate.py*
+*  Set up global parameters and hyperparameters for training in _grade\_prediction/utils.py_
+*  training: `python grade_prediction/train.py`
+	*  The best model(.pkl) and the log file that records the training loss and validation loss will be saved in [_grade\_prediction/models_](https://github.com/CAHLR/goal-based-recommendation/tree/master/grade_prediction/models). 
+*  Set up _evaluated\_model\_path_ and _evaluated\_semester_ in _grade\_prediction/utils.py_, which corresponds to the model and semester you aim to evaluate. 
+*  evaluation: `python grade_prediction/evaluate.py`. 
+	* Evaluation results printed out based on these metrics: 
 
-The best model(.pkl) and the log file that records the training loss and validation loss will be saved in train/models.
+		* grade prediction accuracy on enrollments with letter grades
+		* grade prediction accuracy on enrollments with non-letter grades
+		* overall grade prediction accuracy
+		* true positive rate, true negative rate, false negative rate, and false positive rate on letter grade prediction and non-letter grade prediction
+		* F-score on letter grade prediction and non-letter grade prediction, overall F-score
 
 
 
-Should you have any questions or meet with any problems in running the code, please feel free to contact us (jiangwj@berkeley.edu, pardos@berkeley.edu).
+Should you have any questions or meet with any problems in running the code, please feel free to contact us (jiangwj[at]berkeley[dot]edu, pardos[at]berkeley[dot]edu).
 
 
 
