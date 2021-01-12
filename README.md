@@ -102,7 +102,7 @@ Use the trained grade prediction model to infer prerequisite courses for a given
 	* `for i in seq 0 n; do echo /usr/bin/python /xxx/.../prereqs_evaluate.py --target_course_id $i|qsub; done `
 	* `n` is the total number of target courses
 	* `/xxx/.../prereqs_evaluate.py` refers to the absolute path to the file.
-* Merge evaluation results of all target courses: *cat results/*.tsv > all.tsv*
+* Merge evaluation results of all target courses: `cat results/*.tsv > all.tsv`
 
 
 
