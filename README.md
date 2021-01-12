@@ -80,7 +80,7 @@ The format of <img src="https://latex.codecogs.com/gif.latex?t_{ik}" title="t_{i
 
 ### 2. Prerequisite Course Inference:
 
-Use the trained grade prediction model to infer prerequisite courses for a given course, and evaluate the model on a (synthetic) prerequisite course list:
+Use the trained grade prediction model to infer prerequisite courses for a given course, and evaluate the model on the official (synthetic) prerequisite course list (*synthetic_data\_samples/synthetic\_prereqs\_pairs.csv*):
 
 |  prerequisite course  | target course | 
 |:-----------:|:---------------------:|
