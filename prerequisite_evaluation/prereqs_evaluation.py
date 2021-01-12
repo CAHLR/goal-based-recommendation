@@ -68,13 +68,13 @@ def evaluate_prereqs(i, N):  # i is the target course id
     input_loader = Data.DataLoader(dataset=input_torch_data_index, batch_size=batchsize, shuffle=False, num_workers=2, drop_last=False)
     output = cal_output(model, input_loader, input_data, batchsize)
     t_course = id_course[i]
-    t_num = t_course.split(' ')[0]
+    t_num = t_course.split(' ')[1]
     t_num = int(''.join(list(filter(str.isdigit, t_num))))
     t_level = level(t_num)
-    print(t_course, t_level)
+    #print(t_course, t_level)
 
     for j in range(len(course_id)):
-        c_num = id_course[j].split(' ')[0]
+        c_num = id_course[j].split(' ')[1]
         c_num = int(''.join(list(filter(str.isdigit, c_num))))
         c_level = level(c_num)
         if c_level <= t_level:
@@ -90,6 +90,7 @@ def evaluate_prereqs(i, N):  # i is the target course id
         unrelated_course_ranked.sort(key=list(rank).index)
         rank = related_course_ranked + unrelated_course_ranked
         rank = rank[:N]
+        print('Top N predictions:')
         for i in rank:
             print(id_course[int(i)])
 
@@ -98,7 +99,7 @@ def evaluate_prereqs(i, N):  # i is the target course id
 
     for k in data_prereqs_list:
         if k[1] in rank:
-            print('correct: ', id_course[k[0]], id_course[k[1]])
+            print('correct predictions: ', id_course[k[0]], id_course[k[1]])
             with open(file_name, 'a') as csvfile:
                 writer = csv.writer(csvfile, delimiter='\t')
                 writer.writerow([id_course[k[0]], id_course[k[1]]])
