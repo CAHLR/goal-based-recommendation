@@ -61,7 +61,7 @@ Then the following intermediate files will be generated for model training:
 , where <img src="https://latex.codecogs.com/gif.latex?s_i=[t_{i1},&space;t_{i2},&space;...,&space;t_{im}]" title="s_i=[t_{i1}, t_{i2}, ..., t_{im}]" />, and <img src="https://latex.codecogs.com/gif.latex?s_i" title="s_i" /> denotes the preprocessed enrollment histories of the i-th student in your data (multiple semesters) and <img src="https://latex.codecogs.com/gif.latex?t_{ik}" title="t_{ik}" /> represents the specific enrollment histories of the i-th student in the k-th semester. Note that the k-th semester of all the students refers to the same semester, for example, m=3, which means there are 3 semesters covered in your data: Fall 2019, Spring 2020, Summer 2020, then <img src="https://latex.codecogs.com/gif.latex?t_{i2}&space;(i=1,2,...,n)" title="t_{i2} (i=1,2,...,n)" /> will contain enrollment histories of Spring 2020 for all students in your data. <img src="https://latex.codecogs.com/gif.latex?t_{ik}=\{\}" title="t_{ik}=\{\}" /> (empty) if the i-th student did not enroll in any course in semester k.
 The format of <img src="https://latex.codecogs.com/gif.latex?t_{ik}" title="t_{ik}" /> is a python dictionary: <img src="https://latex.codecogs.com/gif.latex?\{'major':&space;m_{ik},&space;'course\_grade':&space;[(c_{ik}^1,&space;g_{ik}^1),(c_{ik}^2,&space;g_{ik}^2),...,(c_{ik}^p,&space;g_{ik}^p)]\}" title="\{'major': m_{ik}, 'course\_grade': [(c_{ik}^1, g_{ik}^1),(c_{ik}^2, g_{ik}^2),...,(c_{ik}^p, g_{ik}^p)]\}" />, where <img src="https://latex.codecogs.com/gif.latex?m_{ik}" title="m_{ik}" /> refers to the major ID of the i-th student's major in the k-th semester, and <img src="https://latex.codecogs.com/gif.latex?(c_{ik}^p,&space;g_{ik}^p)" title="(c_{ik}^p, g_{ik}^p)" /> refers to the course ID of the p-th course the i-th student enrolled and the grade ID received for that course in the k-th semester. 
  
-### Student Grade Prediction:
+### 1. Student Grade Prediction:
  
 **-- command**
 
@@ -78,7 +78,7 @@ The format of <img src="https://latex.codecogs.com/gif.latex?t_{ik}" title="t_{i
 		* true positive rate, true negative rate, false negative rate, and false positive rate on letter grade prediction and non-letter grade prediction
 		* F-score on letter grade prediction and non-letter grade prediction, overall F-score
 
-### Prerequisite Course Inference:
+### 2. Prerequisite Course Inference:
 
 Use the trained grade prediction model to infer prerequisite courses for a given course, and evaluate the model on a (synthetic) prerequisite course list:
 
@@ -98,7 +98,8 @@ Use the trained grade prediction model to infer prerequisite courses for a given
 * (Optional) Evaluate on a given target course: `python prereqs_evaluation.py --target_course_id xxx
 `, xxx is the ID of a target course in *target_id.pkl*.
 	* 	This will save the correctly predicted target-prereq course pairs into a file named *xxx.tsv* in  _prerequisite\_evaluation/results_
-* Evaluate on all target courses: It takes time to evaluate on a target course, so we use the command *qsub* to evaluate on multiple target course parallelly -- `for i in seq 0 n; do echo /usr/bin/python /xxx/.../prereqs_evaluate.py --target_course_id $i|qsub; done `
+* Evaluate on all target courses: It takes time to evaluate on a target course, so we use the command *qsub* to evaluate on multiple target course parallelly.
+	* `for i in seq 0 n; do echo /usr/bin/python /xxx/.../prereqs_evaluate.py --target_course_id $i|qsub; done `
 	* /xxx/.../prereqs_evaluate.py refers to the absolute path to the file.
 * Merge evaluation results of all target courses: *cat results/*.tsv > all.tsv*
 
