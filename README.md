@@ -100,7 +100,8 @@ Use the trained grade prediction model to infer prerequisite courses for a given
 	* 	This will save the correctly predicted target-prereq course pairs into a file named *xxx.tsv* in  _prerequisite\_evaluation/results_
 * Evaluate on all target courses: It takes time to evaluate on a target course, so we use the command *qsub* to evaluate on multiple target course parallelly.
 	* `for i in seq 0 n; do echo /usr/bin/python /xxx/.../prereqs_evaluate.py --target_course_id $i|qsub; done `
-	* /xxx/.../prereqs_evaluate.py refers to the absolute path to the file.
+	* `n` is the total number of target courses
+	* `/xxx/.../prereqs_evaluate.py` refers to the absolute path to the file.
 * Merge evaluation results of all target courses: *cat results/*.tsv > all.tsv*
 
 
