@@ -1,6 +1,7 @@
 __author__ = 'jwj'
+from utils import *
 import sys
-sys.path.insert(0, '/research/jenny/RNN7/train')
+sys.path.insert(0, '../grade_prediction')
 import myLSTM as LSTM
 import torch
 import pickle
@@ -59,13 +60,11 @@ def level(num):
     return level
 
 
-# Cal P(j|i) = avg(p(j-A|i-A) + p(j-B|i-A) + p(j-A|i-B) + p(j-B|i-B), where j == output.
-# Calculate Recall @N by calculating the percentage of actual pre-requsites of j (according to the ucbprepreqs file) are in our top 5
 def evaluate_prereqs(i, N):  # i is the target course id
     prob = np.zeros(len(course_id))
     input_data = get_input_gradedata(i)
     input_data_index = torch.IntTensor(np.array(range(len(input_data))))
-    input_torch_data_index = Data.TensorDataset(data_tensor=input_data_index, target_tensor=input_data_index)
+    input_torch_data_index = Data.TensorDataset(input_data_index, input_data_index)
     input_loader = Data.DataLoader(dataset=input_torch_data_index, batch_size=batchsize, shuffle=False, num_workers=2, drop_last=False)
     output = cal_output(model, input_loader, input_data, batchsize)
     t_course = id_course[i]
@@ -81,7 +80,7 @@ def evaluate_prereqs(i, N):  # i is the target course id
         if c_level <= t_level:
             prob[j] = output[j, 0, i * 4]
     prob[i] = 0
-    if filter_num == 2:
+    if use_filter:
         rank = np.argsort(-prob)
         related_sub = target_prereqs_sub_filter[i]
         related_course = [j for j in range(len(course_id)) if course_id_sub_id[j] in related_sub and prob[j]!=0]
@@ -107,34 +106,33 @@ def evaluate_prereqs(i, N):  # i is the target course id
 
 if __name__ == '__main__':
 
-    target_id = sys.argv[1]
-    file_name = '/research/jenny/RNN7/prerequisite_evaluation/results/'+target_id+'.tsv'
-    filter_num = 2
-    if filter_num == 2:
-        target_prereqs_sub_filter = pickle.load(open('/research/jenny/RNN3/prerequisite_evaluation/target_prereqs_filter.pkl', 'rb'))
-        #subject_id = pickle.load(open('/research/jenny/RNN3/prerequisite_evaluation/subject_id.pkl','rb'))['subject_id']
-        course_id_sub_id = pickle.load(open('/research/jenny/RNN3/prerequisite_evaluation/course_id_sub_id.pkl', 'rb'))
+    args = parse_arguments()
+    #target_id = sys.argv[1]  # input target course ID
+    file_name = args.results_path + str(args.target_course_id)+'.tsv'
+    use_filter =True
+    target_prereqs_sub_filter = pickle.load(open('target_prereqs_filter.pkl', 'rb'))
+    course_id_sub_id = pickle.load(open('course_id_sub_id.pkl', 'rb'))
 
-    f = open('/research/jenny/RNN3/prerequisite_evaluation/target_id.pkl', 'rb')
-    course_id_target = int(pickle.load(f)['id_target'][int(target_id)])
+    f = open('target_id.pkl', 'rb')
+    course_id_target = int(pickle.load(f)['id_target'][int(args.target_course_id)])
     
     batchsize = 32
 
-    # evaluate model on the test set
-    model_name = '/research/jenny/RNN7/train/model/nw_LSTM_cat_cat_1_100lr0.001drp0.2wd1e-06clp3.pkl'
+    model_name = args.evaluated_model_path
+    # use cpu to load the model
     model = torch.load(model_name, map_location=lambda storage, loc: storage)
 
-    f = open('/research/jenny/RNN/data_preprocess/course_id.pkl', 'rb')
+    f = open(args.course_id_path, 'rb')
     course = pickle.load(f)
     course_id = course['course_id']
     id_course = course['id_course']
-    f = open('/research/jenny/RNN2/data_preprocess/major_id.pkl','rb')
+    f = open(args.major_id_path,'rb')
     major = pickle.load(f)
     major_id = major['major_id']
     dim_input = len(course_id) + len(course_id) * 4 + len(major_id)  # input: target course + course_grade
     f.close()
 
-    data_prereqs = pd.read_csv('/research/jenny/RNN/prerequisite_evaluation/prereqs_pairs.csv')
+    data_prereqs = pd.read_csv(args.prereqs_path, header=0)
     data_prereqs['prereqs'] = data_prereqs['prereqs'].map(course_id)
     data_prereqs['target'] = data_prereqs['target'].map(course_id)
     data_prereqs.dropna(inplace=True)
@@ -146,7 +144,6 @@ if __name__ == '__main__':
     for i, j in zip(data_prereqs['target'], data_prereqs['prereqs']):
         data_prereqs_list.append((int(i), int(j)))
 
-    N = 10  # recall top5 for target course i
-    evaluate_prereqs(course_id_target, N)
+    evaluate_prereqs(course_id_target, args.topN)
 
 
