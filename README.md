@@ -19,6 +19,7 @@ Due to privacy protection for the UC Berkeley student enrollment dataset used in
 |  2014 Fall  |         103674        | Education C200       |    B   |
 | 2015 Spring |         104251        | Computer Science 61B |    A   |
 | 2015 Summer |         102673        | Sociology 1          | Credit |
+|...|...|...|...|
 
 Grade types: Letter grades -- A, B, C, D, F; Non-letter grades -- Credit and No Credit.
 
@@ -30,6 +31,7 @@ Grade types: Letter grades -- A, B, C, D, F; Non-letter grades -- Credit and No 
 | 2015 Spring |         104251        |       Math       |
 | 2015 Spring |         104251        | Computer Science |
 | 2015 Summer |         102673        | Sociology        |
+|...|...|...|
 
 Note that a student may have multiple majors in a semester, which are listed in multiple rows.
 
@@ -63,7 +65,7 @@ The format of <img src="https://latex.codecogs.com/gif.latex?t_{ik}" title="t_{i
  
 **-- command**
 
-*  Set up global parameters and hyperparameters for training in _grade\_prediction/utils.py_
+*  Set up arguments and hyperparameters for training in _grade\_prediction/utils.py_
 *  training: `python grade_prediction/train.py`
 	*  The best model(.pkl) and the log file that records the training loss and validation loss will be saved in [_grade\_prediction/models_](https://github.com/CAHLR/goal-based-recommendation/tree/master/grade_prediction/models). 
 *  Set up _evaluated\_model\_path_ and _evaluated\_semester_ in _grade\_prediction/utils.py_, which corresponds to the model and semester you aim to evaluate. 
@@ -76,9 +78,34 @@ The format of <img src="https://latex.codecogs.com/gif.latex?t_{ik}" title="t_{i
 		* true positive rate, true negative rate, false negative rate, and false positive rate on letter grade prediction and non-letter grade prediction
 		* F-score on letter grade prediction and non-letter grade prediction, overall F-score
 
+### Prerequisite Course Inference:
+
+Use the trained grade prediction model to infer prerequisite courses for a given course, and evaluate the model on a (synthetic) prerequisite course list:
+
+|  prerequisite course  | target course | 
+|:-----------:|:---------------------:|
+|   Computer Science 70 |     Computer Science 188        | 
+| Computer Science 61B |   Computer Science 188              |    
+| Education 1 |         Education 200     | 
+|...        |...| 
+
+**-- command**:
+
+* Set up arguments in _prerequisite\_evaluation/utils.py_
+* Generate filters: `python generate_filters.py`
+	* Filter files (.pkl) will be saved in the current directory.
+	* A python dictionary (*target_id.pkl*) that maps all the target courses to their IDs and the vice versa will be saved in the current directory. The IDs of target courses are from 0 to the number of target course. 
+* (Optional) Evaluate on a given target course: `python prereqs_evaluation.py --target_course_id xxx
+`, xxx is the ID of a target course in *target_id.pkl*.
+	* 	This will save the correctly predicted target-prereq course pairs into a file named *xxx.tsv* in  _prerequisite\_evaluation/results_
+* Evaluate on all target courses: It takes time to evaluate on a target course, so we use the command *qsub* to evaluate on multiple target course parallelly -- `for i in seq 0 n; do echo /usr/bin/python /xxx/.../prereqs_evaluate.py --target_course_id $i|qsub; done `
+	* /xxx/.../prereqs_evaluate.py refers to the absolute path to the file.
+* Merge evaluation results of all target courses: *cat results/*.tsv > all.tsv*
 
 
-Should you have any questions or meet with any problems in running the code, please feel free to contact us (jiangwj[at]berkeley[dot]edu, pardos[at]berkeley[dot]edu).
+
+	
+Should you have any questions or meet with any problems in running the code, please feel free to contact us (jiangwj[at]berkeley[dot]edu, pardos[at]berkeley[dot]edu). Thanks!
 
 
 
