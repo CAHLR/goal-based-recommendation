@@ -3,7 +3,7 @@
 
 This repo includes code for running the three connected tasks (student grade prediction--section 5, prerequisite course inference--section 6, and personalized prerequsite course recommendation--section 7) in this paper:
 
-[Jiang, W.](https://www.jennywjjiang.com), [Pardos, Z.A.](https://gse.berkeley.edu/zachary-pardos), Wei, Q. (2019) [Goal-based Course Recommendation.](https://dl.acm.org/doi/10.1145/3303772.3303814) In C. Brooks, R. Ferguson & U. Hoppe (Eds.) *Proceedings of the 9th International Conference on Learning Analytics and Knowledge* (LAK). ACM. Tempe, Arizona. Pages 36-45.
+* [Jiang, W.](https://www.jennywjjiang.com), [Pardos, Z.A.](https://gse.berkeley.edu/zachary-pardos), Wei, Q. (2019) [Goal-based Course Recommendation.](https://dl.acm.org/doi/10.1145/3303772.3303814) In C. Brooks, R. Ferguson & U. Hoppe (Eds.) *Proceedings of the 9th International Conference on Learning Analytics and Knowledge* (LAK). ACM. Tempe, Arizona. Pages 36-45.
 
 
 ### Dataset Descriptions:
@@ -33,7 +33,7 @@ Grade types: Letter grades -- A, B, C, D, F; Non-letter grades -- Credit and No 
 
 Note that a student may have multiple majors in a semester, which are listed in multiple rows.
 
-## Steps for runing the code
+## Steps for Runing the Code
 ### Environment Prerequisites:
 * python3
 * pytorch
@@ -63,12 +63,13 @@ The format of <img src="https://latex.codecogs.com/gif.latex?t_{ik}" title="t_{i
  
 **-- command**
 
+* `cd grade_prediction`
 *  Set up arguments and hyperparameters for training in _grade\_prediction/utils.py_ (optional)
-*  training: `python grade_prediction/train.py`
+*  training: `python train.py`
 	*  The best model(.pkl) and the log file that records the training loss and validation loss will be saved in [_grade\_prediction/models_](https://github.com/CAHLR/goal-based-recommendation/tree/master/grade_prediction/models). 
 *  Set up _evaluated\_model\_path_ and _evaluated\_semester_ in _grade\_prediction/utils.py_, which corresponds to the model and semester you aim to evaluate (optional).
-*  evaluation: `python grade_prediction/evaluate.py`. 
-	* Evaluation results printed out based on these metrics: 
+*  evaluation: `python evaluate.py`. 
+	* Evaluation results will be printed out based on these metrics: 
 
 		* grade prediction accuracy on enrollments with letter grades
 		* grade prediction accuracy on enrollments with non-letter grades
@@ -89,13 +90,14 @@ Use the trained grade prediction model to infer prerequisite courses for a given
 
 **-- command**:
 
-* Set up arguments in _prerequisite\_evaluation/utils.py_ (optional)
+* `cd prerequisite_evaluation`
+* set up arguments in _prerequisite\_evaluation/utils.py_ (optional)
 * Generate filters: `python generate_filters.py`
 	* Filter files (.pkl) will be saved in the current directory.
 	* A python dictionary (*target_id.pkl*) that maps all the target courses to their IDs and the vice versa will be saved in the current directory. The IDs of target courses are from 0 to the number of target course. 
-* (Optional) Evaluate on a single target course: `python prereqs_evaluation.py --target_course_id xxx
-`, xxx is the ID of a target course in *target_id.pkl*.
-	* 	This will save the correctly predicted target-prereq course pairs into a file named *xxx.tsv* in  _prerequisite\_evaluation/results_
+* Evaluate on a single target course (optional): `python prereqs_evaluation.py --target_course_id xxx
+`, where `xxx` is the ID of a target course in *target_id.pkl*.
+	* 	This will save the correctly predicted target-prereq course pairs into a file named *xxx.tsv* in  [_prerequisite\_evaluation/results_](https://github.com/CAHLR/goal-based-recommendation/tree/master/prerequisite_evaluation/results)
 * Evaluate on all target courses: It takes time to evaluate on a target course, so we use the command *qsub* to evaluate on multiple target course parallelly.
 	* `for i in seq 0 n; do echo /usr/bin/python /xxx/.../prereqs_evaluate.py --target_course_id $i|qsub; done `
 	* `n` is the total number of target courses
@@ -103,9 +105,31 @@ Use the trained grade prediction model to infer prerequisite courses for a given
 * Merge evaluation results of all target courses: `cat results/*.tsv > all.tsv`
 
 
+### 3. Personalized Prerequisite Course Recommendation
 
+**-- command:**
+
+* `cd student_evaluation`
+* Set up arguments in _student\_evaluation/utils.py_
+* Generate a filter: `python generate_sem_courses.py`
+	* A filter file (.pkl) will be saved in the current folder.
+* Evaluate on a goal course: `python personalized_prereqs_evaluation.py --target_course xxx`, where `xxx `is the name of a course (e.g., Subject_33 101) that you intend to set as a goal(target) course.
+	* This will print out (1) the number of well-performing students and under-performing students in this course in the evaluated semester, (2) the recommendation accuracy for the two groups of students.
+	* This will also save the enrollment histories and the recommended courses in the evaluated semester of these students to a csv file in [_student\_evaluation/results_](https://github.com/CAHLR/goal-based-recommendation/tree/master/student_evaluation/results)
+
+
+## Contact and Citation
+Please do not hesitate to contact us (jiangwj[at]berkeley[dot]edu, pardos[at]berkeley[dot]edu) if you have any questions. We appreciate your support and citation if you find this work useful.
+
+```
+@inproceedings{jiang2019goal,
+  title={Goal-based course recommendation},
+  author={Jiang, Weijie and Pardos, Zachary A and Wei, Qiang},
+  booktitle={Proceedings of the 9th International Conference on Learning Analytics \& Knowledge},
+  pages={36--45},
+  year={2019}
+}
+```
+ 
 	
-Should you have any questions or meet with any problems in running the code, please feel free to contact us (jiangwj[at]berkeley[dot]edu, pardos[at]berkeley[dot]edu). 
-
-
 
