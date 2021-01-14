@@ -1,16 +1,14 @@
 # Goal-base Course Recommendation
 ## Introduction
 
-
 This repo includes code for running the three connected tasks (student grade prediction--section 5, prerequisite course inference--section 6, and personalized prerequsite course recommendation--section 7) in this paper:
 
-[Jiang, W.](https://www.jennywjjiang.com), [Pardos, Z.A.](https://gse.berkeley.edu/zachary-pardos), Wei, Q. (2019) [Goal-based Course Recommendation.](https://dl.acm.org/doi/10.1145/3303772.3303814) In C. Brooks, R. Ferguson & U. Hoppe (Eds.) Proceedings of the 9th International Conference on Learning Analytics and Knowledge (LAK). ACM. Tempe, Arizona. Pages 36-45.
-
+[Jiang, W.](https://www.jennywjjiang.com), [Pardos, Z.A.](https://gse.berkeley.edu/zachary-pardos), Wei, Q. (2019) [Goal-based Course Recommendation.](https://dl.acm.org/doi/10.1145/3303772.3303814) In C. Brooks, R. Ferguson & U. Hoppe (Eds.) *Proceedings of the 9th International Conference on Learning Analytics and Knowledge* (LAK). ACM. Tempe, Arizona. Pages 36-45.
 
 
 ### Dataset Descriptions:
 
-Due to privacy protection for the UC Berkeley student enrollment dataset used in the paper, we cannot publish the original dataset. However, we provided a sythetic dataset that consists of simulated student enrollment data and student major data for who are interested in this work to run the code from scratch. The dataset is located in folder [synthetic\_data\_samples](https://github.com/CAHLR/goal-based-recommendation/tree/master/synthetic_data_samples). 
+Due to FERPA privacy protection, we cannot publish the original student enrollment dataset. However, here we provid a sythetic dataset that consists of simulated student enrollment data and student major data to serve as an example of the formatting used to work with the code. The dataset is located in folder [synthetic\_data\_samples](https://github.com/CAHLR/goal-based-recommendation/tree/master/synthetic_data_samples). 
 
 *  _synthetic\_enrollment\_data.csv_
 
@@ -49,7 +47,7 @@ Note that a student may have multiple majors in a semester, which are listed in 
 * Set up global parameters in _data\_preprocess/utils.py_
 * `python data_preprocess/preprocess.py`
 	
-
+This command hard codes the locations of the expected data files to be in the synthetic data folder. This path can be changed in utils.py.
 
 Then the following intermediate files will be generated for model training:
 	
@@ -65,10 +63,10 @@ The format of <img src="https://latex.codecogs.com/gif.latex?t_{ik}" title="t_{i
  
 **-- command**
 
-*  Set up arguments and hyperparameters for training in _grade\_prediction/utils.py_
+*  Set up arguments and hyperparameters for training in _grade\_prediction/utils.py_ (optional)
 *  training: `python grade_prediction/train.py`
 	*  The best model(.pkl) and the log file that records the training loss and validation loss will be saved in [_grade\_prediction/models_](https://github.com/CAHLR/goal-based-recommendation/tree/master/grade_prediction/models). 
-*  Set up _evaluated\_model\_path_ and _evaluated\_semester_ in _grade\_prediction/utils.py_, which corresponds to the model and semester you aim to evaluate. 
+*  Set up _evaluated\_model\_path_ and _evaluated\_semester_ in _grade\_prediction/utils.py_, which corresponds to the model and semester you aim to evaluate (optional).
 *  evaluation: `python grade_prediction/evaluate.py`. 
 	* Evaluation results printed out based on these metrics: 
 
@@ -91,11 +89,11 @@ Use the trained grade prediction model to infer prerequisite courses for a given
 
 **-- command**:
 
-* Set up arguments in _prerequisite\_evaluation/utils.py_
+* Set up arguments in _prerequisite\_evaluation/utils.py_ (optional)
 * Generate filters: `python generate_filters.py`
 	* Filter files (.pkl) will be saved in the current directory.
 	* A python dictionary (*target_id.pkl*) that maps all the target courses to their IDs and the vice versa will be saved in the current directory. The IDs of target courses are from 0 to the number of target course. 
-* (Optional) Evaluate on a given target course: `python prereqs_evaluation.py --target_course_id xxx
+* (Optional) Evaluate on a single target course: `python prereqs_evaluation.py --target_course_id xxx
 `, xxx is the ID of a target course in *target_id.pkl*.
 	* 	This will save the correctly predicted target-prereq course pairs into a file named *xxx.tsv* in  _prerequisite\_evaluation/results_
 * Evaluate on all target courses: It takes time to evaluate on a target course, so we use the command *qsub* to evaluate on multiple target course parallelly.
@@ -107,7 +105,7 @@ Use the trained grade prediction model to infer prerequisite courses for a given
 
 
 	
-Should you have any questions or meet with any problems in running the code, please feel free to contact us (jiangwj[at]berkeley[dot]edu, pardos[at]berkeley[dot]edu). Thanks!
+Should you have any questions or meet with any problems in running the code, please feel free to contact us (jiangwj[at]berkeley[dot]edu, pardos[at]berkeley[dot]edu). 
 
 
 
