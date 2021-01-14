@@ -110,7 +110,7 @@ Use the trained grade prediction model to infer prerequisite courses for a given
 **-- command:**
 
 * `cd student_evaluation`
-* Set up arguments in _student\_evaluation/utils.py_
+* Set up arguments in _student\_evaluation/utils.py_ (optional)
 * Generate a filter: `python generate_sem_courses.py`
 	* A filter file (.pkl) will be saved in the current folder.
 * Evaluate on a goal course: `python personalized_prereqs_evaluation.py --target_course xxx`, where `xxx `is the name of a course (e.g., Subject_33 101) that you intend to set as a goal(target) course.
