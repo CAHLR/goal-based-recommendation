@@ -119,7 +119,7 @@ Use the trained grade prediction model to infer prerequisite courses for a given
 
 
 ## Contact and Citation
-Please do not hesitate to contact us (jiangwj[at]berkeley[dot]edu, pardos[at]berkeley[dot]edu) if you encounter any questions in running the code. We appreciate your support and citation if you find this work useful.
+Please do not hesitate to contact us (jiangwj[at]berkeley[dot]edu, pardos[at]berkeley[dot]edu) if you have any questions or encounter any problems in running the code. We appreciate your support and citation if you find this work useful.
 
 ```
 @inproceedings{jiang2019goal,
