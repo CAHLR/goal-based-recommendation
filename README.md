@@ -8,7 +8,7 @@ This repo includes code for running the three connected tasks (student grade pre
 
 ### Dataset Descriptions:
 
-Due to FERPA privacy protection, we cannot publish the original student enrollment dataset. However, here we provid a sythetic dataset that consists of simulated student enrollment data and student major data to serve as an example of the formatting used to work with the code. The dataset is located in folder [synthetic\_data\_samples](https://github.com/CAHLR/goal-based-recommendation/tree/master/synthetic_data_samples). 
+Due to FERPA privacy protection, we cannot publish the original student enrollment dataset. However, here we provide a sythetic dataset that consists of simulated student enrollment data and student major data to serve as an example of the formatting used to work with the code. The dataset is located in folder [synthetic\_data\_samples](https://github.com/CAHLR/goal-based-recommendation/tree/master/synthetic_data_samples). 
 
 *  _synthetic\_enrollment\_data.csv_
 
